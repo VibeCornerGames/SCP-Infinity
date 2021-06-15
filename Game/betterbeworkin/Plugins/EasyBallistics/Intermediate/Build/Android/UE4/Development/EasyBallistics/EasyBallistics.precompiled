@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.EasyBallistics.cppa7.o",
+		"Module.EasyBallistics.cppa8.o",
+		"Module.EasyBallistics.gen.cppa7.o",
+		"Module.EasyBallistics.gen.cppa8.o"
+	]
+}

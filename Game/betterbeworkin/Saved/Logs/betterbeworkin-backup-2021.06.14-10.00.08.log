@@ -1,0 +1,1356 @@
+﻿Log file open, 06/14/21 10:55:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: betterbeworkin
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.956167
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin EasyBallistics
+LogPluginManager: Mounting plugin PhysicalLayout
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin ProductivityTools
+LogPluginManager: Mounting plugin Prefabricator
+LogPluginManager: Mounting plugin TimeClock
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin UIWS
+LogPluginManager: Mounting plugin ElectronicNodes
+LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Tmp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.14-09.55.14:928][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.14-09.55.14:928][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.14:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.14-09.55.14:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.14-09.55.14:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.14:947][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.15:078][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:078][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.14-09.55.15:078][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.14-09.55.15:078][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:078][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.14-09.55.15:078][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.14-09.55.15:079][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:079][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.14-09.55.15:080][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:081][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.14-09.55.15:081][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.14-09.55.15:081][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.14-09.55.15:093][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.14-09.55.15:094][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.14-09.55.15:095][  0]LogHAL: Display: Platform has ~ 16 GB [17059270656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.14-09.55.15:095][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.14-09.55.15:096][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.14-09.55.15:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.14-09.55.15:097][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.14-09.55.15:119][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.14-09.55.15:119][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.14-09.55.15:119][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.14-09.55.15:119][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.06.14-09.55.15:119][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Editor.ini]
+[2021.06.14-09.55.15:161][  0]LogInit: Computer: MSI
+[2021.06.14-09.55.15:161][  0]LogInit: User: User
+[2021.06.14-09.55.15:161][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.14-09.55.15:161][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.14-09.55.15:161][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.14-09.55.15:165][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.14-09.55.15:165][  0]LogMemory: Process Physical Memory: 136.84 MB used, 136.84 MB peak
+[2021.06.14-09.55.15:165][  0]LogMemory: Process Virtual Memory: 110.99 MB used, 110.99 MB peak
+[2021.06.14-09.55.15:165][  0]LogMemory: Physical Memory: 7497.07 MB used,  8771.91 MB free, 16268.99 MB total
+[2021.06.14-09.55.15:165][  0]LogMemory: Virtual Memory: 134194280.00 MB used,  23448.03 MB free, 134217728.00 MB total
+[2021.06.14-09.55.16:412][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.14-09.55.17:629][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.14-09.55.17:674][  0]LogInit: Using OS detected language (en-GB).
+[2021.06.14-09.55.17:674][  0]LogInit: Using OS detected locale (en-IE).
+[2021.06.14-09.55.18:067][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.06.14-09.55.19:482][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.14-09.55.20:556][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.14-09.55.20:556][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.14-09.55.28:084][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.14-09.55.28:084][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.14-09.55.28:084][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.14-09.55.28:084][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.14-09.55.28:851][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.06.14-09.55.28:851][  0]LogD3D11RHI:       2987/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.14-09.55.28:869][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.06.14-09.55.28:869][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.06.14-09.55.28:874][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.14-09.55.28:874][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.14-09.55.28:874][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.14-09.55.28:941][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.14-09.55.28:941][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.14-09.55.28:941][  0]LogWindows: EnumDisplayDevices:
+[2021.06.14-09.55.28:941][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.06.14-09.55.28:942][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.06.14-09.55.28:942][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.06.14-09.55.28:942][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.06.14-09.55.28:943][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.06.14-09.55.28:943][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.06.14-09.55.28:944][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.06.14-09.55.28:944][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.06.14-09.55.28:944][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.06.14-09.55.28:944][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2021.06.14-09.55.28:944][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2021.06.14-09.55.28:944][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2021.06.14-09.55.29:030][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.14-09.55.29:031][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.14-09.55.29:031][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.14-09.55.30:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.14-09.55.30:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.14-09.55.30:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.14-09.55.31:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.14-09.55.31:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.14-09.55.31:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.14-09.55.31:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.14-09.55.31:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.14-09.55.31:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.14-09.55.31:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.14-09.55.31:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.14-09.55.31:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.14-09.55.31:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.14-09.55.31:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.14-09.55.31:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.14-09.55.31:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.14-09.55.32:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.14-09.55.32:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.14-09.55.32:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.14-09.55.32:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.14-09.55.32:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.14-09.55.32:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.14-09.55.32:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.14-09.55.32:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.14-09.55.32:429][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.14-09.55.33:058][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.14-09.55.34:846][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.14-09.55.34:925][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.14-09.55.34:985][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.14-09.55.35:006][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Intermediate/Shaders/WorkingDirectory/15064/).
+[2021.06.14-09.55.35:006][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Tmp/UnrealShaderWorkingDir/20D803DD4FC7FE24AC276D8DF2BF5A6A/'.
+[2021.06.14-09.55.35:040][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.14-09.55.35:040][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.14-09.55.41:925][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.14-09.55.43:281][  0]LogDerivedDataCache: Loaded boot cache 1.35s 123MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.14-09.55.43:281][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.14-09.55.43:281][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.14-09.55.43:282][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.14-09.55.43:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.14-09.55.43:282][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.14-09.55.43:422][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.14-09.55.43:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.14-09.55.43:422][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.14-09.55.43:604][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.18 seconds
+[2021.06.14-09.55.43:604][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=7.69ms. RandomReadSpeed=14.48MBs, RandomWriteSpeed=112.23MBs. Assigned SpeedClass 'Fast'
+[2021.06.14-09.55.43:605][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.14-09.55.43:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.14-09.55.43:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.14-09.55.43:830][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.14-09.55.44:028][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.14-09.55.46:070][  0]LogAssetRegistry: FAssetRegistry took 0.0068 seconds to start up
+[2021.06.14-09.55.55:989][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.14-09.55.55:989][  0]LogInit: Active device profile: [0000020FA9281900][0000020FA7270BC0 49] Windows
+[2021.06.14-09.55.55:989][  0]LogInit: Profiles: [0000020FA9281900][0000020FA7270BC0 49] Windows, [0000020FA925BB00][0000020FA7278D40 49] WindowsNoEditor, [0000020FA9283300][0000020FA727CEC0 49] WindowsServer, [0000020FA9259000][0000020FA7281040 49] WindowsClient, [0000020FA9281100][0000020FA72851C0 49] IOS, [0000020FA925B800][0000020FA7289340 49] iPadAir, [0000020FA9283200][0000020FA728D4C0 49] iPadAir2, [0000020FA91F6600][0000020FA7275740 49] IPadPro, [0000020FA91F6700][0000020FA7291780 49] iPadAir3, [0000020FA9283700][0000020FA72958C0 49] iPadAir4, [0000020FA91F7C00][0000020FA7299A00 49] iPadMini2, [0000020FA9281F00][0000020FA729DB40 49] iPadMini3, [0000020FA91F5B00][0000020FA72A5CC0 49] iPadMini4, [0000020FA9281D00][0000020FA72A8180 49] iPadMini5, [0000020FA9245F00][0000020FA72B0440 49] iPhone6, [0000020FA9246000][0000020FA72AC480 49] iPodTouch6, [0000020FA925B900][0000020FA72B8740 49] iPhone7, [0000020FA925BA00][0000020FA72B4780 49] iPodTouch7, [0000020FA9247600][0000020FA72BC900 49] iPhone5S, [0000020FA9259800][0000020FA72C0A80 49] iPhone6Plus, [0000020FA9245900][0000020FA72C4C00 49] iPhone6S, [0000020FA9259F00][0000020FA72C8D80 49] iPhone6SPlus, [0000020FA9244C00][0000020FA72CCF00 49] iPhone7Plus, [0000020FA925A300][0000020FA72D1080 49] iPhoneSE, [0000020FA9245200][0000020FA72D5200 49] iPhone8, [0000020FA925B600][0000020FA72D9380 49] iPhone8Plus, [0000020FA9244A00][0000020FA72DD500 49] iPhoneX, [0000020FA9259200][0000020FA72E1680 49] iPhoneXS, [0000020FA9246500][0000020FA72A17C0 49] iPhoneXSMax, [0000020FA9258700][0000020FA72E5900 49] iPhoneXR, [0000020FA9247000][0000020FA72E9A40 49] iPhone11, [0000020FA925AF00][0000020FA72EDB80 49] iPhone11Pro, [0000020FA9245800][0000020FA72F5D00 49] iPhone11ProMax, [0000020FA925A500][0000020FA72F81C0 49] iPhoneSE2, [0000020FA9247C00][0000020FA72FC340 49] iPhone12Mini, [0000020FA925A400][0000020FA73004C0 49] iPhone12, [0000020FA9283A00][0000020FA7304640 49] iPhone12Pro, [0000020FA9245700][0000020FA73087C0 49] iPhone12ProMax, [0000020FA9283C00][0000020FA730C940 49] iPadPro105, [0000020FA9244E00][0000020FA7310AC0 49] iPadPro129, [0000020FA9282D00][0000020FA7314C40 49] iPadPro97, [0000020FA9246C00][0000020FA7318DC0 49] iPadPro2_129, [0000020FA9259700][0000020FA731CF40 49] iPad5, [0000020FA9247800][0000020FA73210C0 49] iPad6, [0000020FA9259A00][0000020FA7325240 49] iPad7, [0000020FA9245100][0000020FA73293C0 49] iPad8, [0000020FA9258C00][0000020FA732D540 49] iPadPro11, [0000020FA9244B00][0000020FA73316C0 49] iPadPro2_11, [0000020FA925B400][0000020FA7335840 49] iPadPro3_129, [0000020FA9244100][0000020FA72F1980 49] iPadPro4_129, [0000020FA925B700][0000020FA7339AC0 49] AppleTV, [0000020FA9247B00][0000020FA733DC00 49] AppleTV4K, [0000020FA9258100][0000020FA6C360C0 49] TVOS, [0000020FA9244500][0000020FA6C3A240 49] Mac, [0000020FA925B200][0000020FA6C3E3C0 49] MacClient, [0000020FA9247400][0000020FA6C42540 49] MacNoEditor, [0000020FA925BF00][0000020FA6C466C0 49] MacServer, [0000020FA9245300][0000020FA6C4A840 49] Linux, [0000020FA925AE00][0000020FA6C4E9C0 49] LinuxAArch64, [0000020FA9246200][0000020FA6C52B40 49] LinuxNoEditor, [0000020FA9259B00][0000020FA6C56CC0 49] LinuxAArch64NoEditor, [0000020FA9247300][0000020FA6C5AE40 49] LinuxClient, [0000020FA925A900][0000020FA6C5EFC0 49] LinuxAArch64Client, [0000020FA9246600][0000020FA6C63140 49] LinuxServer, [0000020FA925A100][0000020FA6C672C0 49] LinuxAArch64Server, [0000020FA9246D00][0000020FA6C6B440 49] Android, [0000020FA9258E00][0000020FA6C6F5C0 49] Android_Low, [0000020FA9245600][0000020FA6C73740 49] Android_Mid, [0000020FA925A600][0000020FA6C778C0 49] Android_High, [0000020FA9246700][0000020FA6C33A00 49] Android_Default, [0000020FA9259900][0000020FA6C7BB40 49] Android_Adreno4xx, [0000020FA9244700][0000020FA6C7FC80 49] Android_Adreno5xx_Low, [0000020FA925BD00][0000020FA6C82100 49] Android_Adreno5xx, [0000020FA9244800][0000020FA6C8A280 49] Android_Adreno6xx, [0000020FA925B300][0000020FA6C8E400 49] Android_Adreno6xx_Vulkan, [0000020FA9246800][0000020FA6C92580 49] Android_Mali_T6xx, [0000020FA925AC00][0000020FA6C96700 49] Android_Mali_T7xx, [0000020FA9244D00][0000020FA6C9A880 49] Android_Mali_T8xx, [0000020FA925AA00][0000020FA6C9EA00 49] Android_Mali_G71, [0000020FA9244F00][0000020FA6CA2B80 49] Android_Mali_G72, [0000020FA9258D00][0000020FA6CA6D00 49] Android_Mali_G72_Vulkan, [0000020FA9246A00][0000020FA6CAAE80 49] Android_Mali_G76, [0000020FA9259300][0000020FA6CAF000 49] Android_Mali_G76_Vulkan, [0000020FA9245A00][0000020FA6CB3180 49] Android_Mali_G77, [0000020FA91F6E00][0000020FA6CB7300 49] Android_Mali_G77_Vulkan, [0000020FA9283900][0000020FA6CBB480 49] Android_Vulkan_SM5, [0000020FA91F4800][0000020FA6CBF600 49] Android_PowerVR_G6xxx, [0000020FA9283400][0000020FA6CC3780 49] Android_PowerVR_GT7xxx, [0000020FA91F4E00][0000020FA6CC7900 49] Android_PowerVR_GE8xxx, [0000020FA9281400][0000020FA6C87A40 49] Android_PowerVR_GM9xxx, [0000020FA91F4900][0000020FA6CCBB80 49] Android_PowerVR_GM9xxx_Vulkan, [0000020FA9280E00][0000020FA6CCFCC0 49] Android_TegraK1, [0000020FA91F4D00][0000020FA6CD2140 49] Android_Unknown_Vulkan, [0000020FA9280C00][0000020FA6CDA2C0 49] Lumin, [0000020FA91F5000][0000020FA6CDE440 49] Lumin_Desktop, [0000020FA9281700][0000020FA6CE25C0 49] HoloLens, 
+[2021.06.14-09.55.59:981][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.14-09.55.59:981][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.14-09.55.59:981][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.14-09.55.59:981][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.14-09.55.59:982][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.14-09.56.01:592][  0]LogNetVersion: betterbeworkin 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4289577308)
+[2021.06.14-09.56.47:731][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.14-09.56.48:458][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.562285 seconds
+[2021.06.14-09.56.48:497][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.14-09.56.48:497][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.14-09.56.48:497][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.14-09.57.07:937][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.14-09.57.08:100][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.14-09.57.17:096][  0]SourceControl: Source control is disabled
+[2021.06.14-09.57.17:096][  0]SourceControl: Source control is disabled
+[2021.06.14-09.57.17:500][  0]SourceControl: Source control is disabled
+[2021.06.14-09.57.17:545][  0]LogLinker: Warning: Failed to read package file summary, the file "../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Ultimate_SFX_Bundle/Warfare_SFX_Bundle/Explosion_Sounds_Pro/Wavs/Explosion_Massive_05.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2021.06.14-09.57.17:545][  0]LogAssetRegistry: Error: Package ../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Ultimate_SFX_Bundle/Warfare_SFX_Bundle/Explosion_Sounds_Pro/Wavs/Explosion_Massive_05.uasset has malformed tag
+[2021.06.14-09.57.17:545][  0]SourceControl: Source control is disabled
+[2021.06.14-09.57.17:891][  0]SourceControl: Source control is disabled
+[2021.06.14-09.57.18:478][  0]LogUProjectInfo: Found projects:
+[2021.06.14-09.57.22:522][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.14-09.57.22:522][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.14-09.57.23:767][  0]LogCollectionManager: Loaded 0 collections in 0.002938 seconds
+[2021.06.14-09.57.23:854][  0]LogFileCache: Scanning file cache for directory 'D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Collections/' took 0.02s
+[2021.06.14-09.57.23:854][  0]LogFileCache: Scanning file cache for directory 'D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Developers/User/Collections/' took 0.00s
+[2021.06.14-09.57.23:854][  0]LogFileCache: Scanning file cache for directory 'D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Collections/' took 0.00s
+[2021.06.14-09.57.24:175][  0]LogOcInput: OculusInput pre-init called
+[2021.06.14-09.57.24:314][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.14-09.57.24:314][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.14-09.57.24:371][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCapture. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.57.24:600][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSWaterBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.57.25:488][  0]LogMaterial: Display: Missing cached shader map for material UIWSWaterMaterial, compiling. 
+[2021.06.14-09.57.25:985][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2021.06.14-09.57.25:985][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2021.06.14-09.57.25:985][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2021.06.14-09.57.25:985][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.06.14-09.57.25:985][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 70
+[2021.06.14-09.57.25:985][  0]LogMaterial: Display: Missing cached shader map for material UIWSWaterMaterial, compiling. 
+[2021.06.14-09.57.26:307][  0]LogMaterial: Display: Missing cached shader map for material UIWSForceSplat, compiling. 
+[2021.06.14-09.57.27:349][  0]LogMaterial: Display: Missing cached shader map for material UIWSManualSplat, compiling. 
+[2021.06.14-09.57.27:443][  0]LogMaterial: Display: Missing cached shader map for material UIWSHeightSim, compiling. 
+[2021.06.14-09.57.27:487][  0]LogMaterial: Display: Missing cached shader map for material UIWSComputeNormal, compiling. 
+[2021.06.14-09.57.27:818][  0]LogMaterial: Display: Missing cached shader map for material PP_UnderWater, compiling. 
+[2021.06.14-09.57.28:015][  0]LogMaterial: Display: Missing cached shader map for material DefaultSplashMat, compiling. 
+[2021.06.14-09.57.28:351][  0]LogMaterial: Display: Missing cached shader map for material DefaultSplashMat1, compiling. 
+[2021.06.14-09.57.28:758][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCustomBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.57.28:758][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSManager. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.57.28:799][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSRiver. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.57.29:324][  0]LogMaterial: Display: Missing cached shader map for material FlowingRiverMat, compiling. 
+[2021.06.14-09.57.29:443][  0]LogMaterial: Display: Missing cached shader map for material FlowingRiverMat, compiling. 
+[2021.06.14-09.57.31:461][  0]LogEngine: Initializing Engine...
+[2021.06.14-09.57.31:501][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.14-09.57.31:515][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.14-09.57.31:923][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.360 s
+[2021.06.14-09.57.31:991][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2021.06.14-09.57.32:917][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2021.06.14-09.57.33:282][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2021.06.14-09.57.33:923][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2021.06.14-09.57.34:555][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2021.06.14-09.57.34:891][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2021.06.14-09.57.34:931][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2021.06.14-09.57.34:980][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2021.06.14-09.57.35:003][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2021.06.14-09.57.35:078][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2021.06.14-09.57.35:110][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2021.06.14-09.57.35:154][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2021.06.14-09.57.35:213][  0]LogMaterial: Display: Missing cached shader map for material EmissiveMeshMaterial, compiling. 
+[2021.06.14-09.57.35:275][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2021.06.14-09.57.35:347][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2021.06.14-09.57.35:381][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2021.06.14-09.57.35:420][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
+[2021.06.14-09.57.35:451][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2021.06.14-09.57.35:497][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2021.06.14-09.57.35:720][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
+[2021.06.14-09.57.35:777][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2021.06.14-09.57.35:813][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2021.06.14-09.57.35:868][  0]LogMaterial: Display: Missing cached shader map for material PhysicalMaterialMaskMaterial, compiling. 
+[2021.06.14-09.57.36:050][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2021.06.14-09.57.36:319][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.14-09.57.36:809][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.14-09.57.36:882][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.14-09.57.37:015][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.14-09.57.37:015][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.14-09.57.37:061][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.14-09.57.37:061][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.14-09.57.37:063][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.14-09.57.37:063][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.14-09.57.37:307][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.14-09.57.37:307][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.14-09.57.37:392][  0]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.06.14-09.57.37:600][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.14-09.57.37:715][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.14-09.57.37:716][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.14-09.57.37:735][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.14-09.57.37:736][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.14-09.57.37:736][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.14-09.57.37:738][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.14-09.57.37:738][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.14-09.57.37:738][  0]LogInit: FAudioDevice initialized.
+[2021.06.14-09.57.37:738][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.14-09.57.37:739][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.14-09.57.38:045][  0]LogDerivedDataCache: Saved boot cache 0.31s 104MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.14-09.57.38:048][  0]LogInit: Texture streaming: Enabled
+[2021.06.14-09.57.38:399][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.14-09.57.38:478][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.14-09.57.38:496][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D4D1F882-452F-3141-7CD3-D487E3D2B044}
+[2021.06.14-09.57.38:497][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.14-09.57.38:525][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.14-09.57.39:550][  0]LogInit: Transaction tracking system initialized
+[2021.06.14-09.57.40:533][  0]BlueprintLog: New page: Editor Load
+[2021.06.14-09.57.43:667][  0]LocalizationService: Localization service is disabled
+[2021.06.14-09.57.45:192][  0]TimingProfiler: Initialize
+[2021.06.14-09.57.45:199][  0]TimingProfiler: OnSessionChanged
+[2021.06.14-09.57.45:199][  0]LoadingProfiler: Initialize
+[2021.06.14-09.57.45:200][  0]LoadingProfiler: OnSessionChanged
+[2021.06.14-09.57.45:200][  0]NetworkingProfiler: Initialize
+[2021.06.14-09.57.45:200][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.14-09.57.45:200][  0]MemoryProfiler: Initialize
+[2021.06.14-09.57.45:200][  0]MemoryProfiler: OnSessionChanged
+[2021.06.14-09.57.45:282][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.06.14-09.57.45:283][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.06.14-09.57.46:901][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.06.14-09.57.46:902][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.06.14-09.57.46:902][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.06.14-09.57.48:300][  0]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2021.06.14-09.57.48:398][  0]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2021.06.14-09.57.48:518][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2021.06.14-09.57.48:548][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2021.06.14-09.57.48:610][  0]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2021.06.14-09.57.48:740][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2021.06.14-09.57.49:046][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4644
+[2021.06.14-09.57.49:046][  0]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2021.06.14-09.57.49:094][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2021.06.14-09.57.49:304][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2021.06.14-09.57.49:341][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2021.06.14-09.57.49:384][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2021.06.14-09.57.49:442][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2021.06.14-09.57.49:571][  0]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2021.06.14-09.57.50:300][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2021.06.14-09.57.50:979][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2021.06.14-09.57.51:805][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4718
+[2021.06.14-09.57.52:336][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4708
+[2021.06.14-09.57.52:336][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2021.06.14-09.57.52:717][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.14-09.57.52:717][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.14-09.57.54:628][  0]LogFileCache: Scanning file cache for directory 'D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Content/' took 0.56s
+[2021.06.14-09.57.56:826][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4706
+[2021.06.14-09.57.58:594][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4696
+[2021.06.14-09.57.59:516][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.06.14-09.57.59:517][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.06.14-09.57.59:773][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.06.14-09.57.59:773][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.06.14-09.58.00:078][  0]TimeClock: Display: TimeClock module startup.
+[2021.06.14-09.58.00:079][  0]TimeClock: Display: TimeClock window button added.
+[2021.06.14-09.58.00:128][  0]TimeClock: Display: Starting TimeClock for known project named: betterbeworkin
+[2021.06.14-09.58.05:038][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.06.14-09.58.05:038][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.06.14-09.58.05:038][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.14-09.58.05:468][  0]SourceControl: Source control is disabled
+[2021.06.14-09.58.05:486][  0]LogUnrealEdMisc: Loading editor; pre map load, took 226.553
+[2021.06.14-09.58.05:746][  0]Cmd: MAP LOAD FILE="../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/Testing/Testing_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.14-09.58.06:026][  0]LightingResults: New page: Lighting Build
+[2021.06.14-09.58.06:358][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.14-09.58.06:406][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.14-09.58.06:532][  0]MapCheck: New page: Map Check
+[2021.06.14-09.58.06:532][  0]LightingResults: New page: Lighting Build
+[2021.06.14-09.58.07:148][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.06.14-09.58.08:233][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.08:234][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.08:235][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.08:236][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.08:237][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.08:238][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.08:488][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.08:490][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.08:491][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.08:492][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.08:493][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.08:494][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.08:739][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.08:740][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.08:741][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.14:112][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4686
+[2021.06.14-09.58.14:112][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4676
+[2021.06.14-09.58.15:324][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.06.14-09.58.15:325][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.06.14-09.58.15:326][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.06.14-09.58.15:667][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.15:668][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.16:066][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.17:339][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4666
+[2021.06.14-09.58.18:243][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.18:243][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.26:546][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4656
+[2021.06.14-09.58.28:822][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4646
+[2021.06.14-09.58.30:104][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/MaterialState.MaterialState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.06.14-09.58.30:108][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/ImpactType.ImpactType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.06.14-09.58.34:302][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4636
+[2021.06.14-09.58.35:538][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Leg IK  contains no LOD Threshold.
+[2021.06.14-09.58.35:539][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.35:539][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_r  contains no LOD Threshold.
+[2021.06.14-09.58.35:540][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandR  contains no LOD Threshold.
+[2021.06.14-09.58.35:540][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandL  contains no LOD Threshold.
+[2021.06.14-09.58.35:540][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB WeaponMount  contains no LOD Threshold.
+[2021.06.14-09.58.35:541][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB WeaponDirect  contains no LOD Threshold.
+[2021.06.14-09.58.35:657][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: ik_hand_l - Target Bone: VB LeftHand  contains no LOD Threshold.
+[2021.06.14-09.58.35:657][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: ik_hand_gun - Target Bone: VB WeaponMount  contains no LOD Threshold.
+[2021.06.14-09.58.35:658][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.35:658][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_r  contains no LOD Threshold.
+[2021.06.14-09.58.35:658][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.06.14-09.58.35:659][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.06.14-09.58.35:659][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.06.14-09.58.35:940][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.06.14-09.58.35:940][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:940][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.06.14-09.58.35:941][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.06.14-09.58.35:941][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:942][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.06.14-09.58.35:942][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:942][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:943][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.06.14-09.58.35:943][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.06.14-09.58.35:943][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.06.14-09.58.35:944][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:944][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.06.14-09.58.35:944][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.06.14-09.58.35:944][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.06.14-09.58.35:945][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: pelvis  contains no LOD Threshold.
+[2021.06.14-09.58.35:945][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: upperarm_r  contains no LOD Threshold.
+[2021.06.14-09.58.35:946][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: upperarm_l  contains no LOD Threshold.
+[2021.06.14-09.58.36:180][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_HandSway.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandR  contains no LOD Threshold.
+[2021.06.14-09.58.36:592][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB LeftHand  contains no LOD Threshold.
+[2021.06.14-09.58.36:593][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.36:593][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.06.14-09.58.37:720][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\Injured_Overlay_AnimBP.uasset: [Compiler] Apply Additive  contains no LOD Threshold.
+[2021.06.14-09.58.38:570][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\RifleAim_Overlay_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.38:570][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\RifleAim_Overlay_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.06.14-09.58.39:071][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_r  contains no LOD Threshold.
+[2021.06.14-09.58.39:071][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.06.14-09.58.39:072][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.06.14-09.58.39:072][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.39:073][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.06.14-09.58.40:292][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.06.14-09.58.40:292][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.06.14-09.58.40:293][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.06.14-09.58.40:293][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.06.14-09.58.40:885][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_CoreAnimBP.uasset: [Compiler] Power IK Ground  contains no LOD Threshold.
+[2021.06.14-09.58.40:885][  0]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_CoreAnimBP.uasset: [Compiler] Power IK Ground  contains no LOD Threshold.
+[2021.06.14-09.58.42:240][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4626
+[2021.06.14-09.58.45:948][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing\Testing_Map.umap: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.45:949][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing\Testing_Map.umap: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.46:630][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Bunker\Materials\M_concrete_plate_floor.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/General_1_PM': Can't find file.
+[2021.06.14-09.58.46:631][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Bunker\Materials\M_concrete_plate_floor.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/General_1_PM': Can't find file.
+[2021.06.14-09.58.46:632][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Bunker\Materials\M_concrete_plate_floor.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/General_1_PM': Can't find file.
+[2021.06.14-09.58.47:907][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4616
+[2021.06.14-09.58.47:908][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4606
+[2021.06.14-09.58.48:632][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing\Testing_Map.umap: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.48:700][  0]LogLinker: Warning: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.48:700][  0]LogLinker: Warning: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.48:772][  0]LogActor: Warning: SetReplicates called on non-initialized actor UIWSWaterBody_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.58.48:778][  0]LogActor: Warning: SetReplicates called on non-initialized actor UIWSManager_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.06.14-09.58.50:776][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.50:776][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D.T_Smoke_D Referenced by MaterialExpressionTextureSample_1
+[2021.06.14-09.58.50:961][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.06.14-09.58.50:962][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D.T_Smoke_D Referenced by MaterialExpressionTextureSample_1
+[2021.06.14-09.58.50:964][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.06.14-09.58.50:964][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M.T_OceonNormalShift2_M Referenced by MaterialExpressionTextureSample_1
+[2021.06.14-09.58.51:103][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.51:103][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N Referenced by MaterialExpressionTextureSample_10
+[2021.06.14-09.58.51:104][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.51:104][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D Referenced by MaterialExpressionTextureSample_9
+[2021.06.14-09.58.51:106][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.51:106][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N Referenced by MaterialExpressionTextureSample_8
+[2021.06.14-09.58.51:443][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing\Testing_Map.umap: Failed to load '/Game/Maps/Testing/Testing_Map_BuiltData': Can't find file.
+[2021.06.14-09.58.51:443][  0]LoadErrors: Failed to load /Game/Maps/Testing/Testing_Map_BuiltData.Testing_Map_BuiltData Referenced by PersistentLevel
+[2021.06.14-09.58.51:452][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.06.14-09.58.51:452][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N Referenced by M_FPGun
+[2021.06.14-09.58.51:453][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.06.14-09.58.51:453][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D Referenced by M_FPGun
+[2021.06.14-09.58.51:454][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.06.14-09.58.51:454][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N Referenced by M_FPGun
+[2021.06.14-09.58.52:639][  0]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Bunker\Materials\M_concrete_plate_floor.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/General_1_PM': Can't find file.
+[2021.06.14-09.58.52:639][  0]LoadErrors: Failed to load /Game/Physics/VFX/Walking_VFX/General_1_PM.General_1_PM Referenced by M_concrete_plate_floor
+[2021.06.14-09.58.53:278][  0]LogMaterial: Display: Missing cached shader map for material Decal_SandSplatter, compiling. 
+[2021.06.14-09.58.53:315][  0]LogMaterial: Display: Missing cached shader map for material Decal_PowderSplatter, compiling. 
+[2021.06.14-09.58.53:347][  0]LogMaterial: Display: Missing cached shader map for material Decal_Oil_Splatter, compiling. 
+[2021.06.14-09.58.53:378][  0]LogMaterial: Display: Missing cached shader map for material Decal_Mud_Splatter, compiling. 
+[2021.06.14-09.58.53:412][  0]LogMaterial: Display: Missing cached shader map for material Decal_Lava_Splatter, compiling. 
+[2021.06.14-09.58.53:445][  0]LogMaterial: Display: Missing cached shader map for material Decal_DustSplatter, compiling. 
+[2021.06.14-09.58.53:478][  0]LogMaterial: Display: Missing cached shader map for material Decal_BrickSplatter2, compiling. 
+[2021.06.14-09.58.53:507][  0]LogMaterial: Display: Missing cached shader map for material Decal_Blood_Splatter_wall, compiling. 
+[2021.06.14-09.58.53:536][  0]LogMaterial: Display: Missing cached shader map for material Decal_Blood_Splatter, compiling. 
+[2021.06.14-09.58.53:568][  0]LogMaterial: Display: Missing cached shader map for material Decal_Acid_Splatter, compiling. 
+[2021.06.14-09.58.53:599][  0]LogMaterial: Display: Missing cached shader map for material Decals_Wood2, compiling. 
+[2021.06.14-09.58.53:636][  0]LogMaterial: Display: Missing cached shader map for material Decals_Wood, compiling. 
+[2021.06.14-09.58.53:680][  0]LogMaterial: Display: Missing cached shader map for material Decals_Tiles, compiling. 
+[2021.06.14-09.58.53:719][  0]LogMaterial: Display: Missing cached shader map for material Decals_Soil, compiling. 
+[2021.06.14-09.58.53:774][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4999
+[2021.06.14-09.58.53:774][  0]LogMaterial: Display: Missing cached shader map for material Decals_Scorch, compiling. 
+[2021.06.14-09.58.53:806][  0]LogMaterial: Display: Missing cached shader map for material Decals_Sand, compiling. 
+[2021.06.14-09.58.53:835][  0]LogMaterial: Display: Missing cached shader map for material Decals_Paper, compiling. 
+[2021.06.14-09.58.53:864][  0]LogMaterial: Display: Missing cached shader map for material Decals_Metal, compiling. 
+[2021.06.14-09.58.53:892][  0]LogMaterial: Display: Missing cached shader map for material Decals_Bricks, compiling. 
+[2021.06.14-09.58.53:921][  0]LogMaterial: Display: Missing cached shader map for material TracerFlare2, compiling. 
+[2021.06.14-09.58.54:040][  0]LogMaterial: Display: Missing cached shader map for material TracerFlare, compiling. 
+[2021.06.14-09.58.54:067][  0]LogMaterial: Display: Missing cached shader map for material DefaultParticle, compiling. 
+[2021.06.14-09.58.54:178][  0]LogMaterial: Display: Missing cached shader map for material whispOne_Master_directional, compiling. 
+[2021.06.14-09.58.54:247][  0]LogMaterial: Display: Missing cached shader map for material MuzzleFlash_Master, compiling. 
+[2021.06.14-09.58.54:324][  0]LogMaterial: Display: Missing cached shader map for material MuzzleFlash_Master, compiling. 
+[2021.06.14-09.58.54:470][  0]LogMaterial: Display: Missing cached shader map for material Decals_Asphalt, compiling. 
+[2021.06.14-09.58.54:534][  0]LogMaterial: Display: Missing cached shader map for material Decals__Ricochet_Gen2, compiling. 
+[2021.06.14-09.58.54:565][  0]LogMaterial: Display: Missing cached shader map for material Decals_Gen1, compiling. 
+[2021.06.14-09.58.54:591][  0]LogMaterial: Display: Missing cached shader map for material Decals_Fabric, compiling. 
+[2021.06.14-09.58.54:619][  0]LogMaterial: Display: Missing cached shader map for material Decals_Dusty, compiling. 
+[2021.06.14-09.58.54:650][  0]LogMaterial: Display: Missing cached shader map for material Decals_Concrete, compiling. 
+[2021.06.14-09.58.54:844][  0]LogMaterial: Display: Missing cached shader map for material M_RU74_Master, compiling. 
+[2021.06.14-09.58.56:112][  0]LogMaterial: Display: Missing cached shader map for material whispOne_Master_directional, compiling. 
+[2021.06.14-09.58.56:215][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/Projectile_Size.Projectile_Size' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.06.14-09.58.56:217][  0]LogMaterial: Display: Missing cached shader map for material whispOne_Master_directional_NOSPHERICALNORMAL, compiling. 
+[2021.06.14-09.58.56:315][  0]LogMaterial: Display: Missing cached shader map for material whispOne_Master_directional_NOSPHERICALNORMAL, compiling. 
+[2021.06.14-09.58.56:401][  0]LogMaterial: Display: Missing cached shader map for material M_raindrop2, compiling. 
+[2021.06.14-09.58.56:450][  0]LogMaterial: Display: Missing cached shader map for material Splash_SubUV, compiling. 
+[2021.06.14-09.58.56:537][  0]LogMaterial: Display: Missing cached shader map for material Splash_SubUV, compiling. 
+[2021.06.14-09.58.56:620][  0]LogMaterial: Display: Missing cached shader map for material Splash, compiling. 
+[2021.06.14-09.58.56:785][  0]LogMaterial: Display: Missing cached shader map for material SplashDisc, compiling. 
+[2021.06.14-09.58.56:917][  0]LogMaterial: Display: Missing cached shader map for material M_MeshEmitWater_MASTER, compiling. 
+[2021.06.14-09.58.57:034][  0]LogMaterial: Display: Missing cached shader map for material SpeckledEmissive, compiling. 
+[2021.06.14-09.58.57:116][  0]LogMaterial: Display: Missing cached shader map for material M_SolidDrop, compiling. 
+[2021.06.14-09.58.57:155][  0]LogMaterial: Display: Missing cached shader map for material DebrisMaster, compiling. 
+[2021.06.14-09.58.57:238][  0]LogMaterial: Display: Missing cached shader map for material DebrisMaster, compiling. 
+[2021.06.14-09.58.57:321][  0]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2021.06.14-09.58.57:352][  0]LogMaterial: Display: Missing cached shader map for material SolidSand_NoRefract, compiling. 
+[2021.06.14-09.58.57:436][  0]LogMaterial: Display: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2021.06.14-09.58.57:463][  0]LogMaterial: Display: Missing cached shader map for material M_Spark_sheet_impacts2, compiling. 
+[2021.06.14-09.58.57:493][  0]LogMaterial: Display: Missing cached shader map for material Ribbon, compiling. 
+[2021.06.14-09.58.57:494][  0]LogMaterial: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.14-09.58.57:494][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.14-09.58.57:504][  0]LogMaterial: Display: Missing cached shader map for material SolidSplash_directional_SSReflective_high, compiling. 
+[2021.06.14-09.58.57:593][  0]LogMaterial: Display: Missing cached shader map for material Splash_SubUV, compiling. 
+[2021.06.14-09.58.57:675][  0]LogMaterial: Display: Missing cached shader map for material M_Single_Master, compiling. 
+[2021.06.14-09.58.57:723][  0]LogMaterial: Display: Missing cached shader map for material Splash_SubUV_emissive, compiling. 
+[2021.06.14-09.58.57:797][  0]LogMaterial: Display: Missing cached shader map for material SolidSplash_spec3_emissive, compiling. 
+[2021.06.14-09.58.57:883][  0]LogMaterial: Display: Missing cached shader map for material Shards_Mat, compiling. 
+[2021.06.14-09.58.57:976][  0]LogMaterial: Display: Missing cached shader map for material Squib_one, compiling. 
+[2021.06.14-09.58.58:066][  0]LogMaterial: Display: Missing cached shader map for material Spark_sheet, compiling. 
+[2021.06.14-09.58.58:093][  0]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2021.06.14-09.58.58:129][  0]LogMaterial: Display: Missing cached shader map for material M_Flare, compiling. 
+[2021.06.14-09.58.58:253][  0]LogMaterial: Display: Missing cached shader map for material SpeckledNormal, compiling. 
+[2021.06.14-09.59.00:678][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7814
+[2021.06.14-09.59.04:206][  0]LogMaterial: Display: Missing cached shader map for material M_Water_Test_01, compiling. 
+[2021.06.14-09.59.04:267][  0]LogMaterial: Display: Missing cached shader map for material Decal_Water_Splatter, compiling. 
+[2021.06.14-09.59.04:295][  0]LogMaterial: Display: Missing cached shader map for material BulletEmissive, compiling. 
+[2021.06.14-09.59.04:301][  0]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2021.06.14-09.59.04:322][  0]LogMaterial: Display: Missing cached shader map for material M_Smoke_FlowMap_MASTER, compiling. 
+[2021.06.14-09.59.04:394][  0]LogMaterial: Display: Missing cached shader map for material M_Smoke_MASTER, compiling. 
+[2021.06.14-09.59.04:493][  0]LogMaterial: Display: Missing cached shader map for material M_Muzzleflash_MASTER, compiling. 
+[2021.06.14-09.59.04:941][  0]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2021.06.14-09.59.05:341][  0]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2021.06.14-09.59.05:384][  0]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2021.06.14-09.59.05:626][  0]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.06.14-09.59.05:631][  0]LogMaterial: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.14-09.59.05:631][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node TextureSample) Texture Sample> Missing input texture
+[2021.06.14-09.59.05:631][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.06.14-09.59.05:631][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.06.14-09.59.06:258][  0]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2021.06.14-09.59.06:352][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.06.14-09.59.06:460][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.06.14-09.59.06:537][  0]LogMaterial: Display: Missing cached shader map for material T_Flashlight_Mat, compiling. 
+[2021.06.14-09.59.07:097][  0]LogMaterial: Display: Missing cached shader map for material MASTER_Tree, compiling. 
+[2021.06.14-09.59.07:179][  0]LogMaterial: Display: Missing cached shader map for material MASTER_Tree, compiling. 
+[2021.06.14-09.59.07:271][  0]LogMaterial: Display: Missing cached shader map for material MASTER_Tree, compiling. 
+[2021.06.14-09.59.07:371][  0]LogMaterial: Display: Missing cached shader map for material MASTER_Tree, compiling. 
+[2021.06.14-09.59.07:465][  0]LogMaterial: Display: Missing cached shader map for material M_concrete_plate_floor, compiling. 
+[2021.06.14-09.59.07:502][  0]LogMaterial: Display: Missing cached shader map for material Master_Billboards, compiling. 
+[2021.06.14-09.59.07:575][  0]LogMaterial: Display: Missing cached shader map for material Master_Billboards, compiling. 
+[2021.06.14-09.59.07:651][  0]LogMaterial: Display: Missing cached shader map for material Default_Eye-SH, compiling. 
+[2021.06.14-09.59.07:798][  0]LogMaterial: Display: Missing cached shader map for material Default-SH, compiling. 
+[2021.06.14-09.59.10:216][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9250
+[2021.06.14-09.59.10:245][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testing_Map'.
+[2021.06.14-09.59.10:247][  0]LogAIModule: Creating AISystem for world Testing_Map
+[2021.06.14-09.59.12:896][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9240
+[2021.06.14-09.59.12:896][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.14-09.59.13:142][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.06.14-09.59.13:185][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.14-09.59.13:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.407ms to complete.
+[2021.06.14-09.59.13:186][  0]LogFileHelpers: Loading map 'Testing_Map' took 67.541
+[2021.06.14-09.59.14:176][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 9230
+[2021.06.14-09.59.14:176][  0]LogUnrealEdMisc: Total Editor Startup Time, took 295.243
+[2021.06.14-09.59.15:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-09.59.15:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-09.59.15:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-09.59.15:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.14-09.59.15:627][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0174 seconds. Added 3695 classes and 904 folders.
+[2021.06.14-09.59.15:733][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.14-09.59.16:116][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.14-09.59.16:116][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.14-09.59.16:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.14-09.59.16:167][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.14-09.59.16:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.14-09.59.16:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.14-09.59.16:202][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.14-09.59.16:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.14-09.59.16:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.14-09.59.16:373][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.14-09.59.16:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.14-09.59.16:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.14-09.59.16:388][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.14-09.59.16:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.14-09.59.16:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.14-09.59.16:402][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.14-09.59.16:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.14-09.59.16:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.06.14-09.59.16:416][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.14-09.59.16:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.14-09.59.16:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.06.14-09.59.16:453][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.14-09.59.16:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.14-09.59.16:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.06.14-09.59.16:483][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.14-09.59.16:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.14-09.59.16:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.06.14-09.59.16:520][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.14-09.59.16:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.14-09.59.16:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.06.14-09.59.16:535][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.14-09.59.16:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.14-09.59.16:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.06.14-09.59.16:551][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.14-09.59.16:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.14-09.59.16:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.06.14-09.59.16:720][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.14-09.59.16:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.14-09.59.16:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.06.14-09.59.16:756][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.14-09.59.16:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.14-09.59.16:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.06.14-09.59.16:770][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.14-09.59.16:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.14-09.59.16:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.06.14-09.59.16:786][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.14-09.59.16:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.14-09.59.16:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.06.14-09.59.16:809][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.14-09.59.16:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.14-09.59.16:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.06.14-09.59.16:825][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.14-09.59.16:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.14-09.59.16:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2021.06.14-09.59.16:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.14-09.59.16:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.14-09.59.16:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2021.06.14-09.59.16:859][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.14-09.59.16:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.14-09.59.16:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2021.06.14-09.59.16:902][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.14-09.59.16:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.14-09.59.16:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2021.06.14-09.59.16:925][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.14-09.59.16:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.14-09.59.16:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000154
+[2021.06.14-09.59.16:941][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.14-09.59.16:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.16:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.14-09.59.16:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.06.14-09.59.17:087][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.14-09.59.17:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.17:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.14-09.59.17:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2021.06.14-09.59.17:102][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.14-09.59.17:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.17:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.14-09.59.17:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2021.06.14-09.59.17:118][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.14-09.59.17:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.14-09.59.17:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.14-09.59.17:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000179
+[2021.06.14-09.59.22:073][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9220
+[2021.06.14-09.59.22:073][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 9210
+[2021.06.14-09.59.22:073][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.14-09.59.23:670][  0]LogSlate: Took 0.028184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.14-09.59.23:800][  0]LogSlate: Took 0.068975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.14-09.59.23:958][  0]LogSlate: Took 0.139685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.14-09.59.24:477][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9200
+[2021.06.14-09.59.24:477][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2021.06.14-09.59.25:047][  0]LogRenderer: Reallocating scene render targets to support 860x284 Format 10 NumSamples 1 (Frame:1).
+[2021.06.14-09.59.27:279][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9211
+[2021.06.14-09.59.27:279][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 9201
+[2021.06.14-09.59.27:555][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.14-09.59.27:555][  0]LogLoad: (Engine Initialization) Total time: 308.62 seconds
+[2021.06.14-09.59.27:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.14-09.59.27:555][  0]LogInit: First time updating LLM stats...
+[2021.06.14-09.59.28:219][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.14-09.59.28:244][  0]TimeClock: Warning: TimeClock Alarm started
+[2021.06.14-09.59.29:669][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9191
+[2021.06.14-09.59.30:202][  0]LogRenderer: Reallocating scene render targets to support 860x292 Format 10 NumSamples 1 (Frame:2).
+[2021.06.14-09.59.30:203][  0]LogSlate: Took 0.044014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.14-09.59.30:567][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Content/' took 2.70s
+[2021.06.14-09.59.30:686][  1]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9181
+[2021.06.14-09.59.31:130][  2]LogSlate: Took 0.064142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.14-09.59.32:443][ 12]LogAssetRegistry: Asset discovery search completed in 226.3737 seconds
+[2021.06.14-09.59.32:649][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9171
+[2021.06.14-09.59.32:650][ 12]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2021.06.14-09.59.33:982][ 62]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9161
+[2021.06.14-09.59.37:094][225]LogSlate: Window 'Message Log' being destroyed
+[2021.06.14-09.59.37:130][225]LogSlate: Window 'Message Log' being destroyed
+[2021.06.14-09.59.39:546][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9151
+[2021.06.14-09.59.40:660][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9141
+[2021.06.14-09.59.40:893][427]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9131
+[2021.06.14-09.59.43:293][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9121
+[2021.06.14-09.59.44:561][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9111
+[2021.06.14-09.59.44:588][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9101
+[2021.06.14-09.59.44:772][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9091
+[2021.06.14-09.59.47:832][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9081
+[2021.06.14-09.59.47:938][470]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9071
+[2021.06.14-09.59.48:454][470]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9061
+[2021.06.14-09.59.48:882][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9051
+[2021.06.14-09.59.50:997][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9041
+[2021.06.14-09.59.51:105][470]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9031
+[2021.06.14-09.59.52:431][470]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9021
+[2021.06.14-09.59.52:436][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9011
+[2021.06.14-09.59.53:209][470]LogRHI: Error: Present Fail Count 1
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.Width 525
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.Height 68
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030942
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:209][470]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:227][470]LogRHI: Error: Present Fail Count 1
+[2021.06.14-09.59.53:227][470]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:227][470]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:227][470]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:228][470]LogRHI: Error: Present Fail Count 1
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Width 422
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Height 80
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000040872
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:228][470]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:291][473]LogRHI: Error: Present Fail Count 2
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:291][473]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:341][476]LogRHI: Error: Present Fail Count 3
+[2021.06.14-09.59.53:341][476]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:342][476]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:392][479]LogRHI: Error: Present Fail Count 4
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:392][479]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:548][482]LogRHI: Error: Present Fail Count 5
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:548][482]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:549][482]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:593][485]LogRHI: Error: Present Fail Count 6
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:593][485]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:594][485]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:644][488]LogRHI: Error: Present Fail Count 7
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:644][488]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:692][491]LogRHI: Error: Present Fail Count 8
+[2021.06.14-09.59.53:692][491]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:692][491]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:692][491]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:692][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:692][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:693][491]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:743][494]LogRHI: Error: Present Fail Count 9
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:743][494]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:792][497]LogRHI: Error: Present Fail Count 10
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:792][497]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:843][501]LogRHI: Error: Present Fail Count 11
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SyncInterval 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000030880
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.14-09.59.53:843][501]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.14-09.59.53:844][501]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.14-09.59.53:922][501]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:428 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2021.06.14-09.59.53:922][501]LogD3D11RHI: [Aftermath] GDynamicRHI=0000020F84504180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.06.14-09.59.53:923][501]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.06.14-10.00.08:518][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9001
+[2021.06.14-10.00.08:518][501]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8991
+[2021.06.14-10.00.08:518][501]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.06.14-10.00.08:518][501]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.06.14-10.00.08:518][501]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.06.14-10.00.08:518][501]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.06.14-10.00.08:623][501]Log file closed, 06/14/21 11:00:08
