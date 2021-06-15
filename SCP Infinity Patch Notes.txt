@@ -1,6 +1,9 @@
 Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimizations)
 
 New Features
+	Game
+	* [New] Added startup splash
+
 	Player
 	* [New] Player start breathing heavily when sprinting for more thhen 5 seconds
 
@@ -11,8 +14,11 @@ New Features
 Fixes
 	Player
 	* [Fix] You can no longer sprint while crouching under a object
+	* [Fix] If started with low health you dont have to sprint first before the walk speed is correctly set
 
-Performance
+Optimization
+	* [Code] Cleaned up Begin Play events
+	* [Code] Added some comments for Seamus so he nows what and how it works (I hope) 
 	* [FPS] Optimised the post proccecing to take less passes without quality loss and renders 0.50ms per frame faster now
 	* [FPS] Scene renders 20ms per frame faster and should give a about 15fps boost
 	
