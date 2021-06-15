@@ -1,0 +1,248 @@
+Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimizations)
+
+New Features
+	Player
+	* [New] Player start breathing heavily when sprinting for more thhen 5 seconds
+
+	Gun Play
+	* [New] You can deal specific damage per body part now
+	* [New] Attempt to make the player move slower when weapon is enquipt
+
+Fixes
+	Player
+	* [Fix] You can no longer sprint while crouching under a object
+
+Performance
+	* [FPS] Optimised the post proccecing to take less passes without quality loss and renders 0.50ms per frame faster now
+	* [FPS] Scene renders 20ms per frame faster and should give a about 15fps boost
+	
+------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.4 (25/04/2021) (Camera Shakes)
+Dev note: Player starts unarmed now and has to pickup weapons first now
+
+New Features
+    Player
+    * [New] Added idle camera shake
+    * [New] Added jump in place camera shake
+    * [New] Added jump while walking camera shake
+    * [New] Added jump while walking camera shake
+    * [New] Added crouch camera shake
+    * [New] Player can now hold shift wile standing still to focus in ADS (should work not 100% sure can't test it)
+
+Chances/Improvements
+    Player
+    * [Change] no camera shake uses FOV Oscillation anymore
+    * [Change] Most camera shakes don't use Location Oscillation anymore
+    * [Improvement] Improved and tweaked some camera shakes
+    * [Change] Internal changes
+    
+    Audio
+    * [Change] Reduced jump sound by 50%
+
+Fixes
+    Player
+    * [Fix] You don't have to press twice to turn off the flash light for the first time anymore
+    * [Fix] Flashlight toggle audio is back
+    
+    Errors
+    * [Fix] Fixed 10 projectile errors
+    * [Fix] Fixed 7 ai errors
+
+Performance
+    Animations
+    * [Optimize] Cleaned up the animation code
+------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.3 (22/04/2021) (Pickups, Weapon Switching, efficiency) 
+Dev note: I needed to restart the project so some stuff might not work properly X(
+
+New Features
+    Player
+    * [New] Player can finely crouch now
+
+    Weapons
+    * [New] Weapons can now be picked up
+    * [New] You can swap weapons now
+
+Chances/Improvements
+    * [Change] You can no longer jump in the air 
+
+Fixes
+    Player
+    * [Fix] You can use a controller properly again
+
+Performance
+    Player
+    * [Optimize] Movement code is more efficient now
+    * [Optimize] Sprint code is a tiny bit more efficient now
+    * [Optimize] Can jump is set directly instead of on begin play
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.2 (10.04.2021) (Multiplayer, Weapons)
+New Features
+    Weapons
+    * [New] Added AK47 reload
+    * [New] Added AK47 reload sounds
+    * [New] Added Ak47 ADS
+
+    Doggo
+    * [New] Added Doggo
+    * [New] Doggo barks randomly every 5-10 seconds
+
+    Multiplayer
+    * [New] It should be possible now to play with 2 players locally
+
+Chances/Improvements
+    Weapons 
+    * [Change] M16 has a better more accurate shooting sound now and uses multiple shoot sounds
+
+Fixes
+    Weapons
+    * [Fix] AK47 spawns correctly now
+    * [Fix] When AK47 enquipt you dont t-pose anymore
+
+Performance
+    Meshes
+    * [Optimize] Reduced moon triangles from 1104 to 601
+------------------------------------------------------------------------------------------------------------------------------------
+Version 0.1 (Mainly fixes and improvements) (06/04/2021) note everything that is already in is not included lol to much effort
+New Features
+	Player
+	* Added takedown (buggy)
+	* Player breaths when getting out of sprinting for >5 seconds 
+
+	Map
+	* Added a drawer that should be opening in interaction (doesn't work oof)
+
+Chances/Improvements
+	Player
+	* The player cant sprint backwards anymore
+	* The player cant sprint sideways anymore
+	
+	AI
+	* Chanced the take down area to further back
+
+	Graphics
+	* Lens flare is a bit less intence now
+	* Colors are a bit cooler now
+	* Colors are a bit desaturated
+
+	Maps
+		Test Map
+		* Added drawer
+		* Added Test Megascans assets
+		* Added Day Night cycle
+		* Added a Moon
+
+Graphics
+	General
+	* Added a dirt mask texture
+	* Added a sligt grain to the screen to add some creepy vibes
+	* Added a tiny motion blur
+	* Added a very bad vignette overlay
+
+	Map
+	* Implemented a new fog that is more customiseble
+
+Audio
+	
+	* Added ambient reverb FX
+	* Added audio concurency
+	* Added sound Attenuation
+	* The player has now 'ears' to represent better audio positioning
+	* Added fall wind sound
+Fixes
+	Player
+	* Fixed a bug that caused the player to stay in sprint mode after sprinting sideways
+	* Fixed a bug that made the player go in sptint mode while standing still after moving
+	* Fixed a bug that made the player go in sptint mode while falling
+	
+	Ai
+	* Fixed a bug that casued to be unable to hit the AI from behind where the takedown area is
+
+Performance
+	Map
+	* Moon cant cast shadow anymore
+	* Moon glow cant cast shadow anymore
+
+	* Changed ADS condition order to be more efficient
+
+------------------------------------------------------------------------------------------------------------------------------------
+<OLD VERSION>
+Version 0.04 (28/02/2021)
+New Features
+	Player
+		Movement
+		* Attempt to add prone
+		* AimOffset reacts 0.1s faster
+
+		Weapons
+		* Added ADS for AK47
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.03 (21/02/2021)
+New Features
+	Player
+		Weapons
+		* Added AK47 gun
+		* Added IK to right hand
+
+Fixes
+* Partly fixed issue that player was able to clip through object when crouching
+------------------------------------------------------------------------------------------------------------------------------------
+Version 0.002.1 (17/02/2021)
+New Features
+	Player
+		Animation
+		* Finely finished turn in place animation
+Map
+	Fixes
+	* Fixed a miss placed tile in the corridor
+	* Fixed all the z-fighting in the corridor
+
+------------------------------------------------------------------------------------------------------------------------------------
+Version 0.002 (17/02/2021)
+New Features
+	Player
+		Animation
+		* Attempt to add turn in place animation
+
+Inprovements
+	PLayer
+	* Added a line trace when crouching detecting if there is a opject obove the player, if true player is unable to uncrouch
+
+Fixes
+	Map
+	* Removed a box that whas white when looking to it at longer distance
+	* Fixed Floating Prop
+
+------------------------------------------------------------------------------------------------------------------------------------
+Version 0.001 (09/02/2021)
+Note
+* Removed the character to start again, not a lot will work
+
+New features
+	Player
+		Movement
+		* Added camera 
+		* Added forward/backwards movement
+		* Added camera look directions
+		
+		Animation
+		* Added walk animation
+		* Added sprint animation
+		* Added jump animation
+		* Added crouch animation
+		* Added AimOffset animation
+		
+
+Fixes
+* Fixed error from ambience sound invalid draw scale
+* Fixed issue that you were able to see player capsule
+* Fixed that the player wasnt able to go under things while crouching
+
+Performance
+* Fixed 129 serve performance loss problems from the lighting
