@@ -1,20 +1,30 @@
-Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimizations)
+Version 0.6
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimisations)
 
 New Features
-	Player
-	* [New] Player start breathing heavily when sprinting for more thhen 5 seconds
+    Game
+    * [New] Added startup splash
 
-	Gun Play
-	* [New] You can deal specific damage per body part now
-	* [New] Attempt to make the player move slower when weapon is enquipt
+    Player
+    * [New] Player start breathing heavily when sprinting for more thhen 5 seconds
+
+    Gun Play
+    * [New] You can deal specific damage per body part now
+    * [New] Attempt to make the player move slower when weapon is enquipt
 
 Fixes
-	Player
-	* [Fix] You can no longer sprint while crouching under a object
+    Player
+    * [Fix] You can no longer sprint while crouching under a object
+    * [Fix] If started with low health you dont have to sprint first before the walk speed is correctly set
 
-Performance
-	* [FPS] Optimised the post proccecing to take less passes without quality loss and renders 0.50ms per frame faster now
-	* [FPS] Scene renders 20ms per frame faster and should give a about 15fps boost
+Optimisation
+    * [Code] Cleaned up Begin Play events
+    * [Code] Added some comments for Seamus so he knows what and how it works (I hope) 
+    * [FPS] Optimised the post processing to take less passes without quality loss and renders 0.50ms per frame faster now
+    * [FPS] Scene renders 20ms per frame faster and should give a about 15fps boost
 	
 ------------------------------------------------------------------------------------------------------------------------------------
 
