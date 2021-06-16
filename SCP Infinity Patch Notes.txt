@@ -1,5 +1,9 @@
 Version 0.6
 
+Fixes
+	Graphics
+	* [Fix] Godrays dont have weird angle anymore and look pwittty now:)
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimisations)
