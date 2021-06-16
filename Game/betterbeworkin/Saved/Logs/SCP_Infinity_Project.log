@@ -1814,3 +1814,14 @@ Script call stack:
 [2021.06.16-19.58.53:778][619]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.16-19.58.53:779][619]LogContentValidation: Display: Validating World /Game/Maps/Testing_Map/FpsProMap.FpsProMap
 [2021.06.16-19.58.53:779][619]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Testing_Map/FpsProMap_BuiltData.FpsProMap_BuiltData
+[2021.06.16-20.00.45:688][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Camera_Shakes/JumpSprintShake_BP.JumpSprintShake_BP
+[2021.06.16-20.00.51:098][486]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/JumpSprintShake_BPB7C4BEAA41809F2BA818AABF775C16F9.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Player/Camera_Shakes/JumpSprintShake_BP.uasset'
+[2021.06.16-20.00.51:118][486]AssetCheck: New page: Asset Save: JumpSprintShake_BP
+[2021.06.16-20.00.51:119][486]LogContentValidation: Display: Validating Blueprint /Game/Player/Camera_Shakes/JumpSprintShake_BP.JumpSprintShake_BP
+[2021.06.16-20.00.52:947][593]BlueprintLog: New page: Compile JumpSprintShake_BP
+[2021.06.16-20.00.52:996][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.06.16-20.00.54:478][675]BlueprintLog: New page: Compile JumpInPlaceShake_BP
+[2021.06.16-20.00.54:525][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.06.16-20.00.54:553][675]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/JumpInPlaceShake_BPC065C8A44EF4C22CC5C2818674902C34.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Player/Camera_Shakes/JumpInPlaceShake_BP.uasset'
+[2021.06.16-20.00.54:578][675]AssetCheck: New page: Asset Save: JumpInPlaceShake_BP
+[2021.06.16-20.00.54:579][675]LogContentValidation: Display: Validating Blueprint /Game/Player/Camera_Shakes/JumpInPlaceShake_BP.JumpInPlaceShake_BP
