@@ -20,36 +20,36 @@ enum class EFireMode : uint8;
 #endif
 #define EASYBALLISTICS_EBBarrel_generated_h
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_107_DELEGATE \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_107_DELEGATE \
 static inline void FReadyToShoot_DelegateWrapper(const FMulticastScriptDelegate& ReadyToShoot) \
 { \
 	ReadyToShoot.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_103_DELEGATE \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_103_DELEGATE \
 static inline void FAmmoDepleted_DelegateWrapper(const FMulticastScriptDelegate& AmmoDepleted) \
 { \
 	AmmoDepleted.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_99_DELEGATE \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_99_DELEGATE \
 static inline void FShotFired_DelegateWrapper(const FMulticastScriptDelegate& ShotFired) \
 { \
 	ShotFired.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_95_DELEGATE \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_95_DELEGATE \
 static inline void FBeforeShotFired_DelegateWrapper(const FMulticastScriptDelegate& BeforeShotFired) \
 { \
 	BeforeShotFired.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS \
 	virtual void ShotFiredMulticast_Implementation(); \
 	virtual bool ShootRepCSA_Validate(bool , FVector_NetQuantize , FVector_NetQuantizeNormal ); \
 	virtual void ShootRepCSA_Implementation(bool Trigger, FVector_NetQuantize NewLocation, FVector_NetQuantizeNormal NewAim); \
@@ -89,7 +89,7 @@ static inline void FBeforeShotFired_DelegateWrapper(const FMulticastScriptDelega
 	DECLARE_FUNCTION(execNextBullet);
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void ShotFiredMulticast_Implementation(); \
 	virtual bool ShootRepCSA_Validate(bool , FVector_NetQuantize , FVector_NetQuantizeNormal ); \
 	virtual void ShootRepCSA_Implementation(bool Trigger, FVector_NetQuantize NewLocation, FVector_NetQuantizeNormal NewAim); \
@@ -129,7 +129,7 @@ static inline void FBeforeShotFired_DelegateWrapper(const FMulticastScriptDelega
 	DECLARE_FUNCTION(execNextBullet);
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_EVENT_PARMS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_EVENT_PARMS \
 	struct EBBarrel_eventApplyRecoil_Parms \
 	{ \
 		UPrimitiveComponent* Component; \
@@ -172,8 +172,8 @@ static inline void FBeforeShotFired_DelegateWrapper(const FMulticastScriptDelega
 	};
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS_NO_PURE_DECLS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEBBarrel(); \
 	friend struct Z_Construct_UClass_UEBBarrel_Statics; \
@@ -196,7 +196,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS \
 private: \
 	static void StaticRegisterNativesUEBBarrel(); \
 	friend struct Z_Construct_UClass_UEBBarrel_Statics; \
@@ -219,7 +219,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_STANDARD_CONSTRUCTORS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UEBBarrel(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEBBarrel) \
@@ -232,7 +232,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_ENHANCED_CONSTRUCTORS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UEBBarrel(UEBBarrel&&); \
@@ -243,33 +243,33 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBBarrel); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UEBBarrel)
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_21_PROLOG \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_EVENT_PARMS
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_21_PROLOG \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_EVENT_PARMS
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_GENERATED_BODY_LEGACY \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_STANDARD_CONSTRUCTORS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_GENERATED_BODY \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_ENHANCED_CONSTRUCTORS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_PRIVATE_PROPERTY_OFFSET \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_SPARSE_DATA \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_CALLBACK_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_INCLASS_NO_PURE_DECLS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -277,7 +277,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> EASYBALLISTICS_API UClass* StaticClass<class UEBBarrel>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h
+#define CURRENT_FILE_ID betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBarrel_h
 
 
 #define FOREACH_ENUM_EFIREMODE(op) \

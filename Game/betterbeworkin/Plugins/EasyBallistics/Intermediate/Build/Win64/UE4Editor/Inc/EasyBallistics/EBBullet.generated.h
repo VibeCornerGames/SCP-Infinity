@@ -22,8 +22,8 @@ class AEBBullet;
 #endif
 #define EASYBALLISTICS_EBBullet_generated_h
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS \
 	virtual void DeactivationBroadcast_Implementation(); \
 	virtual void ReactivationBroadcast_Implementation(FVector_NetQuantize NewLocation, FVector NewVelocity, AActor* BulletOwner, APawn* BulletInstigator); \
 	virtual bool CollisionFilter_Implementation(FHitResult HitResult) const; \
@@ -54,7 +54,7 @@ class AEBBullet;
 	DECLARE_FUNCTION(execSpawnWithExactVelocity);
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void DeactivationBroadcast_Implementation(); \
 	virtual void ReactivationBroadcast_Implementation(FVector_NetQuantize NewLocation, FVector NewVelocity, AActor* BulletOwner, APawn* BulletInstigator); \
 	virtual bool CollisionFilter_Implementation(FHitResult HitResult) const; \
@@ -85,7 +85,7 @@ class AEBBullet;
 	DECLARE_FUNCTION(execSpawnWithExactVelocity);
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_EVENT_PARMS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_EVENT_PARMS \
 	struct EBBullet_eventCollisionFilter_Parms \
 	{ \
 		FHitResult HitResult; \
@@ -211,8 +211,8 @@ class AEBBullet;
 	};
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS_NO_PURE_DECLS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEBBullet(); \
 	friend struct Z_Construct_UClass_AEBBullet_Statics; \
@@ -229,7 +229,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS \
 private: \
 	static void StaticRegisterNativesAEBBullet(); \
 	friend struct Z_Construct_UClass_AEBBullet_Statics; \
@@ -246,7 +246,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_STANDARD_CONSTRUCTORS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AEBBullet(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AEBBullet) \
@@ -259,7 +259,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_ENHANCED_CONSTRUCTORS \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AEBBullet(AEBBullet&&); \
@@ -270,36 +270,36 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEBBullet); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AEBBullet)
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Pooled() { return STRUCT_OFFSET(AEBBullet, Pooled); }
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_26_PROLOG \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_EVENT_PARMS
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_26_PROLOG \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_EVENT_PARMS
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_GENERATED_BODY_LEGACY \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_STANDARD_CONSTRUCTORS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_GENERATED_BODY \
+#define betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_ENHANCED_CONSTRUCTORS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_PRIVATE_PROPERTY_OFFSET \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_SPARSE_DATA \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_CALLBACK_WRAPPERS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_INCLASS_NO_PURE_DECLS \
+	betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -307,7 +307,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> EASYBALLISTICS_API UClass* StaticClass<class AEBBullet>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h
+#define CURRENT_FILE_ID betterbeworkin_Plugins_EasyBallistics_Source_EasyBallistics_Public_EBBullet_h
 
 
 #define FOREACH_ENUM_EEBATMOSPHERETYPE(op) \
