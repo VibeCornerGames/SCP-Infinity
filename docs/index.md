@@ -2,8 +2,11 @@
 ## This is the official page for SCP Infinity
 
 
-## Roadmap
+## Our Timeline
 We are currently developing our game, believe it or not!
+<html>
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=525793" frameborder="0" allowfullscreen></iframe>
+</html>
 
 ## FAQ
 
