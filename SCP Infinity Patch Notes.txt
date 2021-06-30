@@ -1,8 +1,11 @@
 Version 0.6
-
+New Features
+	* [New] Added startup screen
+	* [New] Added temporary loading screen
 Fixes
 	Graphics
 	* [Fix] Godrays dont have weird angle anymore and look pwittty now:)
+	* [Fix] Water ends properly now again
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
