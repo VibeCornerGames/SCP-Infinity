@@ -2,10 +2,22 @@ Version 0.6
 New Features
 	* [New] Added startup screen
 	* [New] Added temporary loading screen
+	
+	Gun Play
+	* [New] Player pulls up his gun when he gets close to a wall
+Changes
+	* [Change] Flashlight is now on top of head to not be messing with the hands and gun
+
 Fixes
+	Gun Play
+	* [Fix] Fixed the M16 wtfffff
+
+	Audio
+	* [Fix] Fixed dubbel reload sound of M16
+
 	Graphics
 	* [Fix] Godrays dont have weird angle anymore and look pwittty now:)
-	* [Fix] Water ends properly now again
+	* [Fix] Water ends properly again
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
