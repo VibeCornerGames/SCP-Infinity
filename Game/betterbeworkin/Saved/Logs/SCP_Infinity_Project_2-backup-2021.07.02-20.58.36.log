@@ -1,0 +1,1230 @@
+﻿Log file open, 07/02/21 22:45:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SCP_Infinity_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182068
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AsyncLoadingScreen
+LogPluginManager: Mounting plugin EasyBallistics
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin PhysicalLayout
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin Prefabricator
+LogPluginManager: Mounting plugin ProductivityTools
+LogPluginManager: Mounting plugin UIWS
+LogPluginManager: Mounting plugin TimeClock
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE5/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.07.02-20.45.14:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.02-20.45.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-20.45.14:986][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-20.45.14:987][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-20.45.14:987][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.02-20.45.14:987][  0]LogHAL: Display: Platform has ~ 64 GB [68669992960 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.02-20.45.14:987][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-20.45.14:987][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.02-20.45.14:988][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.07.02-20.45.14:988][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Editor.ini]
+[2021.07.02-20.45.14:988][  0]LogInit: Computer: FRANZR
+[2021.07.02-20.45.14:988][  0]LogInit: User: droeh
+[2021.07.02-20.45.14:988][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.02-20.45.14:988][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.02-20.45.14:988][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2021.07.02-20.45.14:988][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.02-20.45.14:988][  0]LogMemory: Process Physical Memory: 139.48 MB used, 139.48 MB peak
+[2021.07.02-20.45.14:988][  0]LogMemory: Process Virtual Memory: 111.91 MB used, 111.91 MB peak
+[2021.07.02-20.45.14:988][  0]LogMemory: Physical Memory: 15433.51 MB used,  50055.30 MB free, 65488.81 MB total
+[2021.07.02-20.45.14:988][  0]LogMemory: Virtual Memory: 134169584.00 MB used,  48144.09 MB free, 134217728.00 MB total
+[2021.07.02-20.45.14:992][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.02-20.45.15:022][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.02-20.45.15:022][  0]LogInit: Using OS detected language (en-US).
+[2021.07.02-20.45.15:022][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.02-20.45.15:024][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.02-20.45.15:167][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.02-20.45.15:175][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.02-20.45.15:185][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.02-20.45.15:185][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.02-20.45.15:342][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.02-20.45.15:342][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.02-20.45.15:342][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.02-20.45.15:432][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.07.02-20.45.15:432][  0]LogD3D11RHI:       8011/0/32744 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.02-20.45.15:435][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.02-20.45.15:435][  0]LogD3D11RHI:       0/0/32744 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.02-20.45.15:435][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.02-20.45.15:441][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.02-20.45.15:441][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.02-20.45.15:441][  0]LogWindows: EnumDisplayDevices:
+[2021.07.02-20.45.15:441][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.07.02-20.45.15:441][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.07.02-20.45.15:441][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.07.02-20.45.15:442][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.07.02-20.45.15:442][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.02-20.45.15:442][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.07.02-20.45.15:442][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.07.02-20.45.15:442][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.07.02-20.45.15:442][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.07.02-20.45.15:511][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.02-20.45.15:511][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.02-20.45.15:511][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.02-20.45.15:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.02-20.45.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.02-20.45.15:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.02-20.45.15:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.02-20.45.15:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.02-20.45.15:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.02-20.45.15:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.02-20.45.15:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.02-20.45.15:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.02-20.45.15:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.02-20.45.15:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.02-20.45.15:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.02-20.45.15:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.02-20.45.15:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.02-20.45.15:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.02-20.45.15:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.02-20.45.15:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.02-20.45.15:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.02-20.45.15:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.02-20.45.15:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.02-20.45.15:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.02-20.45.15:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.02-20.45.15:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.02-20.45.15:935][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.02-20.45.15:942][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.02-20.45.16:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.02-20.45.16:005][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.02-20.45.16:005][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.02-20.45.16:005][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Intermediate/Shaders/WorkingDirectory/6116/).
+[2021.07.02-20.45.16:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/droeh/AppData/Local/Temp/UnrealShaderWorkingDir/327CB8454AE04AF03B3C66B637F8A931/'.
+[2021.07.02-20.45.16:005][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.02-20.45.16:005][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.02-20.45.16:711][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: Loaded boot cache 0.06s 105MB C:/Users/droeh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/droeh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.02-20.45.16:774][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.02-20.45.16:785][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.02-20.45.16:785][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.02-20.45.16:785][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.02-20.45.16:790][  0]LogDerivedDataCache: Speed tests for C:/Users/droeh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.02-20.45.16:790][  0]LogDerivedDataCache: Display: Performance to C:/Users/droeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1384.70MBs, RandomWriteSpeed=227.57MBs. Assigned SpeedClass 'Local'
+[2021.07.02-20.45.16:793][  0]LogDerivedDataCache: Using Local data cache path C:/Users/droeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.02-20.45.16:793][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.02-20.45.16:793][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.02-20.45.16:840][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.02-20.45.16:841][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.02-20.45.16:863][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.07.02-20.45.17:085][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-20.45.17:085][  0]LogInit: Active device profile: [0000026341C71900][000002633E9D8180 49] Windows
+[2021.07.02-20.45.17:085][  0]LogInit: Profiles: [0000026341C71900][000002633E9D8180 49] Windows, [0000026341C33F00][000002633E9F2300 49] WindowsNoEditor, [0000026341C73300][000002633E9F6480 49] WindowsServer, [0000026341C31000][000002633E9FA600 49] WindowsClient, [0000026341C71100][000002633E9FE780 49] IOS, [0000026341C33C00][000002633EA02900 49] iPadAir, [0000026341C73200][000002633EA06A80 49] iPadAir2, [00000263419D6600][000002633EA0ED40 49] IPadPro, [00000263419D6700][000002633EA0AD80 49] iPadAir3, [0000026341C73700][000002633EA12F00 49] iPadAir4, [00000263419D7C00][000002633EA17080 49] iPadMini2, [0000026341C71F00][000002633EA1B200 49] iPadMini3, [00000263419D5B00][000002633EA1F380 49] iPadMini4, [0000026341C71D00][000002633EA23500 49] iPadMini5, [0000026341BC9F00][000002633E9DD780 49] iPhone6, [0000026341BCA000][000002633EA277C0 49] iPodTouch6, [0000026341C33D00][0000026340BD7A00 49] iPhone7, [0000026341C33E00][000002633EA2BA40 49] iPodTouch7, [0000026341BCB600][0000026340BDBB80 49] iPhone5S, [0000026341C31800][0000026340BE3D00 49] iPhone6Plus, [0000026341BC9900][0000026340BE61C0 49] iPhone6S, [0000026341C31F00][0000026340BEA340 49] iPhone6SPlus, [0000026341BC8C00][0000026340BEE4C0 49] iPhone7Plus, [0000026341C32A00][0000026340BF2640 49] iPhoneSE, [0000026341BC9200][0000026340BF67C0 49] iPhone8, [0000026341C33A00][0000026340BFA940 49] iPhone8Plus, [0000026341BC8B00][0000026340BFEAC0 49] iPhoneX, [0000026341C31200][0000026340C02C40 49] iPhoneXS, [0000026341BCA300][0000026340C06DC0 49] iPhoneXSMax, [0000026341C30700][0000026340C0AF40 49] iPhoneXR, [0000026341BCB200][0000026340C0F0C0 49] iPhone11, [0000026341C33300][0000026340C13240 49] iPhone11Pro, [0000026341BC9500][0000026340C173C0 49] iPhone11ProMax, [0000026341C32700][0000026340C1B540 49] iPhoneSE2, [0000026341BCBC00][0000026340C1F6C0 49] iPhone12Mini, [0000026341C30F00][0000026340BDF800 49] iPhone12, [0000026341C73A00][0000026340C23940 49] iPhone12Pro, [0000026341BC9700][0000026340C27A80 49] iPhone12ProMax, [0000026341C73C00][0000026340C2BBC0 49] iPadPro105, [0000026341BC8E00][0000026340C33D40 49] iPadPro129, [0000026341C72F00][0000026340C98200 49] iPadPro97, [0000026341BCA400][0000026340C9C380 49] iPadPro2_129, [0000026341C31700][0000026340CA0500 49] iPad5, [0000026341BCB800][0000026340CA4680 49] iPad6, [0000026341C31A00][0000026340CA8800 49] iPad7, [0000026341BC8F00][0000026340CAC980 49] iPad8, [0000026341C30C00][0000026340CB0B00 49] iPadPro11, [0000026341BC8700][0000026340CB4C80 49] iPadPro2_11, [0000026341C32100][0000026340CB8E00 49] iPadPro3_129, [0000026341BCA200][0000026340CBCF80 49] iPadPro4_129, [0000026341C33800][0000026340CC1100 49] AppleTV, [0000026341BC8D00][0000026340CC5280 49] AppleTV4K, [0000026341C30500][0000026340CC9400 49] TVOS, [0000026341BC8300][0000026340CCD580 49] Mac, [0000026341C33200][0000026340CD1700 49] MacClient, [0000026341BC8400][0000026340CD5880 49] MacNoEditor, [0000026341C32C00][0000026340C2F9C0 49] MacServer, [0000026341BCBE00][0000026340CD9B00 49] Linux, [0000026341C33600][0000026340CDDC40 49] LinuxAArch64, [0000026341BCAC00][0000026340CE4100 49] LinuxNoEditor, [0000026341C30100][0000026340CE8280 49] LinuxAArch64NoEditor, [0000026341BC9E00][0000026340CEC400 49] LinuxClient, [0000026341C31C00][0000026340CF0580 49] LinuxAArch64Client, [0000026341BC8900][0000026340CF4700 49] LinuxServer, [0000026341C31B00][0000026340CF8880 49] LinuxAArch64Server, [0000026341BCB100][0000026340CFCA00 49] Android, [0000026341C33000][0000026340D00B80 49] Android_Low, [0000026341BC9100][0000026340D04D00 49] Android_Mid, [0000026341C32600][0000026340D08E80 49] Android_High, [0000026341BCA700][0000026340D0D000 49] Android_Default, [0000026341C30800][0000026340D11180 49] Android_Adreno4xx, [0000026341BCBF00][0000026340D15300 49] Android_Adreno5xx_Low, [0000026341C30900][0000026340D19480 49] Android_Adreno5xx, [0000026341BC8800][0000026340D1D600 49] Android_Adreno6xx, [0000026341C32300][0000026340D21780 49] Android_Adreno6xx_Vulkan, [0000026341BCB500][0000026340D25900 49] Android_Mali_T6xx, [0000026341C32D00][0000026340CE1A40 49] Android_Mali_T7xx, [0000026341BC9000][0000026340D29B80 49] Android_Mali_T8xx, [0000026341C32B00][0000026340D2DCC0 49] Android_Mali_G71, [0000026341BC9B00][0000026340D34180 49] Android_Mali_G72, [0000026341C30A00][0000026340D38300 49] Android_Mali_G72_Vulkan, [0000026341BC9D00][0000026340D3C480 49] Android_Mali_G76, [0000026341C31500][0000026340D40600 49] Android_Mali_G76_Vulkan, [0000026341BCB700][0000026340D44780 49] Android_Mali_G77, [00000263419D6E00][0000026340D48900 49] Android_Mali_G77_Vulkan, [0000026341C70B00][0000026340D4CA80 49] Android_Vulkan_SM5, [00000263419D4800][0000026340D50C00 49] Android_PowerVR_G6xxx, [0000026341C70E00][0000026340D54D80 49] Android_PowerVR_GT7xxx, [00000263419D4C00][0000026340D58F00 49] Android_PowerVR_GE8xxx, [0000026341C71400][0000026340D5D080 49] Android_PowerVR_GM9xxx, [00000263419D4900][0000026340D61200 49] Android_PowerVR_GM9xxx_Vulkan, [0000026341C73F00][0000026340D65380 49] Android_TegraK1, [00000263419D4E00][0000026340D69500 49] Android_Unknown_Vulkan, [0000026341C70100][0000026340D6D680 49] Lumin, [00000263419D4D00][0000026340D71800 49] Lumin_Desktop, [0000026341C71700][0000026340D75980 49] HoloLens, 
+[2021.07.02-20.45.17:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.02-20.45.17:186][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.02-20.45.17:186][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.02-20.45.17:186][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.02-20.45.17:186][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.02-20.45.17:200][  0]LogNetVersion: SCP_Infinity_Project 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 283448291)
+[2021.07.02-20.45.17:569][  0]LogLinker: Warning: Failed to read package file summary, the file "D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Ultimate_SFX_Bundle/Warfare_SFX_Bundle/Explosion_Sounds_Pro/Wavs/Explosion_Massive_05.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2021.07.02-20.45.17:569][  0]LogAssetRegistry: Error: Package D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Ultimate_SFX_Bundle/Warfare_SFX_Bundle/Explosion_Sounds_Pro/Wavs/Explosion_Massive_05.uasset has malformed tag
+[2021.07.02-20.45.17:569][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.02-20.45.17:613][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.043041 seconds
+[2021.07.02-20.45.17:617][  0]LogUObjectArray: 16834 objects as part of root set at end of initial load.
+[2021.07.02-20.45.17:617][  0]LogUObjectAllocator: 4210256 out of 0 bytes used by permanent object pool.
+[2021.07.02-20.45.17:617][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.02-20.45.18:026][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.02-20.45.18:030][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.02-20.45.18:052][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.18:053][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.18:055][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.18:058][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.18:065][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.18:067][  0]LogUProjectInfo: Found projects:
+[2021.07.02-20.45.18:332][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCapture. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.18:335][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSWaterBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.18:405][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCustomBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.18:405][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSManager. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.18:406][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSRiver. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.18:536][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-20.45.18:536][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-20.45.18:576][  0]LogCollectionManager: Loaded 0 collections in 0.000717 seconds
+[2021.07.02-20.45.18:595][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Collections/' took 0.00s
+[2021.07.02-20.45.18:595][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Developers/droeh/Collections/' took 0.00s
+[2021.07.02-20.45.18:595][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Collections/' took 0.00s
+[2021.07.02-20.45.18:595][  0]LogOcInput: OculusInput pre-init called
+[2021.07.02-20.45.18:802][  0]LogEngine: Initializing Engine...
+[2021.07.02-20.45.18:803][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.02-20.45.18:803][  0]LogHMD: Initializing OVRPlugin session
+[2021.07.02-20.45.19:803][  0]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2021.07.02-20.45.19:803][  0]LogHMD: Oculus plugin initialized. Version: 4.26.2-15973114+++UE4+Release-4.26, OVRPlugin: 1.51.0
+[2021.07.02-20.45.19:806][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.07.02-20.45.19:899][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.02-20.45.19:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.02-20.45.19:914][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.02-20.45.19:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.02-20.45.19:917][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-20.45.19:917][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-20.45.19:917][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-20.45.19:917][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-20.45.19:926][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-20.45.19:926][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-20.45.19:946][  0]LogAudioMixer: Display: Using Audio Device Headphones (Razer Nari Ultimate - Game)
+[2021.07.02-20.45.19:949][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-20.45.19:950][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-20.45.19:950][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-20.45.19:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-20.45.19:951][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-20.45.19:951][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-20.45.19:952][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-20.45.19:952][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-20.45.19:952][  0]LogInit: FAudioDevice initialized.
+[2021.07.02-20.45.19:952][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.02-20.45.19:952][  0]LogNetVersion: Set ProjectVersion to 0.6. Version Checksum will be recalculated on next use.
+[2021.07.02-20.45.19:999][  0]LogDerivedDataCache: Saved boot cache 0.05s 105MB C:/Users/droeh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.02-20.45.20:000][  0]LogInit: Texture streaming: Enabled
+[2021.07.02-20.45.20:011][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.02-20.45.20:014][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.02-20.45.20:014][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.02-20.45.20:015][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.02-20.45.20:039][  0]LogInit: Transaction tracking system initialized
+[2021.07.02-20.45.20:056][  0]BlueprintLog: New page: Editor Load
+[2021.07.02-20.45.20:108][  0]LocalizationService: Localization service is disabled
+[2021.07.02-20.45.20:130][  0]TimingProfiler: Initialize
+[2021.07.02-20.45.20:130][  0]TimingProfiler: OnSessionChanged
+[2021.07.02-20.45.20:130][  0]LoadingProfiler: Initialize
+[2021.07.02-20.45.20:130][  0]LoadingProfiler: OnSessionChanged
+[2021.07.02-20.45.20:130][  0]NetworkingProfiler: Initialize
+[2021.07.02-20.45.20:130][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.02-20.45.20:130][  0]MemoryProfiler: Initialize
+[2021.07.02-20.45.20:130][  0]MemoryProfiler: OnSessionChanged
+[2021.07.02-20.45.20:134][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.07.02-20.45.20:134][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.07.02-20.45.20:249][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.02-20.45.20:249][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.02-20.45.20:371][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.07.02-20.45.20:371][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.07.02-20.45.20:523][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/' took 0.18s
+[2021.07.02-20.45.20:523][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.07.02-20.45.20:523][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.07.02-20.45.20:523][  0]TimeClock: Display: TimeClock module startup.
+[2021.07.02-20.45.20:523][  0]TimeClock: Display: TimeClock window button added.
+[2021.07.02-20.45.20:523][  0]TimeClock: Display: Starting TimeClock for known project named: SCP_Infinity_Project
+[2021.07.02-20.45.20:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png' error.
+[2021.07.02-20.45.20:663][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Marketplace/ProductivityToolsLite/Resources/ButtonIcon_40x.png
+[2021.07.02-20.45.20:663][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.02-20.45.20:665][  0]SourceControl: Source control is disabled
+[2021.07.02-20.45.20:665][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.505
+[2021.07.02-20.45.20:665][  0]Cmd: MAP LOAD FILE="D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Maps/Testing_Map/FpsProMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-20.45.20:665][  0]LightingResults: New page: Lighting Build
+[2021.07.02-20.45.20:666][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-20.45.20:666][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.45.20:666][  0]MapCheck: New page: Map Check
+[2021.07.02-20.45.20:666][  0]LightingResults: New page: Lighting Build
+[2021.07.02-20.45.20:672][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Leg IK  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Two Bone IK - Bone: hand_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandR  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandL  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB WeaponMount  contains no LOD Threshold.
+[2021.07.02-20.45.20:724][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_Solver_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB WeaponDirect  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: ik_hand_l - Target Bone: VB LeftHand  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: ik_hand_gun - Target Bone: VB WeaponMount  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:736][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_IK_to_FK_Fix.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.07.02-20.45.20:783][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_03  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: neck_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_01  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: spine_02  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: head  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: pelvis  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: upperarm_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:784][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_ProceduralAimOffset_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: upperarm_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:795][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR\Blueprints\AnimBP\AGR_HandSway.uasset: [Compiler] Transform (Modify) Bone - Bone: VB PerfectHandR  contains no LOD Threshold.
+[2021.07.02-20.45.20:814][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Transform (Modify) Bone - Bone: VB LeftHand  contains no LOD Threshold.
+[2021.07.02-20.45.20:814][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:814][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Animations\FirstPerson\FirstPerson_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.07.02-20.45.20:851][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\Injured_Overlay_AnimBP.uasset: [Compiler] Apply Additive  contains no LOD Threshold.
+[2021.07.02-20.45.20:873][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\RifleAim_Overlay_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:873][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\RifleAim_Overlay_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.07.02-20.45.20:890][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:890][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:890][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:890][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:890][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\StarterIronsight_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.07.02-20.45.20:921][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_r - Target Bone: ik_foot_r  contains no LOD Threshold.
+[2021.07.02-20.45.20:921][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: foot_l - Target Bone: ik_foot_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:921][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_l - Target Bone: ik_hand_l  contains no LOD Threshold.
+[2021.07.02-20.45.20:921][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Blueprints\AnimBP\UE4ASP_Base_AnimBP.uasset: [Compiler] Copy Bone - Source Bone: hand_r - Target Bone: ik_hand_gun  contains no LOD Threshold.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.21:269][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.21:271][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.21:271][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.21:271][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.21:271][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.21:271][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.21:272][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.21:272][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.21:272][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.21:272][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.21:378][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.07.02-20.45.21:378][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.07.02-20.45.21:378][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.07.02-20.45.21:380][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.21:380][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.21:381][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.21:395][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.21:396][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.21:638][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/MaterialState.MaterialState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.07.02-20.45.21:639][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/ImpactType.ImpactType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.07.02-20.45.22:027][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\A_Surface_Footstep\Environment_Assets\Materials\M_Ground_Grass.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/Grass_PM': Can't find file.
+[2021.07.02-20.45.22:027][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\A_Surface_Footstep\Environment_Assets\Materials\M_Ground_Grass.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/Grass_PM': Can't find file.
+[2021.07.02-20.45.22:027][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\A_Surface_Footstep\Environment_Assets\Materials\M_Ground_Grass.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/Grass_PM': Can't find file.
+[2021.07.02-20.45.22:092][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to load '/Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1': Can't find file.
+[2021.07.02-20.45.22:092][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to load '/Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1': Can't find file.
+[2021.07.02-20.45.22:092][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to load '/Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1': Can't find file.
+[2021.07.02-20.45.22:098][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Day Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.22:098][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  Target  no longer exists on node  Day Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.22:099][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Day Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Day Transition
+[2021.07.02-20.45.22:099][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Night Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.22:099][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  Target  no longer exists on node  Night Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.22:099][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Night Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Night Transition
+[2021.07.02-20.45.22:101][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.07.02-20.45.22:104][  0]LogActor: Warning: SetReplicates called on non-initialized actor UIWSWaterBody_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.22:106][  0]LogActor: Warning: SetReplicates called on non-initialized actor UIWSManager_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.45.22:149][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.22:149][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N Referenced by MaterialExpressionTextureSample_10
+[2021.07.02-20.45.22:149][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.22:149][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D Referenced by MaterialExpressionTextureSample_9
+[2021.07.02-20.45.22:149][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.22:149][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N Referenced by MaterialExpressionTextureSample_8
+[2021.07.02-20.45.22:150][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N': Can't find file.
+[2021.07.02-20.45.22:150][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N Referenced by M_FPGun
+[2021.07.02-20.45.22:150][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D': Can't find file.
+[2021.07.02-20.45.22:150][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D Referenced by M_FPGun
+[2021.07.02-20.45.22:150][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to load '/Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N': Can't find file.
+[2021.07.02-20.45.22:150][  0]LoadErrors: Failed to load /Game/AGR_EXAMPLES/Weapons/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N Referenced by M_FPGun
+[2021.07.02-20.45.22:337][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M': Can't find file.
+[2021.07.02-20.45.22:337][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_OceonNormalShift2_M.T_OceonNormalShift2_M Referenced by MaterialExpressionTextureSample_1
+[2021.07.02-20.45.22:378][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional_NOSPHERICALNORMAL.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.22:378][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D.T_Smoke_D Referenced by MaterialExpressionTextureSample_1
+[2021.07.02-20.45.22:384][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\whispOne_Master_directional.uasset: Failed to load '/Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D': Can't find file.
+[2021.07.02-20.45.22:385][  0]LoadErrors: Failed to load /Game/BallisticsVFX/DemoMap/Textures/T_Smoke_D.T_Smoke_D Referenced by MaterialExpressionTextureSample_1
+[2021.07.02-20.45.22:405][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\A_Surface_Footstep\Environment_Assets\Materials\M_Ground_Grass.uasset: Failed to load '/Game/Physics/VFX/Walking_VFX/Grass_PM': Can't find file.
+[2021.07.02-20.45.22:405][  0]LoadErrors: Failed to load /Game/Physics/VFX/Walking_VFX/Grass_PM.Grass_PM Referenced by M_Ground_Grass
+[2021.07.02-20.45.22:504][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to load '/Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1': Can't find file.
+[2021.07.02-20.45.22:504][  0]LoadErrors: Failed to load /Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1.SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1 Referenced by Model001_Mesh1Mat
+[2021.07.02-20.45.22:504][  0]LogLinker: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to load '/Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1': Can't find file.
+[2021.07.02-20.45.22:504][  0]LoadErrors: Failed to load /Game/SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1.SH_initial_loader_exe_Tue_Dec_13_02-22-53_2005_1 Referenced by MaterialExpressionTextureSample_0
+[2021.07.02-20.45.22:600][  0]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.07.02-20.45.22:602][  0]LogMaterial: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\AGR_EXAMPLES\Weapons\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-20.45.22:603][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node TextureSample) Texture Sample> Missing input texture
+[2021.07.02-20.45.22:603][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.07.02-20.45.22:603][  0]LogMaterial: Display: 	Function ML_GlossyBlack_Latex_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.07.02-20.45.22:652][  0]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/Projectile_Size.Projectile_Size' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.07.02-20.45.22:713][  0]LogMaterial: Display: Missing cached shader map for material Ribbon, compiling. 
+[2021.07.02-20.45.22:714][  0]LogMaterial: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\BallisticsVFX\Particles\FXMaterials\SmokeDust\Ribbon.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-20.45.22:714][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.02-20.45.23:030][  0]LogMaterial: Display: Missing cached shader map for material Model001_Mesh1Mat, compiling. 
+[2021.07.02-20.45.23:030][  0]LogMaterial: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Model001_Mesh1Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.02-20.45.23:030][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.02-20.45.23:112][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FpsProMap'.
+[2021.07.02-20.45.23:112][  0]LogAIModule: Creating AISystem for world FpsProMap
+[2021.07.02-20.45.23:134][  0]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.45.23:134][  0]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.45.23:134][  0]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.45.23:134][  0]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.45.23:134][  0]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.45.23:134][  0]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.45.23:142][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.02-20.45.23:168][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.07.02-20.45.23:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.02-20.45.23:169][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.07.02-20.45.23:169][  0]LogFileHelpers: Loading map 'FpsProMap' took 2.504
+[2021.07.02-20.45.23:171][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.010
+[2021.07.02-20.45.23:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.45.23:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.45.23:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.45.23:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.45.23:300][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3697 classes and 907 folders.
+[2021.07.02-20.45.23:302][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.02-20.45.23:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.02-20.45.23:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.02-20.45.23:305][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.02-20.45.23:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.02-20.45.23:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.02-20.45.23:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.02-20.45.23:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.07.02-20.45.23:307][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.02-20.45.23:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.02-20.45.23:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.02-20.45.23:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.02-20.45.23:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.02-20.45.23:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.02-20.45.23:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.07.02-20.45.23:310][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.02-20.45.23:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.02-20.45.23:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.02-20.45.23:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.02-20.45.23:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.07.02-20.45.23:312][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.02-20.45.23:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.02-20.45.23:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.07.02-20.45.23:312][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.02-20.45.23:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.02-20.45.23:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.07.02-20.45.23:313][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.02-20.45.23:313][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.02-20.45.23:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.02-20.45.23:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.02-20.45.23:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.02-20.45.23:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.02-20.45.23:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.07.02-20.45.23:316][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.02-20.45.23:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.02-20.45.23:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.02-20.45.23:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.02-20.45.23:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.07.02-20.45.23:318][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.02-20.45.23:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.02-20.45.23:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.02-20.45.23:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.02-20.45.23:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.02-20.45.23:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.07.02-20.45.23:364][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.02-20.45.23:365][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.02-20.45.23:388][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.02-20.45.23:389][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.02-20.45.23:393][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.02-20.45.23:466][  0]LogRenderer: Reallocating scene render targets to support 1208x564 Format 10 NumSamples 1 (Frame:1).
+[2021.07.02-20.45.23:515][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.02-20.45.23:561][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.02-20.45.23:561][  0]LogLoad: (Engine Initialization) Total time: 9.40 seconds
+[2021.07.02-20.45.23:561][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.02-20.45.23:561][  0]LogInit: First time updating LLM stats...
+[2021.07.02-20.45.23:570][  0]LogOcInput: OculusInput is initialized
+[2021.07.02-20.45.23:739][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.02-20.45.23:741][  0]TimeClock: Warning: TimeClock Alarm started
+[2021.07.02-20.45.23:778][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.02-20.45.23:787][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/' took 0.21s
+[2021.07.02-20.45.24:060][  5]LogAssetRegistry: Asset discovery search completed in 7.1981 seconds
+[2021.07.02-20.45.24:064][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.07.02-20.45.24:587][ 55]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.02-20.45.27:771][382]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-20.45.27:775][382]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-20.45.29:596][593]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.07.02-20.45.29:597][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.02-20.45.29:605][593]LogPlayLevel: [PlayLevel] Compiling FpsProMap before play...
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Day Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  Target  no longer exists on node  Day Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Day Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Day Transition
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Night Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  Target  no longer exists on node  Night Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.45.29:607][593]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Night Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Night Transition
+[2021.07.02-20.45.29:609][593]LogBlueprint: Warning: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2021.07.02-20.45.29:631][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.07.02-20.45.29:633][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2021.07.02-20.45.29:633][593]BlueprintLog: Warning: Blueprint failed to compile:  FpsProMap
+[2021.07.02-20.45.29:633][593]LogCustomDialog: Dialog displayed:
+[2021.07.02-20.45.35:777][593]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Testing_Map/FpsProMap.FpsProMap:PersistentLevel.FpsProMap
+[2021.07.02-20.45.35:904][593]LogClass: Warning: Enum '/Game/BallisticsVFX/FirstPersonBPExamples/FirstPersonAssets/Data/RecoilType.RecoilType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.07.02-20.45.35:905][593]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/ProjectileState.ProjectileState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.07.02-20.45.35:934][593]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.02-20.45.47:088][593]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.07.02-20.45.47:121][593]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.02-20.45.47:188][594]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.02-20.45.49:206][790]LogBlueprint: Warning: Unknown type of hyperlinked object (FpsProMap), cannot focus it
+[2021.07.02-20.45.49:207][790]LogBlueprint: Warning: Unknown type of hyperlinked object (FpsProMap), cannot focus it
+[2021.07.02-20.46.25:132][708]BlueprintLog: New page: Compile FpsProMap
+[2021.07.02-20.46.25:134][708]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Day Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.46.25:134][708]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Day Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Day Transition
+[2021.07.02-20.46.25:134][708]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Night Transition . Please refresh node or break links to remove pin.
+[2021.07.02-20.46.25:134][708]LogBlueprint: Error: [AssetLog] D:\GitHub\SCP_Infinity\SCP-Infinity\Game\betterbeworkin\Content\Maps\Testing_Map\FpsProMap.umap: [Compiler] Could not find a function named "Night Transition" in 'FpsProMap'.
+Make sure 'FpsProMap' has been compiled for  Night Transition
+[2021.07.02-20.46.25:180][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.07.02-20.46.27:381][956]LogEditorTransaction: Undo Break Pin Links
+[2021.07.02-20.46.27:848][977]LogEditorTransaction: Undo Break Pin Links
+[2021.07.02-20.46.40:494][398]LogSlate: Window 'FpsProMap' being destroyed
+[2021.07.02-20.46.43:660][776]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-20.46.43:666][776]LogSlate: Window 'Message Log' being destroyed
+[2021.07.02-20.46.57:981][478]BlueprintLog: New page: Compile FpsProMap
+[2021.07.02-20.46.58:025][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.07.02-20.46.58:048][478]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.07.02-20.46.58:072][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.07.02-20.46.58:163][478]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/FpsProMap9198993248E35DDFE9EEB79DB3476A92.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Maps/Testing_Map/FpsProMap.umap'
+[2021.07.02-20.46.58:173][478]LogFileHelpers: Saving map 'FpsProMap' took 0.125
+[2021.07.02-20.46.58:190][478]AssetCheck: New page: Asset Save: FpsProMap
+[2021.07.02-20.46.58:190][478]LogContentValidation: Display: Validating World /Game/Maps/Testing_Map/FpsProMap.FpsProMap
+[2021.07.02-20.46.59:332][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-20.46.59:337][613]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.07.02-20.46.59:341][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-20.46.59:341][613]PIE: New page: PIE session: FpsProMap (Jul 3, 2021, 12:46:59 AM)
+[2021.07.02-20.46.59:342][613]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.02-20.46.59:343][613]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.02-20.46.59:349][613]LogPlayLevel: Creating play world package: /Game/Maps/Testing_Map/UEDPIE_0_FpsProMap
+[2021.07.02-20.46.59:350][613]LogActor: Warning: SetReplicates called on non-initialized actor UIWSManager_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.46.59:350][613]LogActor: Warning: SetReplicates called on non-initialized actor UIWSWaterBody_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.46.59:369][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020015s)
+[2021.07.02-20.46.59:371][613]LogAIModule: Creating AISystem for world FpsProMap
+[2021.07.02-20.46.59:371][613]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2021.07.02-20.46.59:371][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Map/FpsProMap.FpsProMap to /Game/Maps/Testing_Map/UEDPIE_0_FpsProMap.FpsProMap (0.022087s)
+[2021.07.02-20.46.59:395][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.07.02-20.46.59:397][613]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-20.46.59:397][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-20.46.59:397][613]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-20.46.59:397][613]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-20.46.59:400][613]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-20.46.59:400][613]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-20.46.59:404][613]LogAudioMixer: Display: Using Audio Device Headphones (Razer Nari Ultimate - Game)
+[2021.07.02-20.46.59:404][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-20.46.59:405][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-20.46.59:405][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-20.46.59:405][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-20.46.59:405][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-20.46.59:405][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-20.46.59:419][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-20.46.59:419][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-20.46.59:419][613]LogInit: FAudioDevice initialized.
+[2021.07.02-20.46.59:419][613]LogAudio: Display: Audio Device (ID: 2) registered with world 'FpsProMap'.
+[2021.07.02-20.46.59:445][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.46.59:445][613]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.07.02-20.46.59:451][613]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:451][613]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:451][613]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:451][613]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.46.59:451][613]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.46.59:451][613]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:452][613]LogWorld: Bringing World /Game/Maps/Testing_Map/UEDPIE_0_FpsProMap.FpsProMap up for play (max tick rate 0) at 2021.07.02-22.46.59
+[2021.07.02-20.46.59:454][613]LogWorld: Bringing up level for play took: 0.006581
+[2021.07.02-20.46.59:454][613]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.07.02-20.46.59:457][613]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.02-20.46.59:458][613]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:458][613]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:458][613]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.46.59:458][613]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.46.59:458][613]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.46.59:458][613]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:458][613]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:460][613]LogActor: Warning: SetReplicates called on non-initialized actor UIWSCapture_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.07.02-20.46.59:463][613]PIE: Server logged in
+[2021.07.02-20.46.59:464][613]PIE: Play in editor total start time 0.127 seconds.
+[2021.07.02-20.46.59:484][613]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:484][613]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:860][615]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.07.02-20.46.59:860][615]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:860][615]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.46.59:880][616]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.47.00:751][689]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 29 / 30    - spare: 970
+[2021.07.02-20.47.03:934][993]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 28 / 30    - spare: 970
+[2021.07.02-20.47.03:954][995]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 149.850433
+[2021.07.02-20.47.03:954][995]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/BallisticsVFX/SFX/Impacts/Generic_Ground_Impacts.Generic_Ground_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2021.07.02-20.47.04:024][  1]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 27 / 30    - spare: 970
+[2021.07.02-20.47.04:057][  4]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 123.37896
+[2021.07.02-20.47.04:129][ 10]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 26 / 30    - spare: 970
+[2021.07.02-20.47.04:157][ 12]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 170.449539
+[2021.07.02-20.47.04:226][ 18]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 25 / 30    - spare: 970
+[2021.07.02-20.47.04:249][ 20]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 162.893372
+[2021.07.02-20.47.04:326][ 27]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 24 / 30    - spare: 970
+[2021.07.02-20.47.04:348][ 29]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 174.342499
+[2021.07.02-20.47.04:428][ 36]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 23 / 30    - spare: 970
+[2021.07.02-20.47.04:457][ 39]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 164.632156
+[2021.07.02-20.47.04:837][ 72]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 22 / 30    - spare: 970
+[2021.07.02-20.47.04:858][ 74]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 141.572144
+[2021.07.02-20.47.04:930][ 80]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 21 / 30    - spare: 970
+[2021.07.02-20.47.04:952][ 82]LogBlueprintUserMessages: [BP_FpsProCharacter_2] 197.28772
+[2021.07.02-20.47.05:029][ 89]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 20 / 30    - spare: 970
+[2021.07.02-20.47.05:300][112]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/BallisticsVFX/SFX/Impacts/Ricochets.Ricochets was zero and has changed. Consider manually Re-saving the asset
+[2021.07.02-20.47.05:477][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-20.47.05:477][124]LogWorld: BeginTearingDown for /Game/Maps/Testing_Map/UEDPIE_0_FpsProMap
+[2021.07.02-20.47.05:477][124]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-20.47.05:482][124]LogWorld: UWorld::CleanupWorld for FpsProMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-20.47.05:483][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.47.05:494][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-20.47.05:501][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.47.05:528][124]LogScript: Warning: Script Msg: No world was found for object (/Game/Maps/Testing_Map/UEDPIE_0_FpsProMap.FpsProMap:PersistentLevel.UIWSWaterBody_1) passed in to UEngine::GetWorldFromContextObject().
+[2021.07.02-20.47.05:533][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-20.47.05:534][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-20.47.05:535][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-20.47.05:576][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.07.02-20.47.05:594][125]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.07.02-20.47.08:176][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.07.02-20.47.08:740][479]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.47.08:770][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.07.02-20.48.15:591][920]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/Pause_Munu/Pause_Menu_Widget.Pause_Menu_Widget
+[2021.07.02-20.48.51:876][ 87]BlueprintLog: New page: Compile Pause_Menu_Widget
+[2021.07.02-20.48.51:958][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.07.02-20.48.51:981][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Pause_Munu/Pause_Menu_Widget" FILE="D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset" SILENT=true
+[2021.07.02-20.48.51:993][ 87]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Pause_Menu_Widget81D9E6D34772D94BFB82AD81A1B0B62F.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset'
+[2021.07.02-20.48.52:007][ 87]AssetCheck: New page: Asset Save: Pause_Menu_Widget
+[2021.07.02-20.48.52:007][ 87]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/Pause_Munu/Pause_Menu_Widget.Pause_Menu_Widget
+[2021.07.02-20.48.53:426][254]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.48.53:479][254]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.07.02-20.49.30:021][705]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-20.49.30:021][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.49.34:853][179]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.34:853][179]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.34:853][179]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.34:853][179]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.49.34:853][179]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.49.34:853][179]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.49.34:854][179]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.49.36:300][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AGR_EXAMPLES/GamePlay/FpsPro/BP_FpsProCharacter.BP_FpsProCharacter
+[2021.07.02-20.49.36:691][323]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.36:691][323]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.36:691][323]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.07.02-20.49.36:691][323]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.49.36:691][323]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/AGR/Blueprints/AnimBP/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.07.02-20.49.36:692][323]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.49.36:692][323]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.49.36:980][324]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.49.36:980][324]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.07.02-20.50.54:665][207]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.50.54:735][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.07.02-20.50.56:636][207]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-20.50.56:659][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Pause_Munu/Pause_Menu_Widget" FILE="D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset" SILENT=true
+[2021.07.02-20.50.56:671][207]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Pause_Menu_WidgetB155F3A14D3A470C3F47D981ED5F1CCC.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset'
+[2021.07.02-20.50.56:697][208]AssetCheck: New page: Asset Save: Pause_Menu_Widget
+[2021.07.02-20.50.56:697][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/Pause_Munu/Pause_Menu_Widget.Pause_Menu_Widget
+[2021.07.02-20.51.45:694][481]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Testing_Map/FpsProMap.FpsProMap:PersistentLevel.FpsProMap
+[2021.07.02-20.52.13:508][726]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-20.52.13:508][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.52.16:046][  6]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Testing_Map/FpsProMap.FpsProMap:PersistentLevel.FpsProMap
+[2021.07.02-20.52.17:326][122]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-20.52.17:326][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-20.52.24:349][940]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.52.24:423][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.07.02-20.52.25:778][940]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-20.52.25:802][940]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.07.02-20.52.25:835][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.07.02-20.52.25:923][940]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/FpsProMapB26BCE15450D4E4E2955AA8A2D8781F3.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Maps/Testing_Map/FpsProMap.umap'
+[2021.07.02-20.52.25:933][940]LogFileHelpers: Saving map 'FpsProMap' took 0.132
+[2021.07.02-20.52.25:958][941]AssetCheck: New page: Asset Save: FpsProMap
+[2021.07.02-20.52.25:958][941]LogContentValidation: Display: Validating World /Game/Maps/Testing_Map/FpsProMap.FpsProMap
+[2021.07.02-20.54.58:274][871]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.54.58:313][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.02-20.55.00:251][871]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-20.55.00:543][871]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/BP_FpsProCharacter4A85EC3D4375EA42BFB1BC9ACAB8BDF2.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/AGR_EXAMPLES/GamePlay/FpsPro/BP_FpsProCharacter.uasset'
+[2021.07.02-20.55.00:545][871]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.07.02-20.55.00:577][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.02-20.55.00:669][871]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/FpsProMapB91170D2438872022B47C5B95DBE5C1F.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Maps/Testing_Map/FpsProMap.umap'
+[2021.07.02-20.55.00:681][871]LogFileHelpers: Saving map 'FpsProMap' took 0.137
+[2021.07.02-20.55.00:712][872]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.02-20.55.00:712][872]LogContentValidation: Display: Validating Blueprint /Game/AGR_EXAMPLES/GamePlay/FpsPro/BP_FpsProCharacter.BP_FpsProCharacter
+[2021.07.02-20.55.00:712][872]LogContentValidation: Display: Validating World /Game/Maps/Testing_Map/FpsProMap.FpsProMap
+[2021.07.02-20.57.32:792][133]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.57.32:832][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.07.02-20.57.34:487][133]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-20.57.34:502][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Pause_Munu/Pause_Menu_Widget" FILE="D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset" SILENT=true
+[2021.07.02-20.57.34:515][133]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Pause_Menu_Widget217FD79D4D1224FFD9F58D8A2B50D89A.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset'
+[2021.07.02-20.57.34:539][134]AssetCheck: New page: Asset Save: Pause_Menu_Widget
+[2021.07.02-20.57.34:539][134]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/Pause_Munu/Pause_Menu_Widget.Pause_Menu_Widget
+[2021.07.02-20.58.01:616][101]LogTemp: Repeating last play command: Standalone Game
+[2021.07.02-20.58.01:658][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.02-20.58.02:767][101]LogSlate: Window 'Save Content' being destroyed
+[2021.07.02-20.58.02:783][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Pause_Munu/Pause_Menu_Widget" FILE="D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset" SILENT=true
+[2021.07.02-20.58.02:795][101]LogSavePackage: Moving 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Saved/Pause_Menu_WidgetAC1757D84847DF34CF2A39BA24D9F6FF.tmp' to 'D:/GitHub/SCP_Infinity/SCP-Infinity/Game/betterbeworkin/Content/Menus/Pause_Munu/Pause_Menu_Widget.uasset'
+[2021.07.02-20.58.02:821][102]AssetCheck: New page: Asset Save: Pause_Menu_Widget
+[2021.07.02-20.58.02:821][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/Pause_Munu/Pause_Menu_Widget.Pause_Menu_Widget
+[2021.07.02-20.58.35:092][430]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (887a0007)
+[2021.07.02-20.58.35:094][430]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2021.07.02-20.58.35:095][430]LogD3D11RHI: [Aftermath] GDynamicRHI=000002631E045B40, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.07.02-20.58.35:095][430]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.07.02-20.58.36:486][430]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.02-20.58.36:507][430]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-20.58.36:507][430]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-20.58.36:607][430]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.07.02-20.58.36:607][430]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.07.02-20.58.36:607][430]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.07.02-20.58.36:607][430]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.07.02-20.58.36:654][430]Log file closed, 07/02/21 22:58:36
