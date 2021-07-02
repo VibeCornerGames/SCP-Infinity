@@ -1173,8 +1173,3 @@ Script call stack:
  with error DXGI_ERROR_DEVICE_REMOVED 00000000
 [2021.07.01-20.01.42:144][566]LogD3D11RHI: [Aftermath] GDynamicRHI=000002772F069BC0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
 [2021.07.01-20.01.42:144][566]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2021.07.01-20.01.47:545][567]LogWindows: FPlatformMisc::RequestExit(0)
-[2021.07.01-20.01.47:546][567]LogCore: Engine exit requested (reason: Win RequestExit)
-[2021.07.01-20.01.47:546][567]LogWindows: FPlatformMisc::RequestExit(1)
-[2021.07.01-20.01.47:546][567]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
-[2021.07.01-20.01.47:753][567]Log file closed, 07/01/21 21:01:47
