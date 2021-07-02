@@ -1,12 +1,23 @@
-Version 0.6
+Version 0.06 (Menus and Weapons)(02/07/2021)
+Dev note: Confirmed that specific damage by bone is working:) lot of progress past days love it
+
 New Features
-	* [New] Added startup screen
-	* [New] Added temporary loading screen
+	* [New] Added Main Menu
+	* [New] Added Loading Screen
+	* [New] Added Pause Menu
 	
 	Gun Play
 	* [New] Player pulls up his gun when he gets close to a wall
+	* [New] Added beta AK47
+
+	Map
+	*[New] Added a mirror so RTX peeps can see how ugly they are
+
 Changes
 	* [Change] Flashlight is now on top of head to not be messing with the hands and gun
+
+	Map
+	* [Fix] Removed some invisible cubes in the testing place
 
 Fixes
 	Gun Play
@@ -21,7 +32,7 @@ Fixes
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.5 (15/06/2021) (Advanced Damage and fixes/optimisations)
+Version 0.05 (15/06/2021) (Advanced Damage and fixes/optimisations)
 
 New Features
     Game
@@ -47,7 +58,7 @@ Optimisation
 	
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.4 (25/04/2021) (Camera Shakes)
+Version 0.04 (25/04/2021) (Camera Shakes)
 Dev note: Player starts unarmed now and has to pickup weapons first now
 
 New Features
@@ -83,7 +94,7 @@ Performance
     * [Optimize] Cleaned up the animation code
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.3 (22/04/2021) (Pickups, Weapon Switching, efficiency) 
+Version 0.03 (22/04/2021) (Pickups, Weapon Switching, efficiency) 
 Dev note: I needed to restart the project so some stuff might not work properly X(
 
 New Features
@@ -109,7 +120,7 @@ Performance
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.2 (10.04.2021) (Multiplayer, Weapons)
+Version 0.02 (10.04.2021) (Multiplayer, Weapons)
 New Features
     Weapons
     * [New] Added AK47 reload
@@ -136,7 +147,7 @@ Performance
     Meshes
     * [Optimize] Reduced moon triangles from 1104 to 601
 ------------------------------------------------------------------------------------------------------------------------------------
-Version 0.1 (Mainly fixes and improvements) (06/04/2021) note everything that is already in is not included lol to much effort
+Version 0.01 (Mainly fixes and improvements) (06/04/2021) note everything that is already in is not included lol to much effort
 New Features
 	Player
 	* Added takedown (buggy)
@@ -200,7 +211,7 @@ Performance
 
 ------------------------------------------------------------------------------------------------------------------------------------
 <OLD VERSION>
-Version 0.04 (28/02/2021)
+Version 0.004 (28/02/2021)
 New Features
 	Player
 		Movement
@@ -212,7 +223,7 @@ New Features
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.03 (21/02/2021)
+Version 0.003 (21/02/2021)
 New Features
 	Player
 		Weapons
@@ -222,7 +233,7 @@ New Features
 Fixes
 * Partly fixed issue that player was able to clip through object when crouching
 ------------------------------------------------------------------------------------------------------------------------------------
-Version 0.002.1 (17/02/2021)
+Version 0.0002.1 (17/02/2021)
 New Features
 	Player
 		Animation
@@ -233,7 +244,7 @@ Map
 	* Fixed all the z-fighting in the corridor
 
 ------------------------------------------------------------------------------------------------------------------------------------
-Version 0.002 (17/02/2021)
+Version 0.0002 (17/02/2021)
 New Features
 	Player
 		Animation
@@ -249,7 +260,7 @@ Fixes
 	* Fixed Floating Prop
 
 ------------------------------------------------------------------------------------------------------------------------------------
-Version 0.001 (09/02/2021)
+Version 0.0001 (09/02/2021)
 Note
 * Removed the character to start again, not a lot will work
 
