@@ -1,4 +1,4 @@
-Version 0.06 (Menus and Weapons)(02/07/2021)
+Version 0.06 (Menus and Weapons)(03/07/2021)
 Dev note: Confirmed that specific damage by bone is working:) lot of progress past days love it
 
 New Features
@@ -11,13 +11,17 @@ New Features
 	* [New] Added beta AK47
 
 	Map
-	*[New] Added a mirror so RTX peeps can see how ugly they are
+	* [New] Added a mirror so RTX peeps can see how ugly they are (didnt work lmao)
+	* [New] Added some map particles
 
+	Audio
+	* [New] Added SFX to buttons in menu's
 Changes
 	* [Change] Flashlight is now on top of head to not be messing with the hands and gun
 
 	Map
 	* [Fix] Removed some invisible cubes in the testing place
+
 
 Fixes
 	Gun Play
@@ -29,6 +33,7 @@ Fixes
 	Graphics
 	* [Fix] Godrays dont have weird angle anymore and look pwittty now:)
 	* [Fix] Water ends properly again
+	* [Fix] Fixed a issue that caused the player to be stick in the pause menu post process when pressing back to game
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
