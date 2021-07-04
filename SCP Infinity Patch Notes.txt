@@ -1,3 +1,18 @@
+Version 0.07
+
+New Features
+	* [New] Added option menu (!currently only works in the in game button and not on the main menu becuase i have to make it 2 times because it has a otehr background so i dont have to do stuff 2 times when i change something in the settings!)
+	
+	Options
+	* [New] Added resolution options
+	* [New] Added texture quality options
+	* [New] Added Anit-Alias quality settings
+	* [New] Added show FPS button
+	* [New] Added view distance options
+	* [New] Added View godrays option
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 Version 0.06 (Menus and Weapons)(03/07/2021)
 Dev note: Confirmed that specific damage by bone is working:) lot of progress past days love it
 
