@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/04/21 18:46:26
+=======
+﻿Log file open, 07/04/21 09:03:24
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 07/04/21 09:03:24
 >>>>>>> Stashed changes
@@ -7,6 +11,7 @@ LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: SCP_Infinity_Project
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.319790
@@ -19,11 +24,18 @@ LogStats: Stats thread started at 0.750038
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 >>>>>>> Stashed changes
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.750038
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin AssetManagerEditor
@@ -45,6 +57,8 @@ LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -69,6 +83,9 @@ LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin FacialAnimation
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
@@ -81,8 +98,11 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin ControlRig
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Niagara
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin DatasmithContent
@@ -99,6 +119,7 @@ LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AsyncLoadingScreen
 LogPluginManager: Mounting plugin EasyBallistics
 LogPluginManager: Mounting plugin ElectronicNodes
@@ -111,12 +132,17 @@ LogPluginManager: Mounting plugin TimeClock
 LogPluginManager: Mounting plugin PowerIK
 LogPluginManager: Mounting plugin UIWS
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -136,6 +162,7 @@ LogPluginManager: Mounting plugin ProductivityTools
 LogPluginManager: Mounting plugin TimeClock
 LogPluginManager: Mounting plugin TcpMessaging
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
@@ -143,6 +170,8 @@ LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
@@ -286,6 +315,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.07.04-16.46.27:155][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.07.04-16.46.27:155][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -4650,6 +4680,8 @@ Script call stack:
 [2021.07.04-17.44.10:508][395]LogExit: Exiting.
 [2021.07.04-17.44.10:530][395]Log file closed, 07/04/21 19:44:10
 =======
+=======
+>>>>>>> Stashed changes
 [2021.07.04-08.03.28:476][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.07.04-08.03.28:476][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.07.04-08.03.28:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
@@ -6264,4 +6296,7 @@ Script call stack:
 [2021.07.04-08.32.12:424][139]LogWindows: FPlatformMisc::RequestExit(1)
 [2021.07.04-08.32.12:424][139]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
 [2021.07.04-08.32.12:596][139]Log file closed, 07/04/21 09:32:12
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
