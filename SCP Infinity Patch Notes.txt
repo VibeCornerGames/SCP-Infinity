@@ -7,9 +7,14 @@ New Features
 	* [New] Added resolution options
 	* [New] Added texture quality options
 	* [New] Added Anit-Alias quality settings
-	* [New] Added show FPS button
+	* [New] Added show FPS toggel
 	* [New] Added view distance options
 	* [New] Added View godrays option
+	* [New] Added Bloom toggel
+	* [New] Added master volume slider
+	* [New] Added Ambience volume slider
+	* [New] Added music volume slider
+	* [New] Added Field Of View slider
 
 	Gunplay
 	* [New] Player cant start shooting while sprinting
