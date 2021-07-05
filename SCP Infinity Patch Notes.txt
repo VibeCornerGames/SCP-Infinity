@@ -11,6 +11,18 @@ New Features
 	* [New] Added view distance options
 	* [New] Added View godrays option
 
+	Gunplay
+	* [New] Player cant start shooting while sprinting
+	
+	Chances 
+	* [Change] Players cam is a bit more back
+
+	Fixes
+	Gunplay
+	* [Fix] Gun always shoots where the barrel is pointing that fixed a lot of weird issues where gun was shooting in random directions and also saves 2fps
+
+	Graphics
+	* [Fix] Fixed the DOF issue
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.06 (Menus and Weapons)(03/07/2021)
