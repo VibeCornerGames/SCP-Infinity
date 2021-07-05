@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 07/05/21 10:32:42
+=======
+﻿Log file open, 07/04/21 18:46:26
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 =======
 ﻿Log file open, 07/04/21 18:46:26
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
@@ -8,16 +12,22 @@ LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: SCP_Infinity_Project
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.323517
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 =======
+=======
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.319790
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin MegascansPlugin
+<<<<<<< HEAD
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
+=======
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
@@ -71,12 +81,16 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< HEAD
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
+=======
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -101,14 +115,22 @@ LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ControlRig
 LogPluginManager: Mounting plugin Niagara
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
+=======
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin Niagara
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin ProxyLODPlugin
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin PlatformCrypto
 =======
+=======
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin AsyncLoadingScreen
@@ -122,6 +144,9 @@ LogPluginManager: Mounting plugin ProductivityTools
 LogPluginManager: Mounting plugin TimeClock
 LogPluginManager: Mounting plugin PowerIK
 LogPluginManager: Mounting plugin UIWS
+<<<<<<< HEAD
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
+=======
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -129,6 +154,7 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin AsyncLoadingScreen
@@ -143,6 +169,8 @@ LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin TimeClock
 =======
+=======
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin MagicLeap
@@ -176,7 +204,10 @@ LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin PhysXVehicles
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
 LogPluginManager: Mounting plugin PostSplashScreen
@@ -288,6 +319,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.07.05-09.32.42:928][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.07.05-09.32.42:928][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1045,6 +1077,8 @@ Make sure 'Pause_Menu_Widget' has been compiled for  Menu End
 [2021.07.05-09.36.05:995][968]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.07.05-09.36.05:995][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 =======
+=======
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
 [2021.07.04-16.46.27:155][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.07.04-16.46.27:155][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.07.04-16.46.27:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
@@ -5407,4 +5441,7 @@ Script call stack:
 [2021.07.04-17.44.10:475][395]LogD3D11RHI: CleanupD3DDevice
 [2021.07.04-17.44.10:508][395]LogExit: Exiting.
 [2021.07.04-17.44.10:530][395]Log file closed, 07/04/21 19:44:10
+<<<<<<< HEAD
+>>>>>>> parent of 54196548 (Fixed Shooting While Running)
+=======
 >>>>>>> parent of 54196548 (Fixed Shooting While Running)
