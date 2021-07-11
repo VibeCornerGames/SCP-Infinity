@@ -1,6 +1,8 @@
 Version 0.08
 
-	New Features
+New Features
+	Gunplay
+	* [New] Added camera recoil
 
 	QoL
 	* [New] Options menu can now also be entered in the main menu
@@ -10,9 +12,16 @@ Version 0.08
 	* [New] Added main menu music cuz i found it in the game files, forgot about it lol
 
 
-	Chances
+Chances
 	* [New] Revampt the main menu scene
 
+Fixes
+	Gunplay
+	* [New] Fixed a no reg in the butt of the player
+
+Performance
+	Graphics
+	* [Change] Turned off ambient occlusion, didnt really affect the world but you get a 5 fps boost from it by turning it off
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.07 (06/07/2021)
