@@ -1,3 +1,12 @@
+Version 0.09
+
+New Feature
+	Gunplay
+	* [New] Added firemodes for all guns
+	* [New] Reloading works now with a empty reload and not empty reload
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Version 0.08 (11/07/2021) general improvements
 
 New Features
