@@ -117,6 +117,10 @@
 		{
 			"Name": "LensDistortion",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
