@@ -4,7 +4,12 @@ New Feature
 	Gunplay
 	* [New] Added firemodes for all guns
 	* [New] Reloading works now with a empty reload and not empty reload
+	* [New] Added muzzel flas for AK47
+	* [New] Added bullet ejection for AK47
+	* [New] Added camera shake on fire for AK47
 
+Fixes
+	* [Fix] Fixed the normal reload for the AK47
 Performance
 	Maps
 	* [New] Added ligh importance volume to help performance
