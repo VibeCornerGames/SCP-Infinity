@@ -1,0 +1,496 @@
+newmtl Wedge27Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 0.803922
+
+Ns 9
+
+map_Ka Part205Tex.png
+map_Kd Part205Tex.png
+map_d Part205Tex.png
+
+newmtl Stop1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.2242 0.00679522 0.00310041 
+
+d 1
+
+Ns 9
+
+newmtl Ball2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.4 0.4 0.4 
+
+d 0.803922
+
+Ns 9
+
+map_Ka Part191Tex.png
+map_Kd Part191Tex.png
+map_d Part191Tex.png
+
+newmtl Door22Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.188235 0.188235 0.188235 
+
+d 1
+
+Ns 24
+
+map_Ka Door22Tex.png
+map_Kd Door22Tex.png
+map_d Door22Tex.png
+
+newmtl Floor2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Floor2Tex.png
+map_Kd Floor2Tex.png
+map_d Floor2Tex.png
+
+newmtl Cylinder42Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 0.803922
+
+Ns 22
+
+map_Ka Part191Tex.png
+map_Kd Part191Tex.png
+map_d Part191Tex.png
+
+newmtl Part701Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00206866 0.00206866 0.00206866 
+
+d 1
+
+Ns 120
+
+newmtl Cardreader1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00572403 0.0151304 0.0252411 
+
+d 1
+
+Ns 120
+
+newmtl Part696Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.112511 0.102752 0.110026 
+
+d 1
+
+Ns 160
+
+newmtl Cylinder15Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.298892 0.294873 0.30702 
+
+d 1
+
+Ns 120
+
+newmtl Play1Mtl
+Material Color
+Ka 0.0677246 0.315763 0.0677246
+Kd 0.0677246 0.315763 0.0677246
+Ks 0.0270898 0.126305 0.0270898 
+
+d 1
+
+Ns 9
+
+newmtl Door2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.901961 0.901961 0.901961 
+
+d 1
+
+Ns 160
+
+map_Ka Door2Tex.png
+map_Kd Door2Tex.png
+map_d Door2Tex.png
+
+newmtl Keycardreader12Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Keycardreader12Tex.png
+map_Kd Keycardreader12Tex.png
+map_d Keycardreader12Tex.png
+
+newmtl Part717Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part717Tex.png
+map_Kd Part717Tex.png
+map_d Part717Tex.png
+
+newmtl Part264Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0185889 0.0169765 0.0181783 
+
+d 1
+
+Ns 22
+
+newmtl Part482Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 0.803922
+
+Ns 22
+
+map_Ka Part243Tex.png
+map_Kd Part243Tex.png
+map_d Part243Tex.png
+
+newmtl Part190Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0934334 0.085329 0.0913697 
+
+d 1
+
+Ns 81
+
+newmtl Part243Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 0.803922
+
+Ns 81
+
+map_Ka Part243Tex.png
+map_Kd Part243Tex.png
+map_d Part243Tex.png
+
+newmtl Part265Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 1
+
+Ns 22
+
+map_Ka Part2Tex.png
+map_Kd Part2Tex.png
+map_d Part2Tex.png
+
+newmtl Part639Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part639Tex.png
+map_Kd Part639Tex.png
+map_d Part639Tex.png
+
+newmtl Part242Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00193683 0.00193683 0.00193683 
+
+d 1
+
+Ns 81
+
+newmtl Part211Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0997928 0.0911368 0.0975886 
+
+d 1
+
+Ns 120
+
+newmtl Part2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part2Tex.png
+map_Kd Part2Tex.png
+map_d Part2Tex.png
+
+newmtl Door21Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0234807 0.0214439 0.022962 
+
+d 1
+
+Ns 24
+
+newmtl Button21Mtl
+Material Color
+Ka 0.373615 0.0677246 0.0677246
+Kd 0.373615 0.0677246 0.0677246
+Ks 0.279845 0.0507271 0.0507271 
+
+d 1
+
+Ns 81
+
+newmtl Part212Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 0.803922
+
+Ns 120
+
+map_Ka Part191Tex.png
+map_Kd Part191Tex.png
+map_d Part191Tex.png
+
+newmtl Partmesh1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.704528 0.704528 0.704528 
+
+d 1
+
+Ns 81
+
+newmtl Door23Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.188235 0.188235 0.188235 
+
+d 1
+
+Ns 24
+
+map_Ka Door23Tex.png
+map_Kd Door23Tex.png
+map_d Door23Tex.png
+
+newmtl Partmesh2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Partmesh2Tex.png
+map_Kd Partmesh2Tex.png
+map_d Partmesh2Tex.png
+
+newmtl Buttonscreen11Mtl
+Material Color
+Ka 0.000107187 0.436813 0.84337
+Kd 0.000107187 0.436813 0.84337
+Ks 8.02854e-05 0.327181 0.631701 
+
+d 1
+
+Ns 81
+
+newmtl Part204Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.279845 0.276082 0.287455 
+
+d 1
+
+Ns 81
+
+newmtl Union3Mtl
+Material Color
+Ka 0.612066 0.275833 0.14198
+Kd 0.612066 0.275833 0.14198
+Ks 0.458449 0.206604 0.106346 
+
+d 1
+
+Ns 81
+
+newmtl Ball1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0498964 0.0455684 0.0487943 
+
+d 1
+
+Ns 9
+
+newmtl Part191Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 0.803922
+
+Ns 81
+
+map_Ka Part191Tex.png
+map_Kd Part191Tex.png
+map_d Part191Tex.png
+
+newmtl Screen1Mtl
+Material Color
+Ka 0 1 1
+Kd 0 1 1
+Ks 0 0.74902 0.74902 
+
+d 0.301961
+
+Ns 81
+
+newmtl Part722Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00535926 0.0141662 0.0236326 
+
+d 1
+
+Ns 81
+
+newmtl Decal2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 1
+
+Ns 22
+
+newmtl Part205Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 0.803922
+
+Ns 81
+
+map_Ka Part205Tex.png
+map_Kd Part205Tex.png
+map_d Part205Tex.png
+
+newmtl Cardholder1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0934739 0.0980532 0.128061 
+
+d 1
+
+Ns 160
+
+newmtl Wedge26Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.149446 0.147436 0.15351 
+
+d 1
+
+Ns 9
+
+newmtl Part1Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.463408 0.463408 0.463408 
+
+d 1
+
+Ns 81
+
+newmtl Part462Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part462Tex.png
+map_Kd Part462Tex.png
+map_d Part462Tex.png
+
