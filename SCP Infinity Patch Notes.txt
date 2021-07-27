@@ -1,31 +1,55 @@
-Version 0.09 (GUI and Gunpla)
-
-New Feature
-	Gunplay
-	* [New] Added recoil for M16 and AK47
-	* [New] Added firemodes for all guns
-	* [New] Reloading works now with a empty reload and not empty reload
-	* [New] Added muzzel flas for AK47
-	* [New] Added bullet ejection for AK47
-	* [New] Added camera shake on fire for AK47
-
-Changes
-	GUI	
-	* [New] Revampt the exit confirmation graphics
-	* [New] Several improvements to the GUI
-	* [New] Updated logo 
-
-Fixes
-	* [Fix] Fixed the normal reload for the AK47
-
-	GUI
-	* [Fix] Options return button works properly again
-	* [Fix] Fixed stretching issues on a lot of menu elementss
+Version 0.011 
+New Features
+	* [New] Dog can be fit now (dont do it poor pog:( )
+Maps
+	Test Map
+	* [New] Added canisters to play with
 
 Performance
-	Maps
-	* [New] Added light importance volume to help performance
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	* [FPS] Damage is only calculated when the enemy is not dead
+	* [FPS] Optimised main menu scene
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.09 (GUI and Gunplay)(27/07/2021)
+
+New Feature
+    Gunplay
+    * [New] Added recoil for M16 and AK47
+    * [New] Added firemodes for all guns
+    * [New] Reloading works now with a empty reload and not empty reload
+    * [New] Added muzzel flash for AK47
+    * [New] Added bullet ejection for AK47
+    * [New] Added camera shake on fire for AK47
+
+    Fun
+    * [New] Added fun canisters that you can shoot and they fky away and blow up:D
+
+    Graphics
+    * [New] Added new water FX when shooting it
+    * [New] Added new impact FX when hitting objects that match the object type
+
+    Audio
+    * [New] Added new bullet falling FX depending on the type of object you are standing on
+    * [New] Added new bullet impact SFX
+
+Changes
+    GUI
+    * [New] Revampt the exit confirmation graphics
+    * [New] Revampt the main menu scene
+    * [New] Several improvements to the GUI
+    * [New] Updated logo 
+
+Fixes
+    * [Fix] Fixed the normal reload for the AK47
+
+    GUI
+    * [Fix] Options return button works properly again
+    * [Fix] Fixed stretching issues on a lot of menu elements
+
+Performance
+    Maps
+    * [New] Added light importance volume to help performance
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.08 (11/07/2021) general improvements
 
@@ -216,7 +240,7 @@ Performance
     Player
     * [Optimize] Movement code is more efficient now
     * [Optimize] Sprint code is a tiny bit more efficient now
-    * [Optimize] Can jump is set directly instead of on begin play
+    * [Optimize] Can jump is set directly instead on begin play
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -296,8 +320,8 @@ Audio
 Fixes
 	Player
 	* Fixed a bug that caused the player to stay in sprint mode after sprinting sideways
-	* Fixed a bug that made the player go in sptint mode while standing still after moving
-	* Fixed a bug that made the player go in sptint mode while falling
+	* Fixed a bug that made the player go in sprint mode while standing still after moving
+	* Fixed a bug that made the player go in sprint mode while falling
 	
 	Ai
 	* Fixed a bug that casued to be unable to hit the AI from behind where the takedown area is
@@ -350,7 +374,7 @@ New Features
 		Animation
 		* Attempt to add turn in place animation
 
-Inprovements
+Improvements
 	PLayer
 	* Added a line trace when crouching detecting if there is a opject obove the player, if true player is unable to uncrouch
 
