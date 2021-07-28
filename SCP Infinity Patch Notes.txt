@@ -1,9 +1,18 @@
 Version 0.011 
 New Features
 	* [New] Dog can be fit now (dont do it poor pog:( )
+	* [New] Added grenada's
+	
+	Movement
+	* [New] Player can't sprint when health is under 320
+
 Maps
 	Test Map
 	* [New] Added canisters to play with
+
+Fixes
+	Gunplay
+	* [Fix] Fixed no reg on feet
 
 Performance
 	* [FPS] Damage is only calculated when the enemy is not dead
