@@ -13,10 +13,12 @@ Maps
 Fixes
 	Gunplay
 	* [Fix] Fixed no reg on feet
+	* [Fix] Player cant shoot through walls anymore
 
 Performance
 	* [FPS] Damage is only calculated when the enemy is not dead
 	* [FPS] Optimised main menu scene
+	* [FPS] Optimised movement code
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.09 (GUI and Gunplay)(27/07/2021)
