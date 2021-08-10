@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UIWS.cpp.obj": [
+			"UIWS.cpp.obj",
+			"UIWSCapture.cpp.obj",
+			"UIWSCustomBody.cpp.obj",
+			"UIWSInteractorComponent.cpp.obj",
+			"UIWSManager.cpp.obj",
+			"UIWSRiver.cpp.obj",
+			"UIWSWaterBody.cpp.obj"
+		],
+		"Module.UIWS.gen.cpp.obj": [
+			"UIWS.init.gen.cpp.obj",
+			"UIWSCapture.gen.cpp.obj",
+			"UIWSCustomBody.gen.cpp.obj",
+			"UIWSInteractorComponent.gen.cpp.obj",
+			"UIWSManager.gen.cpp.obj",
+			"UIWSRiver.gen.cpp.obj",
+			"UIWSWaterBody.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "2.51",
+	"FriendlyName": "EasyBallistics",
+	"Description": "",
+	"Category": "Gameplay",
+	"CreatedBy": "Mookie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bbecde0f66914263b57fd2af5a0c7ffe",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EasyBallistics",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"Android"
+			]
+		}
+	]
+}
