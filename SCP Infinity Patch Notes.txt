@@ -6,6 +6,10 @@ New Features
 	Movement
 	* [New] Player can't sprint when health is under 320
 
+Changes
+	GUI
+	* [New] Revamped and finished options settings
+
 Maps
 	Test Map
 	* [New] Added canisters to play with
