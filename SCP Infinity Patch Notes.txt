@@ -19,8 +19,12 @@ Fixes
 	* [Fix] Fixed no reg on feet
 	* [Fix] Player cant shoot through walls anymore
 
+	Audio
+	* [Fix] Fixed audio class of main menu music and slider works on it again
+
 Performance
 	* [FPS] Damage is only calculated when the enemy is not dead
+	* [Fps] Removed a useless calculation on damage calculation
 	* [FPS] Optimised main menu scene
 	* [FPS] Optimised movement code
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
