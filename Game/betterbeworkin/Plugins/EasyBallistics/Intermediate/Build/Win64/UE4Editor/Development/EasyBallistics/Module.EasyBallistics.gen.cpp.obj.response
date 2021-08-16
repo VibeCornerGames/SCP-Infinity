@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Private"
+/I C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -231,9 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public"
+/I C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics
+/I C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source
+/I C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -257,18 +257,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "D:\Visuals Studio 2019\VC\Tools\MSVC\14.29.30037\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I D:\Directory\VC\Tools\MSVC\14.29.30037\INCLUDE
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Definitions.EasyBallistics.h"
-/Fo"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp.obj"
+/FI"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp"
+/FI"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Definitions.EasyBallistics.h"
+/Fo"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp.obj"
 /TP
 /GR-
 /W4
