@@ -3,6 +3,10 @@ Fixes
 	Gunplay
 	* [Fix] Fixed aimoffset in setup unarmed
 
+	Optimization
+	* [FPS] Optimised bullet drop sound fx
+	* [Project] Removed about 6300 files to reduce size 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.011 
