@@ -1,9 +1,25 @@
 Version 0.012
+New Features
+	* [New] Added a new testing weapon switching system (not very stable)
+	* [New] Added option to turn off all debug
+
+Changes
+	* [Change] Moved Weapon switching code to input graph
+	* [Change] You can walk through the dog now to make it less obstructive
+
 Fixes
 	Gunplay
 	* [Fix] Fixed aimoffset in setup unarmed
+	* [Fix] Fixed issue that the grenade went in weird directions
+	* [Fix] Fixed a invisible sphere next to the player where you couldn't hit the player
 
-	Optimization
+	Map
+	* [Fix] Fixed the free in test map
+
+	Audio
+	* [Fix] Fixed bug that M16 didnt had bullet fall sound fx
+
+Optimization
 	* [FPS] Optimised bullet drop sound fx
 	* [Project] Removed about 6300 files to reduce size 
 
