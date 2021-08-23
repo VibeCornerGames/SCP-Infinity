@@ -1,7 +1,11 @@
-Version 0.012
+Version 0.012 (23 Aug 2021)(Fixes and new first SCP)
+
 New Features
 	* [New] Added a new testing weapon switching system (not very stable)
 	* [New] Added option to turn off all debug
+	
+	New SCP's
+	* [New] Added SCP-173
 
 Changes
 	* [Change] Moved Weapon switching code to input graph
