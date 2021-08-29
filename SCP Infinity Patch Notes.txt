@@ -1,3 +1,17 @@
+Version 0.013
+
+New Features
+	Audio
+	* [New] Added draw and holster sound fx for all weapons
+
+Optimization
+	* [FPS] Optimized reload code
+	* [FPS] Optimized firing code
+	* [Project] Cleaned up some code
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Version 0.012 (23 Aug 2021)(Fixes and new first SCP)
 
 New Features
