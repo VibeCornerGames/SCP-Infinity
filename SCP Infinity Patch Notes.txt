@@ -3,8 +3,14 @@ Version 0.013
 New Features
 	Audio
 	* [New] Added draw and holster sound fx for all weapons
+	* [New] Added Weapon audio concurency or whatever
+
+Fixes
+	Audio
+	* [Fix] Fixed that main menu music was not looping
 
 Optimization
+	* [FPS] Disabled SSGI and all maps have a about 30% more fps
 	* [FPS] Optimized reload code
 	* [FPS] Optimized firing code
 	* [Project] Cleaned up some code
