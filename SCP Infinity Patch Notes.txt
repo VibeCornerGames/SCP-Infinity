@@ -1,24 +1,30 @@
-Version 0.013
+Version 0.0013 (Performance)
 
 New Features
 	Audio
 	* [New] Added draw and holster sound fx for all weapons
-	* [New] Added Weapon audio concurency or whatever
-
+	* [New] Added Weapon audio concurrency
+	
+	Maps	
+	* [New] Added new fog to the main menu
 Fixes
 	Audio
 	* [Fix] Fixed that main menu music was not looping
 
 Optimization
+	* [FPS] Removed and resized some static meshes that you couldn't see in main menu scene
+	* [FPS] Removed Exponential hight fog from main menu scene
+	* [FPS] Removed Volumetric fog in main menu and gives about +10 fps
 	* [FPS] Disabled SSGI and all maps have a about 30% more fps
-	* [FPS] Optimized reload code
-	* [FPS] Optimized firing code
+	* [LAG] Optimized reload code
+	* [LAG] Optimized firing code
+	* [LAG] Removed a cast node in options code
 	* [Project] Cleaned up some code
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.012 (23 Aug 2021)(Fixes and new first SCP)
+Version 0.0012 (23 Aug 2021)(Fixes and new first SCP)
 
 New Features
 	* [New] Added a new testing weapon switching system (not very stable)
@@ -49,7 +55,7 @@ Optimization
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.011 
+Version 0.0011 
 New Features
 	* [New] Dog can be fit now (dont do it poor pog:( )
 	* [New] Added grenada's
@@ -80,7 +86,7 @@ Performance
 	* [FPS] Optimised movement code
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.09 (GUI and Gunplay)(27/07/2021)
+Version 0.009 (GUI and Gunplay)(27/07/2021)
 
 New Feature
     Gunplay
@@ -121,7 +127,7 @@ Performance
     * [New] Added light importance volume to help performance
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.08 (11/07/2021) general improvements
+Version 0.008 (11/07/2021) general improvements
 
 New Features
 	Gunplay
@@ -155,7 +161,7 @@ Performance
 	* [Change] Turned off ambient occlusion, didnt really affect the world but you get a 5 fps boost from it by turning it off
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.07 (06/07/2021)
+Version 0.007 (06/07/2021)
 
 New Features
 	* [New] Added option menu (!currently only works in the in game button and not on the main menu becuase i have to make it 2 times because it has a otehr background so i dont have to do stuff 2 times when i change something in the settings!)
@@ -187,7 +193,7 @@ New Features
 	* [Fix] Fixed the DOF issue
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.06 (Menus and Weapons)(03/07/2021)
+Version 0.006 (Menus and Weapons)(03/07/2021)
 Dev note: Confirmed that specific damage by bone is working:) lot of progress past days love it
 
 New Features
@@ -226,7 +232,7 @@ Fixes
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.05 (15/06/2021) (Advanced Damage and fixes/optimisations)
+Version 0.005 (15/06/2021) (Advanced Damage and fixes/optimisations)
 
 New Features
     Game
@@ -252,7 +258,7 @@ Optimisation
 	
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.04 (25/04/2021) (Camera Shakes)
+Version 0.004 (25/04/2021) (Camera Shakes)
 Dev note: Player starts unarmed now and has to pickup weapons first now
 
 New Features
@@ -288,7 +294,7 @@ Performance
     * [Optimize] Cleaned up the animation code
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.03 (22/04/2021) (Pickups, Weapon Switching, efficiency) 
+Version 0.003 (22/04/2021) (Pickups, Weapon Switching, efficiency) 
 Dev note: I needed to restart the project so some stuff might not work properly X(
 
 New Features
@@ -314,7 +320,7 @@ Performance
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.02 (10.04.2021) (Multiplayer, Weapons)
+Version 0.002 (10.04.2021) (Multiplayer, Weapons)
 New Features
     Weapons
     * [New] Added AK47 reload
@@ -341,7 +347,7 @@ Performance
     Meshes
     * [Optimize] Reduced moon triangles from 1104 to 601
 ------------------------------------------------------------------------------------------------------------------------------------
-Version 0.01 (Mainly fixes and improvements) (06/04/2021) note everything that is already in is not included lol to much effort
+Version 0.001 (Mainly fixes and improvements) (06/04/2021) note everything that is already in is not included lol to much effort
 New Features
 	Player
 	* Added takedown (buggy)
