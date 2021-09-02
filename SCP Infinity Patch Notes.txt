@@ -7,17 +7,21 @@ New Features
 	
 	Maps	
 	* [New] Added new fog to the main menu
+
+Changes 
+	SCP 173
+	* [New] Uses a linetrace now instead of box collision
 Fixes
 	Audio
 	* [Fix] Fixed that main menu music was not looping
 
-Optimization
+Optimisation
 	* [FPS] Removed and resized some static meshes that you couldn't see in main menu scene
-	* [FPS] Removed Exponential hight fog from main menu scene
+	* [FPS] Removed Exponential height fog from main menu scene
 	* [FPS] Removed Volumetric fog in main menu and gives about +10 fps
 	* [FPS] Disabled SSGI and all maps have a about 30% more fps
-	* [LAG] Optimized reload code
-	* [LAG] Optimized firing code
+	* [LAG] Optimised reload code
+	* [LAG] Optimised firing code
 	* [LAG] Removed a cast node in options code
 	* [Project] Cleaned up some code
 
