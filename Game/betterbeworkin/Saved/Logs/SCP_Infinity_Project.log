@@ -3573,3 +3573,1102 @@ Script call stack:
 [2021.09.05-11.31.48:313][397]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.05-11.31.48:313][397]LogContentValidation: Display: Validating World /Game/Maps/TrainStation/TrainStation.TrainStation
 [2021.09.05-11.31.48:313][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TrainStation/TrainStation_BuiltData.TrainStation_BuiltData
+[2021.09.05-11.34.07:778][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Functions\MF_GroundWetness.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.07:779][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Functions\MF_GroundWetness.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.07:780][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Functions\MF_GroundWetness.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.07:793][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.07:793][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.07:794][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.07:795][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_N': Can't find file.
+[2021.09.05-11.34.07:796][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_N': Can't find file.
+[2021.09.05-11.34.07:796][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.07:797][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.07:797][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_N': Can't find file.
+[2021.09.05-11.34.08:130][ 46]LogTexture: Display: Building textures: T_RainPuddleMask (AutoDXT, 256X256)
+[2021.09.05-11.34.08:130][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.08:130][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D.T_Slums_Wall_D Referenced by MaterialExpressionTextureObject_3
+[2021.09.05-11.34.08:131][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_N': Can't find file.
+[2021.09.05-11.34.08:131][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_N.T_Slums_Wall_N Referenced by MaterialExpressionTextureObject_5
+[2021.09.05-11.34.08:131][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.08:131][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M.T_Slums_TilingNOise_M Referenced by MaterialExpressionTextureSample_11
+[2021.09.05-11.34.08:132][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.08:132][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D.T_Slums_Wall_D Referenced by MaterialExpressionTextureSample_7
+[2021.09.05-11.34.08:133][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Concrete.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D': Can't find file.
+[2021.09.05-11.34.08:133][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Wall_D.T_Slums_Wall_D Referenced by MaterialExpressionTextureSample_9
+[2021.09.05-11.34.08:164][ 46]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/SoulCity/Environment/Textures/Water/T_RainStreaming_N.T_RainStreaming_N was invalid. The texture will be rebuild.
+[2021.09.05-11.34.08:164][ 46]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Functions\MF_GroundWetness.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M': Can't find file.
+[2021.09.05-11.34.08:164][ 46]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingNOise_M.T_Slums_TilingNOise_M Referenced by MaterialExpressionTextureSample_16
+[2021.09.05-11.34.08:899][ 46]LogTexture: Display: Building textures: T_Soul_Water01_N (BC5, 512X512)
+[2021.09.05-11.34.08:899][ 46]LogTexture: Display: Building textures: T_RainStreaming_N (BC5, 1024X1024)
+[2021.09.05-11.34.08:899][ 46]LogStaticMesh: Building static mesh SM_Slums_Floor_02a...
+[2021.09.05-11.34.08:942][ 46]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Floor_02a.SM_Slums_Floor_02a
+[2021.09.05-11.34.09:206][ 46]LogTexture: Display: Building textures: T_Environment_Materials_Wet_TilingFlow02_N (BC5, 1024X1024)
+[2021.09.05-11.34.09:206][ 46]LogMaterial: Display: Missing cached shader map for material M_Slums_Concrete, compiling. 
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Concrete.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_Slums_Concrete: (Node TextureObject) Texture Object> Requires valid texture
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_Slums_Concrete: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_Slums_Concrete: (Node TextureSample) Texture Sample> Missing input texture
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_GroundWetness: (Node If) If input A must be of type float.
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_GroundWetness: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_Slums_Concrete: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_GroundWetness: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_Slums_Concrete: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.05-11.34.09:210][ 46]LogMaterial: Display: 	Function MF_GroundWetness: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.05-11.34.09:251][ 46]LogActorFactory: Actor Factory created SM_Slums_Floor_02a
+[2021.09.05-11.34.09:311][ 46]LogMeshUtilities: Finished distance field build in 0.3s - 30x30x8 distance field, 50 triangles, Range [-0.0, 0.5], SM_Slums_Floor_02a
+[2021.09.05-11.34.10:477][109]LogActorFactory: Actor Factory created SM_Slums_Floor_02a
+[2021.09.05-11.34.17:069][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Floor_02a)
+[2021.09.05-11.34.18:074][536]Cmd: DELETE
+[2021.09.05-11.34.18:074][536]Cmd: ACTOR DELETE
+[2021.09.05-11.34.18:169][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.05-11.34.18:203][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.09.05-11.34.18:213][536]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2021.09.05-11.34.19:451][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Patina_Metal_D': Can't find file.
+[2021.09.05-11.34.19:452][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Patina_Metal_D': Can't find file.
+[2021.09.05-11.34.19:453][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:454][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:455][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Patina_Metal_D': Can't find file.
+[2021.09.05-11.34.19:455][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:457][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_D': Can't find file.
+[2021.09.05-11.34.19:459][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_D': Can't find file.
+[2021.09.05-11.34.19:459][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_N': Can't find file.
+[2021.09.05-11.34.19:460][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_N': Can't find file.
+[2021.09.05-11.34.19:461][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:462][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:463][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:463][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_D': Can't find file.
+[2021.09.05-11.34.19:464][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_N': Can't find file.
+[2021.09.05-11.34.19:465][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:466][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:470][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.19:471][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.19:472][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.19:473][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.19:473][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.19:474][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.19:475][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.19:476][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.19:476][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_M': Can't find file.
+[2021.09.05-11.34.19:477][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_M': Can't find file.
+[2021.09.05-11.34.19:478][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_N': Can't find file.
+[2021.09.05-11.34.19:479][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_N': Can't find file.
+[2021.09.05-11.34.19:479][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:480][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:480][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.19:481][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.19:482][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_M': Can't find file.
+[2021.09.05-11.34.19:483][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_N': Can't find file.
+[2021.09.05-11.34.19:483][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:484][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:544][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.19:544][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D.T_Slums_TilingMetal_D Referenced by MaterialExpressionTextureObject_0
+[2021.09.05-11.34.19:545][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.19:546][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n.T_Slums_TilingMetal_n Referenced by MaterialExpressionTextureObject_2
+[2021.09.05-11.34.19:546][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_N': Can't find file.
+[2021.09.05-11.34.19:546][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_N.T_Slums_Metal_Scratches_02_N Referenced by MaterialExpressionTextureSample_2
+[2021.09.05-11.34.19:547][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Paint.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_D': Can't find file.
+[2021.09.05-11.34.19:547][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Scratches_02_D.T_Slums_Metal_Scratches_02_D Referenced by MaterialExpressionTextureSample_3
+[2021.09.05-11.34.19:814][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Patina_Metal_D': Can't find file.
+[2021.09.05-11.34.19:815][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Patina_Metal_D.T_Patina_Metal_D Referenced by MaterialExpressionTextureObject_0
+[2021.09.05-11.34.19:815][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Metal.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.20:227][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.20:228][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D.T_Slums_Metal_Rust_03_D Referenced by MaterialExpressionTextureObject_0
+[2021.09.05-11.34.20:228][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.20:228][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N.T_Slums_Metal_Rust_03_N Referenced by MaterialExpressionTextureObject_2
+[2021.09.05-11.34.20:229][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.20:229][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D.T_Slums_Metal_Rust_03_D Referenced by MaterialExpressionTextureSample_4
+[2021.09.05-11.34.20:229][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\MaterialLayers\MF_Slums_Rusted.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.20:229][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N.T_Slums_Metal_Rust_03_N Referenced by MaterialExpressionTextureSample_5
+[2021.09.05-11.34.20:651][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n': Can't find file.
+[2021.09.05-11.34.20:651][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_n.T_Slums_TilingMetal_n Referenced by MaterialExpressionTextureObject_4
+[2021.09.05-11.34.20:652][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D': Can't find file.
+[2021.09.05-11.34.20:652][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_TilingMetal_D.T_Slums_TilingMetal_D Referenced by MaterialExpressionTextureObject_5
+[2021.09.05-11.34.20:653][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D': Can't find file.
+[2021.09.05-11.34.20:653][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_D.T_Slums_Metal_Rust_03_D Referenced by MaterialExpressionTextureObjectParameter_0
+[2021.09.05-11.34.20:654][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N': Can't find file.
+[2021.09.05-11.34.20:654][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_Metal_Rust_03_N.T_Slums_Metal_Rust_03_N Referenced by MaterialExpressionTextureObjectParameter_2
+[2021.09.05-11.34.20:654][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_M': Can't find file.
+[2021.09.05-11.34.20:655][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_M.T_Slums_MetalTexture_M Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2021.09.05-11.34.20:655][606]LogLinker: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to load '/Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_N': Can't find file.
+[2021.09.05-11.34.20:656][606]LoadErrors: Failed to load /Game/SoulCity/Environment/Textures/Building_Slum/T_Slums_MetalTexture_N.T_Slums_MetalTexture_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2021.09.05-11.34.20:658][606]LogMaterial: Display: Missing cached shader map for material M_Slums_Metalwork_MASKED, compiling. 
+[2021.09.05-11.34.20:660][606]LogMaterial: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\SoulCity\Environment\Materials\Building\M_Slums_Metalwork_MASKED.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MF_Slums_Rusted: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MF_Slums_Metal: (Node TextureObject) Texture Object> Requires valid texture
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MF_Slums_Metal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MF_Slums_Rusted: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.05-11.34.20:660][606]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.05-11.34.20:661][606]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2021.09.05-11.34.20:661][606]LogMaterial: Display: 	Function MF_Slums_Metal: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.05-11.34.20:661][606]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.05-11.34.20:664][606]LogStaticMesh: Building static mesh SM_Slums_Grating_01a...
+[2021.09.05-11.34.20:701][606]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Grating_01a.SM_Slums_Grating_01a
+[2021.09.05-11.34.20:743][606]LogActorFactory: Actor Factory created SM_Slums_Grating_01a
+[2021.09.05-11.34.20:818][608]LogMeshUtilities: Discarded distance field for SM_Slums_Grating_01a as mesh was not closed!  Assign a two-sided material to fix.
+[2021.09.05-11.34.20:818][608]LogMeshUtilities: Finished distance field build in 0.1s - 19x14x8 distance field, 114 triangles, Range [-0.1, 0.4], SM_Slums_Grating_01a
+[2021.09.05-11.34.21:791][661]LogActorFactory: Actor Factory created SM_Slums_Grating_01a
+[2021.09.05-11.34.44:223][941]Cmd: TRANSACTION UNDO
+[2021.09.05-11.34.44:223][941]LogEditorTransaction: Undo Move Actors
+[2021.09.05-11.34.53:557][462]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.34.53:566][462]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.34.53:570][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.34.53:570][462]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:34:53)
+[2021.09.05-11.34.53:614][462]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.34.53:858][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.243898s)
+[2021.09.05-11.34.53:859][462]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.34.53:876][462]LogPlayLevel: PIE: World Init took: (0.018037s)
+[2021.09.05-11.34.53:876][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.262171s)
+[2021.09.05-11.34.54:014][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.05-11.34.54:021][462]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.09.05-11.34.54:021][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.34.54:021][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.34.54:022][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.34.54:022][462]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.34.54:022][462]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.34.54:077][462]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.34.54:077][462]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.34.54:106][462]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.34.54:107][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.34.54:107][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.34.54:107][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.34.54:107][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.34.54:107][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.34.54:107][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.34.54:136][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.34.54:136][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.34.54:136][462]LogInit: FAudioDevice initialized.
+[2021.09.05-11.34.54:136][462]LogAudio: Display: Audio Device (ID: 22) registered with world 'TrainStation'.
+[2021.09.05-11.34.54:512][462]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.34.54:580][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.34.54:581][462]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.34.54:626][462]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.34.54
+[2021.09.05-11.34.54:627][462]LogWorld: Bringing up level for play took: 0.045004
+[2021.09.05-11.34.54:627][462]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.09.05-11.34.54:629][462]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.34.54:631][462]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.34.54:631][462]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.34.54:631][462]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.34.54:631][462]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.34.54:631][462]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.34.54:631][462]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.34.54:631][462]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.34.54:639][462]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.34.54:642][462]PIE: Server logged in
+[2021.09.05-11.34.54:643][462]PIE: Play in editor total start time 1.078 seconds.
+[2021.09.05-11.34.54:697][462]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.34.54:697][462]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.35.01:527][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.35.01:527][852]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.35.01:528][852]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.35.01:535][852]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.35.01:547][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.35.01:559][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.35.01:589][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.35.01:633][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.05-11.35.01:634][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.35.01:635][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.35.01:677][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.09.05-11.35.01:739][853]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.09.05-11.35.02:788][914]Cmd: DELETE
+[2021.09.05-11.35.02:788][914]Cmd: ACTOR DELETE
+[2021.09.05-11.35.02:874][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.05-11.35.02:909][914]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.09.05-11.35.02:911][914]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2021.09.05-11.35.25:258][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.35.25:267][ 92]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.35.25:274][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.35.25:274][ 92]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:35:25)
+[2021.09.05-11.35.25:315][ 92]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.35.25:561][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245822s)
+[2021.09.05-11.35.25:562][ 92]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.35.25:580][ 92]LogPlayLevel: PIE: World Init took: (0.019671s)
+[2021.09.05-11.35.25:580][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.265823s)
+[2021.09.05-11.35.25:712][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.09.05-11.35.25:717][ 92]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.35.25:717][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.35.25:717][ 92]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.35.25:717][ 92]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.35.25:778][ 92]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.35.25:778][ 92]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.35.25:807][ 92]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.35.25:808][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.35.25:830][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.35.25:830][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.35.25:830][ 92]LogInit: FAudioDevice initialized.
+[2021.09.05-11.35.25:830][ 92]LogAudio: Display: Audio Device (ID: 23) registered with world 'TrainStation'.
+[2021.09.05-11.35.26:224][ 92]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.35.26:284][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.35.26:284][ 92]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.35.26:328][ 92]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.35.26
+[2021.09.05-11.35.26:329][ 92]LogWorld: Bringing up level for play took: 0.043583
+[2021.09.05-11.35.26:329][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.09.05-11.35.26:332][ 92]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.35.26:333][ 92]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.35.26:333][ 92]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.35.26:333][ 92]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.35.26:333][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.35.26:333][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.35.26:334][ 92]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.35.26:334][ 92]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.35.26:342][ 92]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.35.26:345][ 92]PIE: Server logged in
+[2021.09.05-11.35.26:347][ 92]PIE: Play in editor total start time 1.08 seconds.
+[2021.09.05-11.35.26:406][ 92]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.35.26:406][ 92]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.35.32:106][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.35.32:106][418]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.35.32:107][418]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.35.32:114][418]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.35.32:129][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.35.32:140][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.35.32:161][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.35.32:209][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.05-11.35.32:210][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.35.32:211][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.35.32:257][418]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2021.09.05-11.35.32:312][419]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.09.05-11.35.33:248][475]Cmd: DELETE
+[2021.09.05-11.35.33:248][475]Cmd: ACTOR DELETE
+[2021.09.05-11.35.33:385][475]LogEditorActor: Deleted Actor: BP_FlickeringLight_C
+[2021.09.05-11.35.33:429][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.05-11.35.33:431][475]LogEditorActor: Deleted 1 Actors (0.184 secs)
+[2021.09.05-11.35.35:662][579]LogStaticMesh: Building static mesh SM_Seagull...
+[2021.09.05-11.35.35:691][579]LogTexture: Display: Building textures: T_seagull_00_D (AutoDXT, 256X256)
+[2021.09.05-11.35.35:696][579]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/Props/SM_Seagull.SM_Seagull
+[2021.09.05-11.35.35:732][579]LogMaterial: Display: Missing cached shader map for material M_seagull_00_Mat, compiling. 
+[2021.09.05-11.35.35:828][579]LogMeshUtilities: Discarded distance field for SM_Seagull as mesh was not closed!  Assign a two-sided material to fix.
+[2021.09.05-11.35.35:828][579]LogMeshUtilities: Finished distance field build in 0.1s - 15x8x8 distance field, 34 triangles, Range [-0.2, 1.0], SM_Seagull
+[2021.09.05-11.35.35:828][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 138
+[2021.09.05-11.35.35:829][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2021.09.05-11.35.35:829][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 118
+[2021.09.05-11.35.35:829][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2021.09.05-11.35.41:996][813]Cmd: DELETE
+[2021.09.05-11.35.41:996][813]Cmd: ACTOR DELETE
+[2021.09.05-11.35.42:206][813]LogEditorActor: Deleted Actor: BP_Seagull_01_C
+[2021.09.05-11.35.42:267][813]LogUObjectHash: Compacting FUObjectHashTables data took  10.62ms
+[2021.09.05-11.35.42:270][813]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2021.09.05-11.35.44:237][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2021.09.05-11.35.44:237][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2021.09.05-11.35.44:621][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2021.09.05-11.35.47:173][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.09.05-11.35.53:167][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2021.09.05-11.35.54:417][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2021.09.05-11.35.55:049][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.09.05-11.35.55:660][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.09.05-11.36.02:549][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.09.05-11.36.03:782][537]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.09.05-11.36.07:573][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.09.05-11.36.08:165][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.09.05-11.36.08:165][685]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.05-11.36.10:495][758]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.09.05-11.36.11:296][790]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.09.05-11.36.11:693][806]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.05-11.36.16:636][ 38]LogMaterial: Display: Missing cached shader map for material controlpanel1, compiling. 
+[2021.09.05-11.36.16:649][ 38]LogMaterial: Display: Missing cached shader map for material concretefloor, compiling. 
+[2021.09.05-11.36.16:665][ 38]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.09.05-11.36.16:665][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.09.05-11.36.16:665][ 38]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.09.05-11.36.16:665][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.09.05-11.36.16:665][ 38]LogMaterial: Display: Missing cached shader map for material dirtymetal1, compiling. 
+[2021.09.05-11.36.16:680][ 38]LogStaticMesh: Building static mesh untitled_classname_brush...
+[2021.09.05-11.36.17:376][ 38]LogStaticMesh: Built static mesh [0.70s] /Game/SketchFab_Assets/Maxime66410/scp-173-containment-chamber/source/untitled_classname_brush.untitled_classname_brush
+[2021.09.05-11.36.17:469][ 38]LogMaterial: Display: Missing cached shader map for material metal1, compiling. 
+[2021.09.05-11.36.17:493][ 38]LogMaterial: Display: Missing cached shader map for material glass1, compiling. 
+[2021.09.05-11.36.17:518][ 38]LogMaterial: Display: Missing cached shader map for material door02, compiling. 
+[2021.09.05-11.36.17:543][ 38]LogMaterial: Display: Missing cached shader map for material white, compiling. 
+[2021.09.05-11.36.17:567][ 38]LogMaterial: Display: Missing cached shader map for material scplogo1, compiling. 
+[2021.09.05-11.36.17:590][ 38]LogMaterial: Display: Missing cached shader map for material metalpanels3, compiling. 
+[2021.09.05-11.36.17:615][ 38]LogMaterial: Display: Missing cached shader map for material misc, compiling. 
+[2021.09.05-11.36.17:640][ 38]LogMaterial: Display: Missing cached shader map for material tilefloor1, compiling. 
+[2021.09.05-11.36.17:664][ 38]LogMaterial: Display: Missing cached shader map for material vent, compiling. 
+[2021.09.05-11.36.17:688][ 38]LogMaterial: Display: Missing cached shader map for material metal4, compiling. 
+[2021.09.05-11.36.17:713][ 38]LogMaterial: Display: Missing cached shader map for material whitewall, compiling. 
+[2021.09.05-11.36.17:784][ 38]LogActorFactory: Actor Factory created untitled_classname_brush
+[2021.09.05-11.36.18:523][ 58]LogActorFactory: Actor Factory created untitled_classname_brush
+[2021.09.05-11.36.24:132][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 221
+[2021.09.05-11.36.25:322][249]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 211
+[2021.09.05-11.36.30:230][249]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2021.09.05-11.36.30:389][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2021.09.05-11.36.35:414][423]LogMeshUtilities: Finished distance field build in 18.0s - 64x64x64 distance field, 7508 triangles, Range [-0.1, 0.7], untitled_classname_brush
+[2021.09.05-11.36.38:369][538]Cmd: DELETE
+[2021.09.05-11.36.38:369][538]Cmd: ACTOR DELETE
+[2021.09.05-11.36.38:578][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.05-11.36.38:632][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.05-11.36.38:641][538]LogEditorActor: Deleted 1 Actors (0.271 secs)
+[2021.09.05-11.36.40:057][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 181
+[2021.09.05-11.36.40:176][599]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.36.40:227][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.09.05-11.36.41:160][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2021.09.05-11.36.42:785][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 161
+[2021.09.05-11.36.43:070][599]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2021.09.05-11.36.43:374][599]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation52759ECB481626E109FE33BF504EDE45.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation.umap'
+[2021.09.05-11.36.43:453][599]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation_BuiltDataEA307C3347E930E7DA0AA7A5B4AC0C1A.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation_BuiltData.uasset'
+[2021.09.05-11.36.43:514][599]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.05-11.36.43:514][599]LogContentValidation: Display: Validating World /Game/Maps/TrainStation/TrainStation.TrainStation
+[2021.09.05-11.36.43:514][599]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TrainStation/TrainStation_BuiltData.TrainStation_BuiltData
+[2021.09.05-11.36.50:302][822]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2021.09.05-11.36.51:290][822]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 141
+[2021.09.05-11.36.51:834][822]LogSlate: Window 'Save Content' being destroyed
+[2021.09.05-11.36.51:931][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var1_seEoW_1DD1E4ACD4C5ECA1C872D0EB99BEB7909.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1.uasset'
+[2021.09.05-11.36.51:955][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var2_seEoW_29B3A9C364539C0DCB70637B372E9D58B.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2.uasset'
+[2021.09.05-11.36.51:972][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var3_seEoW_312AC06AD4C4E15CD6E1B96B1DFC03F22.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3.uasset'
+[2021.09.05-11.36.52:340][822]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2021.09.05-11.36.52:341][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var4_seEoW_415B5292D42E51D7F9F5B39A74603801F.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4.uasset'
+[2021.09.05-11.36.52:359][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var5_seEoW_5D837BA7A4BCEC23D3CD0B297D97D6648.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5.uasset'
+[2021.09.05-11.36.52:383][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var6_seEoW_6720F527141EAB6A7EE0FF4A333003BDD.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6.uasset'
+[2021.09.05-11.36.52:390][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_seEoW_Billboard_insBAF4C55242E6D664677C66B2A4B32814.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst.uasset'
+[2021.09.05-11.36.52:398][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_seEoW_instAA1B6E8247DE77449DD775B2BC173E1C.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst.uasset'
+[2021.09.05-11.36.52:437][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var1_rbojr_1F02620D6493BB4BD07E35587947B54D3.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1.uasset'
+[2021.09.05-11.36.52:457][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var2_rbojr_20105DC8F4411E1144E51A1B2ACCA5AF0.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2.uasset'
+[2021.09.05-11.36.52:486][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var3_rbojr_3225252824ED1BF56D86538BDFAA8382E.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3.uasset'
+[2021.09.05-11.36.52:493][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_rbojr_Billboard_insD615E0214F511B26370D1AAC099866B2.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst.uasset'
+[2021.09.05-11.36.52:501][822]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_rbojr_instB32B01814488E318BFBCF1AD0C61F056.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst.uasset'
+[2021.09.05-11.36.52:856][822]LogSlate: Window 'SCP_Infinity_Project - Unreal Editor' being destroyed
+[2021.09.05-11.36.53:492][822]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.05-11.36.53:492][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3.Grass_Clumps_LOD0_Var3_rbojr_3
+[2021.09.05-11.36.53:492][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2.Grass_Clumps_LOD0_Var2_rbojr_2
+[2021.09.05-11.36.53:492][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1.Grass_Clumps_LOD0_Var1_rbojr_1
+[2021.09.05-11.36.53:492][822]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst.Grass_Clumps_rbojr_inst
+[2021.09.05-11.36.53:492][822]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst.Grass_Clumps_rbojr_Billboard_inst
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6.Bracken_Fern_LOD0_Var6_seEoW_6
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5.Bracken_Fern_LOD0_Var5_seEoW_5
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4.Bracken_Fern_LOD0_Var4_seEoW_4
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3.Bracken_Fern_LOD0_Var3_seEoW_3
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2.Bracken_Fern_LOD0_Var2_seEoW_2
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1.Bracken_Fern_LOD0_Var1_seEoW_1
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst.Bracken_Fern_seEoW_inst
+[2021.09.05-11.36.53:493][822]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst.Bracken_Fern_seEoW_Billboard_inst
+[2021.09.05-11.36.53:640][823]Cmd: QUIT_EDITOR
+[2021.09.05-11.36.53:641][823]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.05-11.36.53:673][823]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.05-11.36.54:336][823]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.05-11.36.54:336][823]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.05-11.36.54:336][823]LogAudio: Display: Audio Device unregistered from world 'TrainStation'.
+[2021.09.05-11.36.54:336][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.36.54:339][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.36.54:413][823]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.05-11.36.54:414][823]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.05-11.36.54:426][823]LogExit: Preparing to exit.
+[2021.09.05-11.36.54:427][823]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.36.54:904][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 121
+[2021.09.05-11.36.56:025][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9D900] Windows
+[2021.09.05-11.36.56:025][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9D800] Default__DeviceProfile
+[2021.09.05-11.36.56:025][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B500] WindowsNoEditor
+[2021.09.05-11.36.56:025][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9F300] WindowsServer
+[2021.09.05-11.36.56:025][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79000] WindowsClient
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9D100] IOS
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B200] iPadAir
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9F200] iPadAir2
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C2600] IPadPro
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C2700] iPadAir3
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9F700] iPadAir4
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C3C00] iPadMini2
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9DF00] iPadMini3
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C1B00] iPadMini4
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9DD00] iPadMini5
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FDF00] iPhone6
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE000] iPodTouch6
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B300] iPhone7
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B400] iPodTouch7
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FF600] iPhone5S
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79800] iPhone6Plus
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD900] iPhone6S
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7BA00] iPhone6SPlus
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCC00] iPhone7Plus
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79D00] iPhoneSE
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD200] iPhone8
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B000] iPhone8Plus
+[2021.09.05-11.36.56:026][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCA00] iPhoneX
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79200] iPhoneXS
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE500] iPhoneXSMax
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A78700] iPhoneXR
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FF000] iPhone11
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A900] iPhone11Pro
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD800] iPhone11ProMax
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79F00] iPhoneSE2
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FFC00] iPhone12Mini
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79E00] iPhone12
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9FA00] iPhone12Pro
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD700] iPhone12ProMax
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9FC00] iPadPro105
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCE00] iPadPro129
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9ED00] iPadPro97
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FEC00] iPadPro2_129
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79700] iPad5
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FF800] iPad6
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7BF00] iPad7
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD100] iPad8
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A78C00] iPadPro11
+[2021.09.05-11.36.56:027][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCB00] iPadPro2_11
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7AE00] iPadPro3_129
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FC100] iPadPro4_129
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B100] AppleTV
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FFB00] AppleTV4K
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A78100] TVOS
+[2021.09.05-11.36.56:028][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FC500] Mac
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7AC00] MacClient
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FF400] MacNoEditor
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B900] MacServer
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD300] Linux
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A800] LinuxAArch64
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE200] LinuxNoEditor
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7BD00] LinuxAArch64NoEditor
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FF300] LinuxClient
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A300] LinuxAArch64Client
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE600] LinuxServer
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79B00] LinuxAArch64Server
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FED00] Android
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A78E00] Android_Low
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FD600] Android_Mid
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A000] Android_High
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE700] Android_Default
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79900] Android_Adreno4xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FC700] Android_Adreno5xx_Low
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7B700] Android_Adreno5xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FC800] Android_Adreno6xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7AD00] Android_Adreno6xx_Vulkan
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FE800] Android_Mali_T6xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A600] Android_Mali_T7xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCD00] Android_Mali_T8xx
+[2021.09.05-11.36.56:029][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A7A400] Android_Mali_G71
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FCF00] Android_Mali_G72
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A78D00] Android_Mali_G72_Vulkan
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FEA00] Android_Mali_G76
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A79300] Android_Mali_G76_Vulkan
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39FDA00] Android_Mali_G77
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C2E00] Android_Mali_G77_Vulkan
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9F900] Android_Vulkan_SM5
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C0800] Android_PowerVR_G6xxx
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9F400] Android_PowerVR_GT7xxx
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C0E00] Android_PowerVR_GE8xxx
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9D400] Android_PowerVR_GM9xxx
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C0900] Android_PowerVR_GM9xxx_Vulkan
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9CE00] Android_TegraK1
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C0D00] Android_Unknown_Vulkan
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9CC00] Lumin
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F39C1000] Lumin_Desktop
+[2021.09.05-11.36.56:030][823]LogDeviceProfile: Device profile begin destroy: [000001F6F3A9D700] HoloLens
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:131][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:132][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:133][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:134][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:135][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:135][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:136][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:137][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:138][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:139][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:140][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:141][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:142][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:142][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.05-11.36.56:217][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.36.56:598][823]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.05-11.36.56:954][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2021.09.05-11.36.56:954][823]LogExit: Editor shut down
+[2021.09.05-11.36.56:958][823]LogExit: Transaction tracking system shut down
+[2021.09.05-11.36.59:208][823]LogExit: Object subsystem successfully closed.
+[2021.09.05-11.36.59:285][823]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.09.05-11.36.59:542][823]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (854)
+[2021.09.05-11.36.59:542][823]LogModuleManager: Shutting down and abandoning module BlueprintGraph (852)
+[2021.09.05-11.36.59:542][823]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (850)
+[2021.09.05-11.36.59:542][823]LogModuleManager: Shutting down and abandoning module Voice (848)
+[2021.09.05-11.36.59:551][823]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (846)
+[2021.09.05-11.36.59:551][823]LogModuleManager: Shutting down and abandoning module AddContentDialog (844)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module WidgetCarousel (843)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module EditorWidgets (840)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module SceneOutliner (838)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module StatsViewer (836)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (834)
+[2021.09.05-11.36.59:574][823]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (832)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module AutomationWorker (830)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module SteamVREditor (828)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module OculusMR (826)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (824)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (822)
+[2021.09.05-11.36.59:575][823]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (820)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (818)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (816)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (814)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (812)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (810)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (808)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module WebMMedia (806)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (804)
+[2021.09.05-11.36.59:576][823]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (802)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module SequenceRecorder (801)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (798)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (796)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (794)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (792)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (790)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module TimeClock (788)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module ProductivityTools (786)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module PrefabricatorEditorPostInit (784)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module GraphFormatter (782)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (780)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (778)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (776)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module PlanarCut (774)
+[2021.09.05-11.36.59:577][823]LogModuleManager: Shutting down and abandoning module ControlRigEditor (772)
+[2021.09.05-11.36.59:824][823]LogModuleManager: Shutting down and abandoning module AnimationEditor (771)
+[2021.09.05-11.36.59:825][823]LogModuleManager: Shutting down and abandoning module CharacterAI (768)
+[2021.09.05-11.36.59:825][823]LogModuleManager: Shutting down and abandoning module TextureAlignMode (766)
+[2021.09.05-11.36.59:825][823]LogModuleManager: Shutting down and abandoning module BspMode (764)
+[2021.09.05-11.36.59:825][823]LogModuleManager: Shutting down and abandoning module GeometryMode (762)
+[2021.09.05-11.36.59:825][823]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (760)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module SessionServices (758)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (756)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module FoliageEdit (754)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module LandscapeEditor (752)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module MeshPaintMode (750)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (748)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module ActorPickerMode (746)
+[2021.09.05-11.36.59:826][823]LogModuleManager: Shutting down and abandoning module PlacementMode (744)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module ViewportSnapping (742)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module ViewportInteraction (740)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module ClothPainter (738)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (737)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module LogVisualizer (734)
+[2021.09.05-11.36.59:827][823]LogModuleManager: Shutting down and abandoning module IntroTutorials (732)
+[2021.09.05-11.36.59:844][823]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (731)
+[2021.09.05-11.36.59:844][823]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (728)
+[2021.09.05-11.36.59:844][823]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (726)
+[2021.09.05-11.36.59:844][823]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (724)
+[2021.09.05-11.36.59:844][823]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (723)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (720)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (718)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (716)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (714)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module TraceInsights (712)
+[2021.09.05-11.37.00:024][823]MemoryProfiler: Shutdown
+[2021.09.05-11.37.00:024][823]NetworkingProfiler: Shutdown
+[2021.09.05-11.37.00:024][823]LoadingProfiler: Shutdown
+[2021.09.05-11.37.00:024][823]TimingProfiler: Shutdown
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module TraceServices (711)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (708)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (706)
+[2021.09.05-11.37.00:024][823]LogModuleManager: Shutting down and abandoning module InputBindingEditor (704)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module MergeActors (702)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (700)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module LocalizationService (699)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module HardwareTargeting (696)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (694)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module UndoHistory (692)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module XmlParser (690)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module Blutility (688)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (686)
+[2021.09.05-11.37.00:025][823]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (685)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (682)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (681)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module SettingsEditor (678)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module ProjectLauncher (676)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module SessionFrontend (674)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module ProfilerClient (672)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module DeviceManager (670)
+[2021.09.05-11.37.00:026][823]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (669)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module AutomationController (666)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module AutomationWindow (664)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module Layers (662)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (660)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module DetailCustomizations (658)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module PackagesDialog (656)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (654)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module Persona (652)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (651)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module AnimGraph (649)
+[2021.09.05-11.37.00:060][823]LogModuleManager: Shutting down and abandoning module Kismet (646)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module KismetWidgets (645)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module GraphEditor (642)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module StructViewer (640)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module ClassViewer (638)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module Toolbox (636)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module ModuleUI (634)
+[2021.09.05-11.37.00:078][823]LogModuleManager: Shutting down and abandoning module OutputLog (632)
+[2021.09.05-11.37.00:081][823]LogModuleManager: Shutting down and abandoning module GammaUI (630)
+[2021.09.05-11.37.00:081][823]LogModuleManager: Shutting down and abandoning module Documentation (628)
+[2021.09.05-11.37.00:081][823]LogModuleManager: Shutting down and abandoning module LiveCoding (626)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (624)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module MovieScene (622)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (620)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module LauncherPlatform (618)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module AnalyticsET (616)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module PortalServices (614)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module PortalRpc (612)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module MessagingRpc (610)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (608)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module AudioMixerCore (607)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module AIModule (604)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module GameplayDebugger (603)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module AITestSuite (601)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module NavigationSystem (599)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (596)
+[2021.09.05-11.37.00:082][823]LogModuleManager: Shutting down and abandoning module ProfilerService (594)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module TaskGraph (592)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (590)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module UIWS (588)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module ElectronicNodes (586)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module OculusEditor (584)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module OculusInput (582)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (580)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (578)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module CollectionManager (577)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module ScreenshotTools (574)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module SynthesisEditor (572)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module Synthesis (570)
+[2021.09.05-11.37.00:181][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (568)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (566)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (564)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module EditableMesh (562)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (560)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module CableComponent (558)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (555)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module AssetTags (552)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (550)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (548)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module AppleImageUtils (546)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (544)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (542)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module TemplateSequence (540)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module MediaCompositing (538)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module ImgMedia (536)
+[2021.09.05-11.37.00:182][823]LogModuleManager: Shutting down and abandoning module PhysicalLayout (534)
+[2021.09.05-11.37.00:317][823]LogModuleManager: Shutting down and abandoning module ConstructionSystemEditor (532)
+[2021.09.05-11.37.00:317][823]LogModuleManager: Shutting down and abandoning module PrefabricatorEditor (530)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibraryEditor (528)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module EasyBallistics (526)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (524)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (522)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (520)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (518)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (516)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (514)
+[2021.09.05-11.37.00:400][823]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (512)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (510)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (508)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module MotoSynth (506)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GPULightmassEditor (504)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module MeshConversion (502)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module DynamicMesh (500)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (498)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometricObjects (496)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (494)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (493)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (490)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (488)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (486)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (484)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (482)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module FractureEditor (478)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (477)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (474)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module BackChannel (472)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module AlembicImporter (470)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module AlembicLibrary (469)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCache (468)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (467)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (462)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (460)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module AutomationUtils (458)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (454)
+[2021.09.05-11.37.00:401][823]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (452)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (450)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module CryptoKeys (448)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module CurveEditorTools (446)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (444)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (442)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module UObjectPlugin (440)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (438)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (436)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (432)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (430)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module GitSourceControl (428)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module SourceControl (427)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (424)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (422)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (420)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module SignificanceManager (412)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (410)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (400)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module ActorSequence (396)
+[2021.09.05-11.37.00:402][823]LogModuleManager: Shutting down and abandoning module UdpMessaging (394)
+[2021.09.05-11.37.00:503][823]LogModuleManager: Shutting down and abandoning module TcpMessaging (392)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module PowerIKRuntime (390)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module PowerIKTool (388)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module ConstructionSystemRuntime (386)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module PrefabricatorRuntime (384)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibrary (382)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (378)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (376)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (374)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (372)
+[2021.09.05-11.37.00:604][823]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (370)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (368)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (366)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (364)
+[2021.09.05-11.37.00:604][823]LogModuleManager: Shutting down and abandoning module MagicLeapController (362)
+[2021.09.05-11.37.00:604][823]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (360)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapAR (358)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module AugmentedReality (357)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2021.09.05-11.37.00:605][823]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (344)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module ControlRig (342)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module LevelSequence (341)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (338)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2021.09.05-11.37.00:787][823]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2021.09.05-11.37.00:788][823]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2021.09.05-11.37.00:788][823]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2021.09.05-11.37.00:789][823]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2021.09.05-11.37.00:789][823]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (326)
+[2021.09.05-11.37.00:789][823]LogModuleManager: Shutting down and abandoning module MainFrame (324)
+[2021.09.05-11.37.00:789][823]LogModuleManager: Shutting down and abandoning module HotReload (323)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module ContentBrowser (317)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module ContentBrowserData (316)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module TreeMap (313)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (310)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module AnimationSharing (308)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (306)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (304)
+[2021.09.05-11.37.00:790][823]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (302)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (300)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module AsyncLoadingScreen (298)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (296)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module PacketHandler (294)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (292)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (290)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module MediaAssets (288)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module Overlay (286)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module OverlayEditor (285)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module VREditor (282)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module StringTableEditor (280)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (278)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (276)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module FunctionalTesting (274)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (272)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (271)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module UMG (268)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module UMGEditor (267)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module MessageLog (265)
+[2021.09.05-11.37.00:791][823]LogModuleManager: Shutting down and abandoning module SlateReflector (260)
+[2021.09.05-11.37.00:792][823]LogModuleManager: Shutting down and abandoning module Slate (258)
+[2021.09.05-11.37.00:792][823]LogModuleManager: Shutting down and abandoning module SlateCore (256)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (254)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module UnrealEd (252)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module MRMesh (250)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (248)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (246)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module XAudio2 (244)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module Networking (242)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module Core (240)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module MaterialEditor (238)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module MovieSceneTools (236)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module CurveEditor (235)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module Sequencer (233)
+[2021.09.05-11.37.00:793][823]LogModuleManager: Shutting down and abandoning module EditorStyle (232)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module KismetCompiler (228)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MeshBuilder (226)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MeshUtilities (224)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (223)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (206)
+[2021.09.05-11.37.00:796][823]LogModuleManager: Shutting down and abandoning module DerivedDataCache (204)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TargetPlatform (202)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (201)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (199)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (197)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (195)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (193)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2021.09.05-11.37.00:797][823]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2021.09.05-11.37.00:798][823]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2021.09.05-11.37.00:808][823]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2021.09.05-11.37.00:808][823]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2021.09.05-11.37.00:808][823]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2021.09.05-11.37.00:808][823]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2021.09.05-11.37.00:808][823]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2021.09.05-11.37.00:824][823]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2021.09.05-11.37.00:833][823]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2021.09.05-11.37.00:859][823]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2021.09.05-11.37.00:859][823]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2021.09.05-11.37.00:859][823]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2021.09.05-11.37.00:859][823]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (124)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module PhysXCooking (122)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (118)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (117)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module AVEncoder (116)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (112)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module SteamVRInput (110)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module SteamVR (108)
+[2021.09.05-11.37.00:861][823]LogHMD: Freeing OpenVRDLLHandle.
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module OculusHMD (106)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (104)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module ChunkDownloader (102)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (100)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (98)
+[2021.09.05-11.37.00:861][823]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2021.09.05-11.37.00:921][823]LogModuleManager: Shutting down and abandoning module SteamShared (88)
+[2021.09.05-11.37.00:921][823]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.09.05-11.37.00:962][823]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2021.09.05-11.37.00:962][823]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2021.09.05-11.37.00:966][823]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2021.09.05-11.37.00:966][823]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.09.05-11.37.00:966][823]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10C173AA-40BF-8166-1F50-3CB0AFCA594D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=da9abe3944d65b382d174ebb347734e8%7C2481546268ee47e4adbc5f3e0f55a57c%7Cd12d0c20-53aa-4acd-b0e0-dc0544fadc95&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.09.05-11.37.00:966][823]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.09.05-11.37.00:984][823]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2021.09.05-11.37.00:986][823]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2021.09.05-11.37.00:992][823]LogModuleManager: Shutting down and abandoning module Media (75)
+[2021.09.05-11.37.00:993][823]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.09.05-11.37.00:994][823]LogModuleManager: Shutting down and abandoning module GPULightmass (56)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module LensDistortion (52)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.09.05-11.37.01:230][823]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.09.05-11.37.01:231][823]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.09.05-11.37.01:233][823]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.09.05-11.37.01:233][823]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.09.05-11.37.01:233][823]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.09.05-11.37.01:233][823]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.09.05-11.37.01:234][823]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.09.05-11.37.01:234][823]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.09.05-11.37.01:241][823]LogD3D11RHI: Shutdown
+[2021.09.05-11.37.01:241][823]LogD3D11RHI: CleanupD3DDevice
+[2021.09.05-11.37.01:306][823]LogExit: Exiting.
+[2021.09.05-11.37.01:329][823]Log file closed, 09/05/21 12:37:01
