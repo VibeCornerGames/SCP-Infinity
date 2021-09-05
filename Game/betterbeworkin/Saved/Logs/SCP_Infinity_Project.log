@@ -2201,3 +2201,1375 @@ Script call stack:
 [2021.09.05-11.06.30:533][628]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStationDE43E9984C3E1E484A4603BC79C79B8E.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation.umap'
 [2021.09.05-11.06.30:698][628]AssetCheck: New page: Asset Save: TrainStation
 [2021.09.05-11.06.30:698][628]LogContentValidation: Display: Validating World /Game/Maps/TrainStation/TrainStation.TrainStation
+[2021.09.05-11.08.03:083][531]LogLinker: Warning: Failed to load '/Game/AGR/Audio/Ambientconcurency': Can't find file.
+[2021.09.05-11.08.03:083][531]LogUObjectGlobals: Warning: Failed to find object 'SoundConcurrency /Game/AGR/Audio/Ambientconcurency.AmbientConcurency'
+[2021.09.05-11.08.03:084][531]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Light_wind_1...
+[2021.09.05-11.08.03:375][531]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ultimate_SFX_Bundle/Natural_Ambiances_VOL_2/Wavs/Light_wind/Light_wind_1.Light_wind_1 will be modified from 40 to 40.
+[2021.09.05-11.08.04:442][531]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8071660 while cooking SoundWave /Game/Ultimate_SFX_Bundle/Natural_Ambiances_VOL_2/Wavs/Light_wind/Light_wind_1.Light_wind_1.
+[2021.09.05-11.08.06:781][641]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Light_wind_2...
+[2021.09.05-11.08.07:057][641]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ultimate_SFX_Bundle/Natural_Ambiances_VOL_2/Wavs/Light_wind/Light_wind_2.Light_wind_2 will be modified from 40 to 40.
+[2021.09.05-11.08.09:617][641]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 21299124 while cooking SoundWave /Game/Ultimate_SFX_Bundle/Natural_Ambiances_VOL_2/Wavs/Light_wind/Light_wind_2.Light_wind_2.
+[2021.09.05-11.08.25:720][534]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/BallisticsVFX/SFX/Impacts/Bits/Sizzles/InLiquid/01-Sizzles_Wet.01-Sizzles_Wet was zero and has changed. Consider manually Re-saving the asset
+[2021.09.05-11.08.52:304][841]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.08.52:322][841]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.08.52:324][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.08.52:324][841]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:08:52)
+[2021.09.05-11.08.52:324][841]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.08.52:690][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.365001s)
+[2021.09.05-11.08.52:691][841]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.08.52:691][841]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2021.09.05-11.08.52:691][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.366845s)
+[2021.09.05-11.08.52:727][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.09.05-11.08.52:733][841]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.09.05-11.08.52:733][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.08.52:733][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.08.52:734][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.08.52:734][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.08.52:734][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.08.52:790][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.08.52:790][841]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.08.52:819][841]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.08.52:820][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.08.52:820][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.08.52:820][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.08.52:820][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.08.52:820][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.08.52:820][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.08.52:844][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.08.52:844][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.08.52:844][841]LogInit: FAudioDevice initialized.
+[2021.09.05-11.08.52:844][841]LogAudio: Display: Audio Device (ID: 12) registered with world 'TrainStation'.
+[2021.09.05-11.08.53:225][841]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.08.53:281][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.08.53:282][841]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.08.53:324][841]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.08.53
+[2021.09.05-11.08.53:325][841]LogWorld: Bringing up level for play took: 0.042283
+[2021.09.05-11.08.53:325][841]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.09.05-11.08.53:327][841]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.08.53:329][841]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.08.53:329][841]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.08.53:329][841]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.08.53:329][841]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.08.53:329][841]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.08.53:329][841]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.08.53:329][841]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.08.53:336][841]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.08.53:339][841]PIE: Server logged in
+[2021.09.05-11.08.53:343][841]PIE: Play in editor total start time 1.023 seconds.
+[2021.09.05-11.08.53:418][841]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.08.53:418][841]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.09.17:376][269]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.09.17:376][269]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.17:503][276]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.09.17:503][276]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.17:613][282]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.09.17:614][282]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.17:748][290]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.09.17:748][290]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.17:866][297]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 969
+[2021.09.05-11.09.17:867][297]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.17:999][305]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 969
+[2021.09.05-11.09.17:999][305]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.18:118][312]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 969
+[2021.09.05-11.09.18:119][312]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.18:238][319]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 969
+[2021.09.05-11.09.18:238][319]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.19:779][406]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 969
+[2021.09.05-11.09.19:779][406]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.19:892][413]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 21 / 31    - spare: 969
+[2021.09.05-11.09.19:892][413]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:009][420]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 20 / 31    - spare: 969
+[2021.09.05-11.09.20:010][420]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:143][428]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 19 / 31    - spare: 969
+[2021.09.05-11.09.20:143][428]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:258][435]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 18 / 31    - spare: 969
+[2021.09.05-11.09.20:259][435]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:392][443]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 17 / 31    - spare: 969
+[2021.09.05-11.09.20:392][443]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:509][450]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 16 / 31    - spare: 969
+[2021.09.05-11.09.20:510][450]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.20:643][458]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 15 / 31    - spare: 969
+[2021.09.05-11.09.20:643][458]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.23:504][624]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 14 / 31    - spare: 969
+[2021.09.05-11.09.23:504][624]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.23:619][631]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 13 / 31    - spare: 969
+[2021.09.05-11.09.23:619][631]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.23:736][638]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 12 / 31    - spare: 969
+[2021.09.05-11.09.23:736][638]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.23:870][646]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 11 / 31    - spare: 969
+[2021.09.05-11.09.23:871][646]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.23:989][653]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 10 / 31    - spare: 969
+[2021.09.05-11.09.23:989][653]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.24:121][661]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 9 / 31    - spare: 969
+[2021.09.05-11.09.24:121][661]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.24:238][668]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 8 / 31    - spare: 969
+[2021.09.05-11.09.24:238][668]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.24:371][676]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 7 / 31    - spare: 969
+[2021.09.05-11.09.24:371][676]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.35:682][340]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 6 / 31    - spare: 969
+[2021.09.05-11.09.35:682][340]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.35:796][344]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 5 / 31    - spare: 969
+[2021.09.05-11.09.35:796][344]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.35:929][349]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 4 / 31    - spare: 969
+[2021.09.05-11.09.35:929][349]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.36:058][355]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 3 / 31    - spare: 969
+[2021.09.05-11.09.36:058][355]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.36:142][358]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/BallisticsVFX/SFX/Impacts/Metal_Ringer_Impacts.Metal_Ringer_Impacts was zero and has changed. Consider manually Re-saving the asset
+[2021.09.05-11.09.36:164][359]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 2 / 31    - spare: 969
+[2021.09.05-11.09.36:164][359]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.36:299][363]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 1 / 31    - spare: 969
+[2021.09.05-11.09.36:299][363]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.09.36:427][369]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 0 / 31    - spare: 969
+[2021.09.05-11.09.41:262][634]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 938
+[2021.09.05-11.09.41:262][634]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.41:383][641]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 938
+[2021.09.05-11.09.41:383][641]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.41:503][648]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 938
+[2021.09.05-11.09.41:503][648]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.41:621][655]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 938
+[2021.09.05-11.09.41:621][655]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.41:758][663]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 938
+[2021.09.05-11.09.41:758][663]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.42:827][724]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 938
+[2021.09.05-11.09.42:828][724]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.42:932][730]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 938
+[2021.09.05-11.09.42:932][730]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.43:063][737]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 938
+[2021.09.05-11.09.43:063][737]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.43:195][744]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 938
+[2021.09.05-11.09.43:195][744]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.43:304][750]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 21 / 31    - spare: 938
+[2021.09.05-11.09.43:304][750]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.43:433][757]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 20 / 31    - spare: 938
+[2021.09.05-11.09.43:433][757]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.09.45:047][849]LogScript: Warning: Accessed None trying to read property ActiveWeapon2
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:10D0
+[2021.09.05-11.09.45:065][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ActiveWeapon2". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  DestroyActor
+[2021.09.05-11.09.46:428][930]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.09.46:428][930]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.46:513][935]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.09.46:513][935]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.46:616][941]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.09.46:617][941]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.46:715][947]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.09.46:715][947]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.46:819][953]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 26 / 31    - spare: 969
+[2021.09.05-11.09.46:819][953]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:508][992]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 25 / 31    - spare: 969
+[2021.09.05-11.09.47:509][992]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:599][997]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 24 / 31    - spare: 969
+[2021.09.05-11.09.47:599][997]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:693][  2]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 23 / 31    - spare: 969
+[2021.09.05-11.09.47:693][  2]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:791][  7]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 22 / 31    - spare: 969
+[2021.09.05-11.09.47:791][  7]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:889][ 12]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 21 / 31    - spare: 969
+[2021.09.05-11.09.47:889][ 12]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.47:985][ 17]LogBlueprintUserMessages: [BP_M16_C_0] Ammo: 20 / 31    - spare: 969
+[2021.09.05-11.09.47:985][ 17]LogBlueprintUserMessages: [BP_M16_C_0] Grass
+[2021.09.05-11.09.52:408][275]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.52:408][275]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.52:408][275]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F92
+[2021.09.05-11.09.52:408][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.53:201][322]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.53:201][322]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.53:201][322]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F92
+[2021.09.05-11.09.53:201][322]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.53:468][338]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun_1, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:31CF
+[2021.09.05-11.09.53:469][338]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun_1, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.53:469][338]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:31E4
+[2021.09.05-11.09.53:469][338]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.53:469][338]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBPI_FPSPro_10, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:33D7
+[2021.09.05-11.09.53:469][338]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBPI_FPSPro_10, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Get Empty Reload Montage
+[2021.09.05-11.09.53:469][338]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBPI_FPSPro_11, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:3496
+[2021.09.05-11.09.53:469][338]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBPI_FPSPro_11, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Trigger Empty Reload
+[2021.09.05-11.09.55:812][477]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_Reload_C /Game/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.A_Arms_RU74_Reload_Empty_Montage:BP_Reload_C_0
+	Function /Game/Player/Weapons/Other/BP_Reload.BP_Reload_C:Received_Notify:05AA
+[2021.09.05-11.09.55:813][477]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_Reload Function:  Received Notify Graph:  Received_Notify Node:  Branch
+[2021.09.05-11.09.55:813][477]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_Reload_C /Game/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.A_Arms_RU74_Reload_Empty_Montage:BP_Reload_C_0
+	Function /Game/Player/Weapons/Other/BP_Reload.BP_Reload_C:Received_Notify:05E2
+[2021.09.05-11.09.55:813][477]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_Reload Function:  Received Notify Graph:  Received_Notify Node:  Branch
+[2021.09.05-11.09.55:813][477]LogScript: Warning: Accessed None
+	BP_Reload_C /Game/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.A_Arms_RU74_Reload_Empty_Montage:BP_Reload_C_0
+	Function /Game/Player/Weapons/Other/BP_Reload.BP_Reload_C:Received_Notify:05F7
+[2021.09.05-11.09.55:813][477]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Reload Function:  Received Notify Graph:  Received_Notify Node:  Branch
+[2021.09.05-11.09.55:813][477]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_Reload_C /Game/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.A_Arms_RU74_Reload_Empty_Montage:BP_Reload_C_0
+	Function /Game/Player/Weapons/Other/BP_Reload.BP_Reload_C:Received_Notify:0633
+[2021.09.05-11.09.55:813][477]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_Reload Function:  Received Notify Graph:  Received_Notify Node:  Branch
+[2021.09.05-11.09.56:715][531]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.56:716][531]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.56:716][531]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F92
+[2021.09.05-11.09.56:716][531]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:300][566]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.57:300][566]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:300][566]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F92
+[2021.09.05-11.09.57:300][566]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:467][576]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.57:467][576]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:467][576]LogScript: Warning: Accessed None
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F92
+[2021.09.05-11.09.57:467][576]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:651][587]LogScript: Warning: Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill
+	BP_FpsProCharacter_C /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation:PersistentLevel.BP_FpsProCharacter_C_0
+	Function /Game/Player/MainBPs/BP_FpsProCharacter.BP_FpsProCharacter_C:ExecuteUbergraph_BP_FpsProCharacter:4F7D
+[2021.09.05-11.09.57:651][587]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:651][587]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:821][597]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.57:822][597]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.58:021][609]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_M16_C_0 via property K2Node_DynamicCast_AsBP_Example_Gun, but BP_M16_C_0 is pending kill". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.58:021][609]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_FpsProCharacter Function:  Execute Ubergraph BP Fps Pro Character Graph:  Inputs Node:  Branch
+[2021.09.05-11.09.59:581][702]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.09.59:581][702]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.09.59:666][707]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.09.59:666][707]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.00:155][735]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.10.00:155][735]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.00:232][739]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.10.00:232][739]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.00:622][761]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 26 / 31    - spare: 969
+[2021.09.05-11.10.00:622][761]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.00:708][766]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 25 / 31    - spare: 969
+[2021.09.05-11.10.00:708][766]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.01:690][821]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 24 / 31    - spare: 969
+[2021.09.05-11.10.01:691][821]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.01:787][826]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 23 / 31    - spare: 969
+[2021.09.05-11.10.01:787][826]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.01:875][831]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 22 / 31    - spare: 969
+[2021.09.05-11.10.01:875][831]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.01:979][837]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 21 / 31    - spare: 969
+[2021.09.05-11.10.01:980][837]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:083][843]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 20 / 31    - spare: 969
+[2021.09.05-11.10.02:083][843]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:174][848]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 19 / 31    - spare: 969
+[2021.09.05-11.10.02:174][848]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:285][854]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 18 / 31    - spare: 969
+[2021.09.05-11.10.02:286][854]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:379][859]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 17 / 31    - spare: 969
+[2021.09.05-11.10.02:379][859]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:472][864]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 16 / 31    - spare: 969
+[2021.09.05-11.10.02:472][864]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:570][869]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 15 / 31    - spare: 969
+[2021.09.05-11.10.02:570][869]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:672][874]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 14 / 31    - spare: 969
+[2021.09.05-11.10.02:672][874]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:772][879]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 13 / 31    - spare: 969
+[2021.09.05-11.10.02:772][879]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:876][884]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 12 / 31    - spare: 969
+[2021.09.05-11.10.02:876][884]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.02:978][889]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 11 / 31    - spare: 969
+[2021.09.05-11.10.02:978][889]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.04:633][970]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 10 / 31    - spare: 969
+[2021.09.05-11.10.04:633][970]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.04:712][974]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 9 / 31    - spare: 969
+[2021.09.05-11.10.04:713][974]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.04:816][979]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 8 / 31    - spare: 969
+[2021.09.05-11.10.04:816][979]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.04:919][984]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 7 / 31    - spare: 969
+[2021.09.05-11.10.04:920][984]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:022][989]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 6 / 31    - spare: 969
+[2021.09.05-11.10.05:023][989]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:123][994]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 5 / 31    - spare: 969
+[2021.09.05-11.10.05:123][994]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:228][999]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 4 / 31    - spare: 969
+[2021.09.05-11.10.05:228][999]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:313][  3]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 3 / 31    - spare: 969
+[2021.09.05-11.10.05:313][  3]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:419][  8]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 2 / 31    - spare: 969
+[2021.09.05-11.10.05:419][  8]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:519][ 13]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 1 / 31    - spare: 969
+[2021.09.05-11.10.05:520][ 13]LogBlueprintUserMessages: [BP_M16_C_1] Grass
+[2021.09.05-11.10.05:604][ 17]LogBlueprintUserMessages: [BP_M16_C_1] Ammo: 0 / 31    - spare: 969
+[2021.09.05-11.10.08:176][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.10.08:177][148]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.10.08:177][148]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.10.08:185][148]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.10.08:208][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.10.08:221][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.10.08:253][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.10.08:310][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.10.08:312][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.10.08:375][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.09.05-11.10.08:580][149]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.09.05-11.10.10:504][208]LogSlate: Window 'Message Log' being destroyed
+[2021.09.05-11.10.10:552][208]LogSlate: Window 'Message Log' being destroyed
+[2021.09.05-11.10.25:146][970]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.09.05-11.10.25:146][970]LogTexture: Display: Building textures: T_Emitter (AutoDXT, 256X256)
+[2021.09.05-11.10.25:146][970]LogTexture: Display: Building textures: T_Dandelion_Mask (AutoDXT, 2048X2048)
+[2021.09.05-11.10.25:146][970]LogTexture: Display: Building textures: T_Dandelion_B (AutoDXT, 2048X2048)
+[2021.09.05-11.10.25:146][970]LogMaterial: Display: Missing cached shader map for material M_Dandelion, compiling. 
+[2021.09.05-11.10.25:202][970]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2021.09.05-11.10.25:202][970]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.09.05-11.10.25:202][970]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.09.05-11.10.25:202][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.09.05-11.10.40:506][745]Cmd: DELETE
+[2021.09.05-11.10.40:506][745]Cmd: ACTOR DELETE
+[2021.09.05-11.10.40:653][745]LogEditorActor: Deleted Actor: BP_Particle_Dandelion_C
+[2021.09.05-11.10.40:710][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.09.05-11.10.40:721][745]LogEditorActor: Deleted 1 Actors (0.215 secs)
+[2021.09.05-11.10.44:306][899]LogTexture: Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+[2021.09.05-11.10.44:306][899]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_SunlightColorLUT
+[2021.09.05-11.10.44:307][899]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2021.09.05-11.10.44:317][899]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2021.09.05-11.10.44:720][899]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.09.05-11.10.44:720][899]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.09.05-11.10.44:720][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.09.05-11.10.44:720][899]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.09.05-11.10.44:720][899]LogMaterial: Display: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2021.09.05-11.10.47:765][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.47:765][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector Low generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.47:770][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.47:771][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector Low generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.47:775][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.47:776][996]LogBlueprint: Warning: [AssetLog] D:\Github Clones\SCP-Infinity\Game\betterbeworkin\Content\Particles_Wind_Control_System\Blueprints\BP_Particle_Snow.uasset: [Compiler] Default value for  Item Vector Low generated from expanding Set Array Elem  on  Set Array Elem generated from expanding Set Array Elem  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2021.09.05-11.10.48:159][996]LogTexture: Display: Building textures: T_Snowflake_10_B (AutoDXT, 512X512)
+[2021.09.05-11.10.48:187][996]LogMaterial: Display: Missing cached shader map for material M_Snow, compiling. 
+[2021.09.05-11.10.48:233][996]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.09.05-11.10.51:961][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.09.05-11.10.53:544][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.09.05-11.10.56:620][290]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.09.05-11.10.57:629][290]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.09.05-11.11.00:548][303]LogMeshUtilities: Finished distance field build in 16.3s - 64x64x64 distance field, 5178 triangles, Range [-0.1, 1.0], SM_Arrows
+[2021.09.05-11.11.04:246][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.09.05-11.11.04:821][529]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.09.05-11.11.04:934][530]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.09.05-11.11.05:979][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.09.05-11.11.06:088][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.09.05-11.11.06:632][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.05-11.11.55:573][402]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.12.12:988][375]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.12.32:332][511]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.13.04:470][383]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.14.23:503][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.14.23:514][ 34]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.14.23:520][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.14.23:520][ 34]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:14:23)
+[2021.09.05-11.14.23:520][ 34]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.14.23:814][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.294004s)
+[2021.09.05-11.14.23:815][ 34]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.14.23:816][ 34]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2021.09.05-11.14.23:816][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.295829s)
+[2021.09.05-11.14.23:866][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.09.05-11.14.23:880][ 34]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.14.23:880][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.14.23:880][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.14.23:881][ 34]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.14.23:881][ 34]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.14.23:942][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.14.23:942][ 34]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.14.23:972][ 34]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.14.23:972][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.14.23:973][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.14.23:973][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.14.23:973][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.14.23:973][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.14.23:973][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.14.23:974][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.14.23:974][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.14.23:974][ 34]LogInit: FAudioDevice initialized.
+[2021.09.05-11.14.23:974][ 34]LogAudio: Display: Audio Device (ID: 13) registered with world 'TrainStation'.
+[2021.09.05-11.14.24:372][ 34]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.14.24:431][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.14.24:431][ 34]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.14.24:483][ 34]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.14.24
+[2021.09.05-11.14.24:483][ 34]LogWorld: Bringing up level for play took: 0.051554
+[2021.09.05-11.14.24:484][ 34]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.09.05-11.14.24:487][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.14.24:488][ 34]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.14.24:488][ 34]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.14.24:488][ 34]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.14.24:488][ 34]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.14.24:489][ 34]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.14.24:489][ 34]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.14.24:489][ 34]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.14.24:497][ 34]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.14.24:500][ 34]PIE: Server logged in
+[2021.09.05-11.14.24:502][ 34]PIE: Play in editor total start time 0.989 seconds.
+[2021.09.05-11.14.24:559][ 34]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.14.24:559][ 34]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.14.39:766][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.14.39:767][905]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.14.39:767][905]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.14.39:776][905]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.14.39:789][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.14.39:802][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.14.39:872][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.14.39:923][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.05-11.14.39:923][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.14.39:924][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.14.39:974][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.09.05-11.14.40:027][906]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.09.05-11.16.33:540][649]Cmd: DELETE
+[2021.09.05-11.16.33:540][649]Cmd: ACTOR DELETE
+[2021.09.05-11.16.33:672][649]LogEditorActor: Deleted Actor: VolumetricLightmapDensityVolume
+[2021.09.05-11.16.33:702][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.09.05-11.16.33:709][649]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2021.09.05-11.16.54:968][485]Cmd: DELETE
+[2021.09.05-11.16.54:968][485]Cmd: ACTOR DELETE
+[2021.09.05-11.16.55:058][485]LogEditorActor: Deleted Actor: VolumetricCloud
+[2021.09.05-11.16.55:093][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.09.05-11.16.55:097][485]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2021.09.05-11.17.44:616][873]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.18.10:981][818]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.18.43:808][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.09.05-11.18.43:818][373]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.18.45:160][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation_Auto3C2309E854BE75EDE4914CF8824D5B4CB.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/TrainStation_Auto3.umap'
+[2021.09.05-11.18.45:167][373]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TrainStation/TrainStation' took 1.393
+[2021.09.05-11.18.45:167][373]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.393
+[2021.09.05-11.18.45:168][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1] ([1] browsable assets)...
+[2021.09.05-11.18.45:195][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1.Bracken_Fern_LOD0_Var1_seEoW_1]
+[2021.09.05-11.18.45:195][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1]
+[2021.09.05-11.18.45:222][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var1_seEoW_1_AE9B6F64344D566C72F74A7A7AFA2D1BC.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var1_seEoW_1_Auto3.uasset'
+[2021.09.05-11.18.45:224][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst] ([1] browsable assets)...
+[2021.09.05-11.18.45:247][373]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst.Bracken_Fern_seEoW_Billboard_inst]
+[2021.09.05-11.18.45:247][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst]
+[2021.09.05-11.18.45:354][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_seEoW_Billboard_insF30D45C44CD4B88C11A5DCA5AA6F97C9.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Billboard/Bracken_Fern_seEoW_Billboard_inst_Auto3.uasset'
+[2021.09.05-11.18.45:357][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst] ([1] browsable assets)...
+[2021.09.05-11.18.45:381][373]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst.Bracken_Fern_seEoW_inst]
+[2021.09.05-11.18.45:381][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst]
+[2021.09.05-11.18.45:414][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_seEoW_inst_Auto3297263504ED84884E2B7AD8B6AA0EDA9.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_seEoW_inst_Auto3.uasset'
+[2021.09.05-11.18.45:416][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2] ([1] browsable assets)...
+[2021.09.05-11.18.45:434][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2.Bracken_Fern_LOD0_Var2_seEoW_2]
+[2021.09.05-11.18.45:434][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2]
+[2021.09.05-11.18.45:537][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var2_seEoW_2_ADE2D7F2B4A1D139618EB8EB29BB4669E.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var2_seEoW_2_Auto3.uasset'
+[2021.09.05-11.18.45:541][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3] ([1] browsable assets)...
+[2021.09.05-11.18.45:562][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3.Bracken_Fern_LOD0_Var3_seEoW_3]
+[2021.09.05-11.18.45:562][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3]
+[2021.09.05-11.18.45:719][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var3_seEoW_3_A20BBF17D44B8F0FF4FE45EBBABD5A44A.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var3_seEoW_3_Auto3.uasset'
+[2021.09.05-11.18.45:720][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4] ([1] browsable assets)...
+[2021.09.05-11.18.45:743][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4.Bracken_Fern_LOD0_Var4_seEoW_4]
+[2021.09.05-11.18.45:743][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4]
+[2021.09.05-11.18.45:756][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var4_seEoW_4_A5A21A8BF472F10BB0D1D0FBF1B28B440.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var4_seEoW_4_Auto3.uasset'
+[2021.09.05-11.18.45:758][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5] ([1] browsable assets)...
+[2021.09.05-11.18.45:778][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5.Bracken_Fern_LOD0_Var5_seEoW_5]
+[2021.09.05-11.18.45:778][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5]
+[2021.09.05-11.18.45:805][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var5_seEoW_5_A0824538F4E6863AD31A1C792F4243503.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var5_seEoW_5_Auto3.uasset'
+[2021.09.05-11.18.45:807][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6] ([1] browsable assets)...
+[2021.09.05-11.18.45:827][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6.Bracken_Fern_LOD0_Var6_seEoW_6]
+[2021.09.05-11.18.45:827][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6]
+[2021.09.05-11.18.45:846][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Bracken_Fern_LOD0_Var6_seEoW_6_A1627315143F4BA3137EA64B00F74DFA9.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Bracken_Fern_seEoW/Bracken_Fern_LOD0_Var6_seEoW_6_Auto3.uasset'
+[2021.09.05-11.18.45:847][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1] ([1] browsable assets)...
+[2021.09.05-11.18.45:867][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1.Grass_Clumps_LOD0_Var1_rbojr_1]
+[2021.09.05-11.18.45:867][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1]
+[2021.09.05-11.18.45:896][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var1_rbojr_1_A06D6CE2B424206FC1398B7BCB44E9D5F.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var1_rbojr_1_Auto3.uasset'
+[2021.09.05-11.18.45:898][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst] ([1] browsable assets)...
+[2021.09.05-11.18.45:919][373]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst.Grass_Clumps_rbojr_Billboard_inst]
+[2021.09.05-11.18.45:919][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst]
+[2021.09.05-11.18.46:067][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_rbojr_Billboard_insF653116B48D3B9AB21554DA64736A3A0.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Billboard/Grass_Clumps_rbojr_Billboard_inst_Auto3.uasset'
+[2021.09.05-11.18.46:068][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst] ([1] browsable assets)...
+[2021.09.05-11.18.46:089][373]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst.Grass_Clumps_rbojr_inst]
+[2021.09.05-11.18.46:089][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst]
+[2021.09.05-11.18.46:127][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_rbojr_inst_Auto3DC4A677A4329D250B576C08BAD6FBA87.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_rbojr_inst_Auto3.uasset'
+[2021.09.05-11.18.46:129][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2] ([1] browsable assets)...
+[2021.09.05-11.18.46:147][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2.Grass_Clumps_LOD0_Var2_rbojr_2]
+[2021.09.05-11.18.46:147][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2]
+[2021.09.05-11.18.46:180][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var2_rbojr_2_A3AF9D43B4706F839C60A01828E60A702.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var2_rbojr_2_Auto3.uasset'
+[2021.09.05-11.18.46:181][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3] ([2] browsable assets)...
+[2021.09.05-11.18.46:199][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3.Grass_Clumps_LOD0_Var3_rbojr_3]
+[2021.09.05-11.18.46:218][373]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3.Grass_Clumps_LOD0_Var3_rbojr_3]
+[2021.09.05-11.18.46:218][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3]
+[2021.09.05-11.18.46:235][373]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Grass_Clumps_LOD0_Var3_rbojr_3_AC8991B8D4E91072345D6D194A26EA307.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Autosaves/Game/Maps/TrainStation/Quixel/3D_Plants/Grass_Clumps_rbojr/Grass_Clumps_LOD0_Var3_rbojr_3_Auto3.uasset'
+[2021.09.05-11.18.46:236][373]LogFileHelpers: Auto-saving content packages took 1.069
+[2021.09.05-11.19.09:537][417]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.19.14:267][685]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.19.35:124][866]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.21.02:697][314]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.21.10:908][763]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.21.11:769][802]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.22.00:970][716]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.22.00:980][716]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.22.00:986][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.22.00:986][716]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:22:00)
+[2021.09.05-11.22.01:024][716]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.22.01:317][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293375s)
+[2021.09.05-11.22.01:319][716]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.22.01:320][716]LogPlayLevel: PIE: World Init took: (0.002070s)
+[2021.09.05-11.22.01:320][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.295800s)
+[2021.09.05-11.22.01:363][716]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.09.05-11.22.01:381][716]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.22.01:381][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.22.01:381][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.22.01:381][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.22.01:442][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.22.01:442][716]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.22.01:474][716]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.22.01:475][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.22.01:475][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.22.01:475][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.22.01:475][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.22.01:475][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.22.01:475][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.22.01:499][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.22.01:499][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.22.01:499][716]LogInit: FAudioDevice initialized.
+[2021.09.05-11.22.01:499][716]LogAudio: Display: Audio Device (ID: 14) registered with world 'TrainStation'.
+[2021.09.05-11.22.01:935][716]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.22.01:989][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.22.01:990][716]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.22.02:040][716]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.22.02
+[2021.09.05-11.22.02:040][716]LogWorld: Bringing up level for play took: 0.049358
+[2021.09.05-11.22.02:041][716]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.09.05-11.22.02:043][716]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.22.02:045][716]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.22.02:045][716]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.22.02:045][716]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.22.02:045][716]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.22.02:045][716]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.22.02:045][716]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.22.02:045][716]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.22.02:057][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.22.02:059][716]PIE: Server logged in
+[2021.09.05-11.22.02:061][716]PIE: Play in editor total start time 1.082 seconds.
+[2021.09.05-11.22.02:094][716]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.22.02:094][716]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.22.05:835][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.22.05:836][881]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.22.05:837][881]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.22.05:865][881]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.22.05:882][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.22.05:894][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.22.05:914][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.22.05:971][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.22.05:973][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.22.06:024][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.09.05-11.22.06:073][882]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.09.05-11.22.49:686][376]LogTexture: Display: Building textures: NewReflectionComponentTextureCFA805334C4B0DF221534492EA42E95D (BGRA8, 128X128)
+[2021.09.05-11.23.40:402][325]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.23.40:412][325]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.23.40:417][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.23.40:417][325]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:23:40)
+[2021.09.05-11.23.40:418][325]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.23.40:704][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.285717s)
+[2021.09.05-11.23.40:706][325]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.23.40:723][325]LogPlayLevel: PIE: World Init took: (0.020048s)
+[2021.09.05-11.23.40:723][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.306048s)
+[2021.09.05-11.23.40:766][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.09.05-11.23.40:776][325]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.23.40:777][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.23.40:777][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.23.40:777][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.23.40:865][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.23.40:865][325]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.23.40:906][325]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.23.40:906][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.23.40:906][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.23.40:906][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.23.40:907][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.23.40:907][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.23.40:907][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.23.40:933][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.23.40:933][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.23.40:933][325]LogInit: FAudioDevice initialized.
+[2021.09.05-11.23.40:933][325]LogAudio: Display: Audio Device (ID: 15) registered with world 'TrainStation'.
+[2021.09.05-11.23.41:362][325]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.23.41:417][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.23.41:417][325]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.23.41:478][325]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.23.41
+[2021.09.05-11.23.41:479][325]LogWorld: Bringing up level for play took: 0.060186
+[2021.09.05-11.23.41:479][325]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.09.05-11.23.41:482][325]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.23.41:484][325]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.41:484][325]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.41:484][325]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.41:484][325]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.23.41:484][325]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.23.41:485][325]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.41:485][325]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.41:496][325]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.23.41:499][325]PIE: Server logged in
+[2021.09.05-11.23.41:501][325]PIE: Play in editor total start time 1.089 seconds.
+[2021.09.05-11.23.41:542][325]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.41:542][325]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.50:232][697]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.23.50:232][697]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.23.50:355][702]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.23.50:356][702]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.23.50:458][706]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.23.50:459][706]LogBlueprintUserMessages: [BP_Ak47_C_0] Rock
+[2021.09.05-11.23.51:145][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.23.51:146][729]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.23.51:146][729]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.23.51:179][729]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.23.51:197][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.23.51:208][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.23.51:229][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.23.51:286][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.23.51:288][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.23.51:337][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.09.05-11.23.51:379][730]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.09.05-11.23.53:928][872]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.23.53:940][872]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.23.53:942][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.23.53:942][872]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:23:53)
+[2021.09.05-11.23.53:942][872]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.23.54:241][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.298304s)
+[2021.09.05-11.23.54:242][872]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.23.54:261][872]LogPlayLevel: PIE: World Init took: (0.020938s)
+[2021.09.05-11.23.54:261][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.319531s)
+[2021.09.05-11.23.54:304][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.09.05-11.23.54:307][872]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.23.54:307][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.23.54:307][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.23.54:308][872]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.23.54:308][872]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.23.54:394][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.23.54:395][872]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.23.54:425][872]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.23.54:426][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.23.54:426][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.23.54:426][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.23.54:426][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.23.54:426][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.23.54:426][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.23.54:449][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.23.54:449][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.23.54:449][872]LogInit: FAudioDevice initialized.
+[2021.09.05-11.23.54:449][872]LogAudio: Display: Audio Device (ID: 16) registered with world 'TrainStation'.
+[2021.09.05-11.23.54:859][872]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.23.54:910][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.23.54:911][872]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.23.54:960][872]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.23.54
+[2021.09.05-11.23.54:961][872]LogWorld: Bringing up level for play took: 0.049127
+[2021.09.05-11.23.54:961][872]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.09.05-11.23.54:964][872]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.23.54:966][872]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.54:966][872]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.54:966][872]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.23.54:966][872]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.23.54:966][872]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.23.54:966][872]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.54:967][872]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.54:979][872]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.23.54:983][872]PIE: Server logged in
+[2021.09.05-11.23.54:986][872]PIE: Play in editor total start time 1.046 seconds.
+[2021.09.05-11.23.55:020][872]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.55:020][872]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.23.55:799][905]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2021.09.05-11.23.55:799][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.09.05-11.24.02:618][221]Cmd: r.VSync 1
+[2021.09.05-11.24.02:618][221]r.VSync = "1"
+[2021.09.05-11.24.11:142][583]Cmd: r.PostProcessAAQuality 2
+[2021.09.05-11.24.11:142][583]r.PostProcessAAQuality = "2"
+[2021.09.05-11.24.21:329][ 14]Cmd: sg.TextureQuality 3
+[2021.09.05-11.24.21:330][ 14]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.05-11.24.21:330][ 14]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.05-11.24.21:330][ 14]sg.TextureQuality = "3"
+[2021.09.05-11.24.22:709][ 73]Cmd: sg.ShadowQuality 3
+[2021.09.05-11.24.22:710][ 73]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.05-11.24.22:710][ 73]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.05-11.24.22:736][ 73]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.05-11.24.22:736][ 73]sg.ShadowQuality = "3"
+[2021.09.05-11.24.25:053][173]Cmd: r.setres 1920x1080
+[2021.09.05-11.24.25:053][173]r.SetRes = "1920x1080"
+[2021.09.05-11.24.25:117][173]LogRenderer: Reallocating scene render targets to support 1540x880 Format 10 NumSamples 1 (Frame:1302).
+[2021.09.05-11.24.25:315][173]LogRenderer: Reallocating scene render targets to support 1548x900 Format 10 NumSamples 1 (Frame:1303).
+[2021.09.05-11.24.27:993][270]Cmd: r.setres 1280x720
+[2021.09.05-11.24.27:993][270]r.SetRes = "1280x720"
+[2021.09.05-11.24.33:151][552]Cmd: stat fps
+[2021.09.05-11.24.41:586][ 56]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2021.09.05-11.24.41:586][ 56]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.09.05-11.24.51:216][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.24.51:216][628]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.24.51:217][628]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.24.51:226][628]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.24.51:242][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.24.51:251][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.24.51:272][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.24.51:330][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.24.51:331][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.24.51:383][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.09.05-11.24.51:431][629]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.09.05-11.25.15:267][947]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.25.17:833][ 94]Cmd: DELETE
+[2021.09.05-11.25.17:833][ 94]Cmd: ACTOR DELETE
+[2021.09.05-11.25.17:932][ 94]LogEditorActor: Actor DirectionalLight is referenced by SkySphereBlueprint.
+[2021.09.05-11.25.20:841][ 94]LogSlate: Window 'Message' being destroyed
+[2021.09.05-11.25.20:849][ 94]Message dialog closed, result: Cancel, title: Message, text: Actor DirectionalLight is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SkySphereBlueprint
+[2021.09.05-11.25.20:886][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.09.05-11.25.20:891][ 94]LogEditorActor: Deleted 0 Actors (0.142 secs)
+[2021.09.05-11.25.24:200][289]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.25.24:211][289]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.25.24:216][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.25.24:216][289]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:25:24)
+[2021.09.05-11.25.24:245][289]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.25.24:533][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.288352s)
+[2021.09.05-11.25.24:534][289]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.25.24:554][289]LogPlayLevel: PIE: World Init took: (0.021362s)
+[2021.09.05-11.25.24:554][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.309982s)
+[2021.09.05-11.25.24:593][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.09.05-11.25.24:594][289]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.25.24:595][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.25.24:595][289]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.25.24:595][289]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.25.24:673][289]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.25.24:673][289]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.25.24:726][289]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.25.24:726][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.25.24:726][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.25.24:726][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.25.24:727][289]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.25.24:727][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.25.24:727][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.25.24:752][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.25.24:752][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.25.24:752][289]LogInit: FAudioDevice initialized.
+[2021.09.05-11.25.24:752][289]LogAudio: Display: Audio Device (ID: 17) registered with world 'TrainStation'.
+[2021.09.05-11.25.25:171][289]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.25.25:238][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.25.25:238][289]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.25.25:296][289]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.25.25
+[2021.09.05-11.25.25:296][289]LogWorld: Bringing up level for play took: 0.057495
+[2021.09.05-11.25.25:296][289]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.09.05-11.25.25:298][289]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.25.25:300][289]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.25.25:300][289]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.25.25:300][289]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.25.25:300][289]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.25.25:300][289]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.25.25:301][289]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.25.25:301][289]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.25.25:311][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.25.25:313][289]PIE: Server logged in
+[2021.09.05-11.25.25:315][289]PIE: Play in editor total start time 1.106 seconds.
+[2021.09.05-11.25.25:379][289]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.25.25:379][289]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.25.29:165][475]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.25.29:166][475]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.29:295][480]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.25.29:295][480]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.29:409][484]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.25.29:409][484]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.29:533][489]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.25.29:533][489]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.29:654][494]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 969
+[2021.09.05-11.25.29:654][494]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.29:777][499]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 969
+[2021.09.05-11.25.29:777][499]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:265][668]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 962
+[2021.09.05-11.25.33:265][668]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:390][674]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 962
+[2021.09.05-11.25.33:391][674]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:494][680]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 962
+[2021.09.05-11.25.33:494][680]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:630][687]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 962
+[2021.09.05-11.25.33:631][687]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:748][693]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 962
+[2021.09.05-11.25.33:748][693]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.33:888][700]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 962
+[2021.09.05-11.25.33:888][700]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.34:001][706]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 962
+[2021.09.05-11.25.34:001][706]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.34:123][712]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 962
+[2021.09.05-11.25.34:123][712]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.34:259][719]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 962
+[2021.09.05-11.25.34:259][719]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.25.49:946][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.25.49:946][569]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.25.49:947][569]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.25.49:987][569]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.25.50:002][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.25.50:011][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.25.50:038][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.25.50:098][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.25.50:100][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.25.50:155][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.09.05-11.25.50:243][570]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.09.05-11.26.04:996][383]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2021.09.05-11.26.20:876][200]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.05-11.26.22:000][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.26.22:009][261]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.26.22:013][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.26.22:013][261]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:26:22)
+[2021.09.05-11.26.22:013][261]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.26.22:320][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.307138s)
+[2021.09.05-11.26.22:321][261]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.26.22:341][261]LogPlayLevel: PIE: World Init took: (0.020719s)
+[2021.09.05-11.26.22:341][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.328090s)
+[2021.09.05-11.26.22:381][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.09.05-11.26.22:387][261]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.26.22:387][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.26.22:387][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.26.22:388][261]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.26.22:388][261]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.26.22:475][261]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.26.22:475][261]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.26.22:520][261]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.26.22:521][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.26.22:521][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.26.22:521][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.26.22:521][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.26.22:521][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.26.22:521][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.26.22:523][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.26.22:523][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.26.22:523][261]LogInit: FAudioDevice initialized.
+[2021.09.05-11.26.22:523][261]LogAudio: Display: Audio Device (ID: 18) registered with world 'TrainStation'.
+[2021.09.05-11.26.22:966][261]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.26.23:027][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.26.23:027][261]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.26.23:078][261]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.26.23
+[2021.09.05-11.26.23:078][261]LogWorld: Bringing up level for play took: 0.050774
+[2021.09.05-11.26.23:079][261]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.09.05-11.26.23:082][261]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.26.23:087][261]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.26.23:087][261]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.26.23:087][261]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.26.23:087][261]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.26.23:087][261]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.26.23:088][261]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.26.23:088][261]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.26.23:096][261]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.26.23:102][261]PIE: Server logged in
+[2021.09.05-11.26.23:103][261]PIE: Play in editor total start time 1.095 seconds.
+[2021.09.05-11.26.23:161][261]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.26.23:161][261]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.26.28:658][554]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.26.28:658][554]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.28:771][560]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.26.28:771][560]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.28:890][566]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.26.28:890][566]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.29:391][594]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.26.29:391][594]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.29:514][601]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 969
+[2021.09.05-11.26.29:514][601]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.29:623][607]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 969
+[2021.09.05-11.26.29:623][607]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.29:755][614]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 969
+[2021.09.05-11.26.29:755][614]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.30:449][652]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 969
+[2021.09.05-11.26.30:449][652]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.30:557][658]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 969
+[2021.09.05-11.26.30:557][658]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.30:688][665]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 21 / 31    - spare: 969
+[2021.09.05-11.26.30:689][665]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.30:819][671]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 20 / 31    - spare: 969
+[2021.09.05-11.26.30:819][671]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.30:952][677]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 19 / 31    - spare: 969
+[2021.09.05-11.26.30:952][677]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:069][682]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 18 / 31    - spare: 969
+[2021.09.05-11.26.31:069][682]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:197][687]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 17 / 31    - spare: 969
+[2021.09.05-11.26.31:197][687]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:313][692]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 16 / 31    - spare: 969
+[2021.09.05-11.26.31:313][692]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:434][697]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 15 / 31    - spare: 969
+[2021.09.05-11.26.31:434][697]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:558][702]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 14 / 31    - spare: 969
+[2021.09.05-11.26.31:558][702]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:693][708]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 13 / 31    - spare: 969
+[2021.09.05-11.26.31:693][708]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:804][713]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 12 / 31    - spare: 969
+[2021.09.05-11.26.31:804][713]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.31:935][719]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 11 / 31    - spare: 969
+[2021.09.05-11.26.31:935][719]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.32:063][725]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 10 / 31    - spare: 969
+[2021.09.05-11.26.32:063][725]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.26.33:426][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.26.33:426][790]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.26.33:427][790]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.26.33:438][790]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.26.33:460][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.26.33:480][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.26.33:508][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.26.33:573][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.26.33:575][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.26.33:640][790]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2021.09.05-11.26.33:707][791]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.09.05-11.26.34:158][811]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.26.34:199][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.09.05-11.26.36:644][811]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation8FF26C394FECD543471DE6B53787433E.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation.umap'
+[2021.09.05-11.26.36:761][811]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation_BuiltData450EEDBF4402FBB9DB8C0EB942620B84.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation_BuiltData.uasset'
+[2021.09.05-11.26.36:812][811]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.05-11.26.36:812][811]LogContentValidation: Display: Validating World /Game/Maps/TrainStation/TrainStation.TrainStation
+[2021.09.05-11.26.36:812][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TrainStation/TrainStation_BuiltData.TrainStation_BuiltData
+[2021.09.05-11.28.25:840][402]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Scary_atmosphere_1...
+[2021.09.05-11.28.26:059][402]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Scary_atmosphere/Scary_atmosphere_1.Scary_atmosphere_1 will be modified from 40 to 40.
+[2021.09.05-11.28.27:689][402]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16555964 while cooking SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Scary_atmosphere/Scary_atmosphere_1.Scary_atmosphere_1.
+[2021.09.05-11.28.31:785][627]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Tunnel_1...
+[2021.09.05-11.28.32:007][627]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Tunnel/Tunnel_1.Tunnel_1 will be modified from 40 to 40.
+[2021.09.05-11.28.33:683][627]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 17120680 while cooking SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Tunnel/Tunnel_1.Tunnel_1.
+[2021.09.05-11.29.02:453][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.29.02:464][251]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.29.02:469][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.29.02:469][251]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:29:02)
+[2021.09.05-11.29.02:469][251]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.29.02:756][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287202s)
+[2021.09.05-11.29.02:757][251]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.29.02:777][251]LogPlayLevel: PIE: World Init took: (0.021194s)
+[2021.09.05-11.29.02:778][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.308673s)
+[2021.09.05-11.29.02:951][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.09.05-11.29.02:960][251]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.29.02:960][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.29.02:961][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.29.02:961][251]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.29.02:961][251]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.29.03:025][251]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.29.03:025][251]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.29.03:055][251]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.29.03:056][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.29.03:056][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.29.03:056][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.29.03:056][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.29.03:056][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.29.03:056][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.29.03:081][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.29.03:081][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.29.03:081][251]LogInit: FAudioDevice initialized.
+[2021.09.05-11.29.03:081][251]LogAudio: Display: Audio Device (ID: 19) registered with world 'TrainStation'.
+[2021.09.05-11.29.03:489][251]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.29.03:555][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.29.03:555][251]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.29.03:609][251]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.29.03
+[2021.09.05-11.29.03:611][251]LogWorld: Bringing up level for play took: 0.054269
+[2021.09.05-11.29.03:611][251]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.09.05-11.29.03:615][251]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.29.03:616][251]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.03:616][251]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.03:617][251]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.03:617][251]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.29.03:617][251]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.29.03:617][251]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.03:617][251]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.03:624][251]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.29.03:628][251]PIE: Server logged in
+[2021.09.05-11.29.03:630][251]PIE: Play in editor total start time 1.168 seconds.
+[2021.09.05-11.29.03:730][251]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.03:730][251]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.06:768][424]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.29.06:768][424]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.06:986][436]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.29.06:987][436]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.10:496][645]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 966
+[2021.09.05-11.29.10:496][645]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.11:663][714]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 966
+[2021.09.05-11.29.11:663][714]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.11:780][721]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 966
+[2021.09.05-11.29.11:780][721]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.11:899][728]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 966
+[2021.09.05-11.29.11:899][728]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.12:943][790]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 966
+[2021.09.05-11.29.12:943][790]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:382][922]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 966
+[2021.09.05-11.29.15:382][922]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:498][929]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 966
+[2021.09.05-11.29.15:498][929]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:614][936]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 966
+[2021.09.05-11.29.15:615][936]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:749][944]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 966
+[2021.09.05-11.29.15:749][944]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:867][951]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 21 / 31    - spare: 966
+[2021.09.05-11.29.15:867][951]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.15:997][958]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 20 / 31    - spare: 966
+[2021.09.05-11.29.15:997][958]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.16:133][965]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 19 / 31    - spare: 966
+[2021.09.05-11.29.16:133][965]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.16:243][971]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 18 / 31    - spare: 966
+[2021.09.05-11.29.16:243][971]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.16:381][978]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 17 / 31    - spare: 966
+[2021.09.05-11.29.16:381][978]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.16:493][984]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 16 / 31    - spare: 966
+[2021.09.05-11.29.16:494][984]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.16:624][991]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 15 / 31    - spare: 966
+[2021.09.05-11.29.16:624][991]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.29.26:337][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.29.26:337][557]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.29.26:337][557]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.29.26:346][557]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.29.26:363][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.29.26:371][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.29.26:425][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.29.26:475][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.29.26:477][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.29.26:531][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.09.05-11.29.26:604][558]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.09.05-11.29.36:022][ 80]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Tunnel_2...
+[2021.09.05-11.29.36:248][ 80]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Tunnel/Tunnel_2.Tunnel_2 will be modified from 40 to 40.
+[2021.09.05-11.29.38:083][ 80]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16025588 while cooking SoundWave /Game/Ultimate_SFX_Bundle/Horror_Ambiances_VOL2/Wavs/Tunnel/Tunnel_2.Tunnel_2.
+[2021.09.05-11.29.42:646][317]Cmd: DELETE
+[2021.09.05-11.29.42:646][317]Cmd: ACTOR DELETE
+[2021.09.05-11.29.42:746][317]LogEditorActor: Deleted Actor: AmbientSound
+[2021.09.05-11.29.42:783][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.09.05-11.29.42:786][317]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2021.09.05-11.29.48:017][600]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.09.05-11.29.48:832][646]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2021.09.05-11.29.50:557][746]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Tunnel_2)
+[2021.09.05-11.29.55:246][996]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.29.55:256][996]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.29.55:260][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.29.55:260][996]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:29:55)
+[2021.09.05-11.29.55:260][996]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.29.55:553][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293319s)
+[2021.09.05-11.29.55:555][996]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.29.55:575][996]LogPlayLevel: PIE: World Init took: (0.021111s)
+[2021.09.05-11.29.55:575][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.314725s)
+[2021.09.05-11.29.55:725][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.09.05-11.29.55:729][996]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.29.55:729][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.29.55:729][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.29.55:730][996]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.29.55:730][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.29.55:802][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.29.55:802][996]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.29.55:833][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.29.55:833][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.29.55:858][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.29.55:858][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.29.55:858][996]LogInit: FAudioDevice initialized.
+[2021.09.05-11.29.55:858][996]LogAudio: Display: Audio Device (ID: 20) registered with world 'TrainStation'.
+[2021.09.05-11.29.56:258][996]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.29.56:314][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.29.56:314][996]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.29.56:359][996]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.29.56
+[2021.09.05-11.29.56:359][996]LogWorld: Bringing up level for play took: 0.044746
+[2021.09.05-11.29.56:360][996]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.09.05-11.29.56:362][996]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.29.56:364][996]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.56:364][996]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.56:364][996]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.29.56:364][996]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.29.56:364][996]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.29.56:364][996]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.56:365][996]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.56:374][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.29.56:377][996]PIE: Server logged in
+[2021.09.05-11.29.56:379][996]PIE: Play in editor total start time 1.124 seconds.
+[2021.09.05-11.29.56:440][996]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.29.56:440][996]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.30.05:784][533]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.30.05:784][533]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.06:824][593]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.30.06:824][593]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.07:738][647]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.30.07:738][647]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.08:825][711]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.30.08:825][711]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.16:517][170]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 964
+[2021.09.05-11.30.16:517][170]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.16:624][176]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 964
+[2021.09.05-11.30.16:625][176]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.17:519][225]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 964
+[2021.09.05-11.30.17:519][225]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.17:633][231]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 964
+[2021.09.05-11.30.17:633][231]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.17:752][237]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 964
+[2021.09.05-11.30.17:752][237]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.17:880][243]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 964
+[2021.09.05-11.30.17:880][243]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:000][983]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 957
+[2021.09.05-11.30.32:000][983]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:196][994]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 957
+[2021.09.05-11.30.32:196][994]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:396][  1]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 957
+[2021.09.05-11.30.32:397][  1]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:430][  3]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 957
+[2021.09.05-11.30.32:430][  3]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:578][ 11]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 26 / 31    - spare: 957
+[2021.09.05-11.30.32:579][ 11]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.32:856][ 27]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 25 / 31    - spare: 957
+[2021.09.05-11.30.32:856][ 27]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.33:106][ 41]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 24 / 31    - spare: 957
+[2021.09.05-11.30.33:106][ 41]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.33:546][ 65]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 23 / 31    - spare: 957
+[2021.09.05-11.30.33:546][ 65]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.33:649][ 71]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 22 / 31    - spare: 957
+[2021.09.05-11.30.33:649][ 71]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.33:783][ 78]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 21 / 31    - spare: 957
+[2021.09.05-11.30.33:783][ 78]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.33:912][ 84]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 20 / 31    - spare: 957
+[2021.09.05-11.30.33:913][ 84]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.30.56:836][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.30.56:836][924]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.30.56:837][924]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.30.56:849][924]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.30.56:866][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.30.56:878][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.30.56:930][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.30.56:983][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.05-11.30.56:983][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.30.56:985][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.30.57:047][924]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2021.09.05-11.30.57:059][924]LogActorComponent: ReregisterComponent: (/Game/Maps/TrainStation/TrainStation.TrainStation:PersistentLevel.Tunnel_2.AudioComponent0) Not currently registered. Aborting.
+[2021.09.05-11.30.57:107][925]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.09.05-11.31.21:264][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.05-11.31.21:275][272]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.31.21:276][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.05-11.31.21:276][272]PIE: New page: PIE session: TrainStation (5 Sep 2021, 13:31:21)
+[2021.09.05-11.31.21:276][272]LogPlayLevel: Creating play world package: /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.31.21:616][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.339550s)
+[2021.09.05-11.31.21:617][272]LogAIModule: Creating AISystem for world TrainStation
+[2021.09.05-11.31.21:641][272]LogPlayLevel: PIE: World Init took: (0.024916s)
+[2021.09.05-11.31.21:641][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TrainStation/TrainStation.TrainStation to /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation (0.364769s)
+[2021.09.05-11.31.21:680][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.09.05-11.31.21:686][272]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.09.05-11.31.21:686][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.05-11.31.21:686][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.05-11.31.21:687][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.05-11.31.21:687][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.05-11.31.21:687][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.05-11.31.21:687][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.05-11.31.21:687][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.05-11.31.21:687][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.05-11.31.21:688][272]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.05-11.31.21:688][272]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.05-11.31.21:768][272]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.05-11.31.21:768][272]LogAudioMixer: Display: 1: FrontRight
+[2021.09.05-11.31.21:815][272]LogAudioMixer: Display: Using Audio Device Headphones (Jabra Elite 85h Stereo)
+[2021.09.05-11.31.21:816][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.05-11.31.21:816][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.05-11.31.21:816][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.05-11.31.21:816][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.05-11.31.21:817][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.05-11.31.21:817][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.05-11.31.21:845][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.05-11.31.21:845][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.05-11.31.21:845][272]LogInit: FAudioDevice initialized.
+[2021.09.05-11.31.21:845][272]LogAudio: Display: Audio Device (ID: 21) registered with world 'TrainStation'.
+[2021.09.05-11.31.22:277][272]LogInit: Error: Failed to load cursor '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Curser'
+[2021.09.05-11.31.22:340][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.31.22:340][272]LogLoad: Game class is 'BP_FpsProGameMode_C'
+[2021.09.05-11.31.22:402][272]LogWorld: Bringing World /Game/Maps/TrainStation/UEDPIE_0_TrainStation.TrainStation up for play (max tick rate 60) at 2021.09.05-12.31.22
+[2021.09.05-11.31.22:403][272]LogWorld: Bringing up level for play took: 0.061396
+[2021.09.05-11.31.22:403][272]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.09.05-11.31.22:406][272]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.05-11.31.22:407][272]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.31.22:407][272]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.31.22:408][272]AnimBlueprintLog: Warning: SLOTNODE: 'FullBody' in animation instance class AGR_CoreAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2021.09.05-11.31.22:408][272]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.31.22:408][272]LogScript: Warning: Script Msg: Divide by zero detected: 1.000000 / 0
+Script call stack:
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:BlueprintUpdateAnimation
+	Function /Game/Player/MainBPs/AGR_CoreAnimBP.AGR_CoreAnimBP_C:ExecuteUbergraph_AGR_CoreAnimBP
+
+[2021.09.05-11.31.22:408][272]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.31.22:408][272]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.31.22:419][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.09.05-11.31.22:423][272]PIE: Server logged in
+[2021.09.05-11.31.22:425][272]PIE: Play in editor total start time 1.151 seconds.
+[2021.09.05-11.31.22:487][272]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.31.22:487][272]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB LeftHand' does not exist in Skeleton 'AGR_Mannequin_Skeleton'
+[2021.09.05-11.31.33:178][817]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 30 / 31    - spare: 969
+[2021.09.05-11.31.33:178][817]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.31.33:281][821]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 29 / 31    - spare: 969
+[2021.09.05-11.31.33:281][821]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.31.34:351][865]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 28 / 31    - spare: 969
+[2021.09.05-11.31.34:351][865]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.31.35:233][902]LogBlueprintUserMessages: [BP_Ak47_C_0] Ammo: 27 / 31    - spare: 969
+[2021.09.05-11.31.35:234][902]LogBlueprintUserMessages: [BP_Ak47_C_0] Grass
+[2021.09.05-11.31.37:259][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.05-11.31.37:259][991]LogWorld: BeginTearingDown for /Game/Maps/TrainStation/UEDPIE_0_TrainStation
+[2021.09.05-11.31.37:260][991]LogSlate: Window 'SCP Infinity Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.05-11.31.37:288][991]LogWorld: UWorld::CleanupWorld for TrainStation, bSessionEnded=true, bCleanupResources=true
+[2021.09.05-11.31.37:306][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.31.37:325][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.05-11.31.37:388][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.05-11.31.37:447][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.31.37:448][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.05-11.31.37:496][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.09.05-11.31.37:507][991]LogActorComponent: ReregisterComponent: (/Game/Maps/TrainStation/TrainStation.TrainStation:PersistentLevel.Tunnel_2.AudioComponent0) Not currently registered. Aborting.
+[2021.09.05-11.31.37:559][992]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.09.05-11.31.38:544][ 42]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.09.05-11.31.42:214][220]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.05-11.31.46:006][397]TimeClock: Display: TimeClock stats updated for project named: SCP_Infinity_Project
+[2021.09.05-11.31.46:047][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.09.05-11.31.48:207][397]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStationD26F721E409081A259D30F952EF333F1.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation.umap'
+[2021.09.05-11.31.48:276][397]LogSavePackage: Moving '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Saved/TrainStation_BuiltDataB7E4974C474BA4F83DF05B8FA392FAFC.tmp' to '../../../../../Github Clones/SCP-Infinity/Game/betterbeworkin/Content/Maps/TrainStation/TrainStation_BuiltData.uasset'
+[2021.09.05-11.31.48:313][397]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.05-11.31.48:313][397]LogContentValidation: Display: Validating World /Game/Maps/TrainStation/TrainStation.TrainStation
+[2021.09.05-11.31.48:313][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TrainStation/TrainStation_BuiltData.TrainStation_BuiltData
