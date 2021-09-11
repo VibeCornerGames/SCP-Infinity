@@ -1,10 +1,29 @@
-Version 0.0014(New Map)
+Verison 0.0015
+
+New Features
+	Audio
+	* [New] Added reverb to trainstation map
+
+Changes
+	Grenade
+	* [New] Positioned the spawn location better
+Fixed
+	Player
+	* [Fix] Fixed a bug that made is pussibleto sprint fully sideways or backwards
+	* [Fix] Fixed a bug that caused the player to do teh breath recover multible times at once
+
+Performance
+	Animations
+	* [FPS] Optimized animation bp tick
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version 0.0014(New Map)(11/09/2021)
 New Features
 	Gunplay
 	* [New] Player can't reload when mag is full 
 
 Map
-	* Added train station map!
+	* [New] Added train station map!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Version 0.0013 (Performance)
 
