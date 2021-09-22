@@ -99,7 +99,7 @@ static struct FScriptStruct_EasyBallistics_StaticRegisterNativesFEBMaterialRespo
 {
 	FScriptStruct_EasyBallistics_StaticRegisterNativesFEBMaterialResponseMapEntry()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("EBMaterialResponseMapEntry")),new UScriptStruct::TCppStructOps<FEBMaterialResponseMapEntry>);
+		UScriptStruct::DeferCppStructOps<FEBMaterialResponseMapEntry>(FName(TEXT("EBMaterialResponseMapEntry")));
 	}
 } ScriptStruct_EasyBallistics_StaticRegisterNativesFEBMaterialResponseMapEntry;
 	struct Z_Construct_UScriptStruct_FEBMaterialResponseMapEntry_Statics

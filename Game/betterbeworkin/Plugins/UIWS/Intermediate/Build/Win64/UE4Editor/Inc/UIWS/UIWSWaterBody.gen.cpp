@@ -1766,7 +1766,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWSWaterBody() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUIWSWaterBody, 1347519523);
+	IMPLEMENT_CLASS(AUIWSWaterBody, 224112572);
 	template<> UIWS_API UClass* StaticClass<AUIWSWaterBody>()
 	{
 		return AUIWSWaterBody::StaticClass();

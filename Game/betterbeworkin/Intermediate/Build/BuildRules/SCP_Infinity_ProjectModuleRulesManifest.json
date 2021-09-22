@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\kalut\\Desktop\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\EasyBallistics\\Source\\EasyBallistics\\EasyBallistics.Build.cs",
-		"C:\\Users\\kalut\\Desktop\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\ElectronicNodes\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
-		"C:\\Users\\kalut\\Desktop\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\UIWS\\Source\\UIWS\\UIWS.Build.cs"
+		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\EasyBallistics\\Source\\EasyBallistics\\EasyBallistics.Build.cs",
+		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\ElectronicNodes\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
+		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
+		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\UIWS\\Source\\UIWS\\UIWS.Build.cs"
 	],
-	"EngineVersion": "4.26.2"
+	"EngineVersion": "4.27.0"
 }

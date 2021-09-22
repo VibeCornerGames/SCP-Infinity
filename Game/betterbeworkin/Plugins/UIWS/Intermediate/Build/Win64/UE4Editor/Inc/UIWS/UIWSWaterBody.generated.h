@@ -90,7 +90,7 @@ public: \
 	NO_API AUIWSWaterBody(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUIWSWaterBody) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUIWSWaterBody); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSWaterBody); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSWaterBody); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUIWSWaterBody(AUIWSWaterBody&&); \
@@ -105,7 +105,7 @@ private: \
 	NO_API AUIWSWaterBody(const AUIWSWaterBody&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUIWSWaterBody); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSWaterBody); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSWaterBody); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUIWSWaterBody)
 
 

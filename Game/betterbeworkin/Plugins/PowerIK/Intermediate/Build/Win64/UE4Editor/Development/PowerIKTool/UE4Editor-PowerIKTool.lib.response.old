@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PowerIKTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\SCP Infinity\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp.obj"
+"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp.obj"
+"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Default.rc2.res"
+/OUT:"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\UE4Editor-PowerIKTool.lib"

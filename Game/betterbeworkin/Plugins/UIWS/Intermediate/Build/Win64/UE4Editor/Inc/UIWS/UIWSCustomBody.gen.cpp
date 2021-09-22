@@ -133,7 +133,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWSCustomBody() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUIWSCustomBody, 4075690236);
+	IMPLEMENT_CLASS(AUIWSCustomBody, 4238176994);
 	template<> UIWS_API UClass* StaticClass<AUIWSCustomBody>()
 	{
 		return AUIWSCustomBody::StaticClass();

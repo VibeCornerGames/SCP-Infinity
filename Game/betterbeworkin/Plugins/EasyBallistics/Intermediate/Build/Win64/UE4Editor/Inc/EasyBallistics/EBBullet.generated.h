@@ -251,7 +251,7 @@ public: \
 	NO_API AEBBullet(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AEBBullet) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AEBBullet); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEBBullet); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEBBullet); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AEBBullet(AEBBullet&&); \
@@ -266,7 +266,7 @@ private: \
 	NO_API AEBBullet(const AEBBullet&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AEBBullet); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEBBullet); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEBBullet); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AEBBullet)
 
 

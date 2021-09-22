@@ -224,7 +224,7 @@ public: \
 	NO_API UEBBarrel(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEBBarrel) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEBBarrel); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBBarrel); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBBarrel); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UEBBarrel(UEBBarrel&&); \
@@ -239,7 +239,7 @@ private: \
 	NO_API UEBBarrel(const UEBBarrel&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEBBarrel); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBBarrel); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBBarrel); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UEBBarrel)
 
 

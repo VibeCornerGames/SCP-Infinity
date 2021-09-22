@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PowerIKRuntime-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Schnittbrot\Desktop\PowerIK\Intermediate\Build\Win64\FP_FirstPersonBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Schnittbrot\Desktop\PowerIK\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKRuntime\Module.PowerIKRuntime.cpp.obj"
+"C:\Users\Schnittbrot\Desktop\PowerIK\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKRuntime\Module.PowerIKRuntime.gen.cpp.obj"
+"C:\Users\Schnittbrot\Desktop\PowerIK\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKRuntime\Default.rc2.res"
+/OUT:"C:\Users\Schnittbrot\Desktop\PowerIK\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKRuntime\UE4Editor-PowerIKRuntime-0001.lib"

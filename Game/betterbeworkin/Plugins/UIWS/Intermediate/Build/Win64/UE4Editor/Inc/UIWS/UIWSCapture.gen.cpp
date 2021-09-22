@@ -210,7 +210,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWSCapture() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUIWSCapture, 621028516);
+	IMPLEMENT_CLASS(AUIWSCapture, 937469718);
 	template<> UIWS_API UClass* StaticClass<AUIWSCapture>()
 	{
 		return AUIWSCapture::StaticClass();

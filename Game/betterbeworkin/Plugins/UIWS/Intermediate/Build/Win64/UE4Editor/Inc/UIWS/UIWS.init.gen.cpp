@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWS_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x4A22EE69,
+				0xFDE8A860,
 				0xBCBF9926,
 				METADATA_PARAMS(nullptr, 0)
 			};

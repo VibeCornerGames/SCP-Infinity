@@ -296,7 +296,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWSManager() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUIWSManager, 1440849240);
+	IMPLEMENT_CLASS(AUIWSManager, 3595243753);
 	template<> UIWS_API UClass* StaticClass<AUIWSManager>()
 	{
 		return AUIWSManager::StaticClass();

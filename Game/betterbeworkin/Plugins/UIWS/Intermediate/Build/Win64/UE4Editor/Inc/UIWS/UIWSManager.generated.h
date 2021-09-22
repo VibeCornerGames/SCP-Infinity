@@ -39,7 +39,7 @@ public: \
 	NO_API AUIWSManager(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUIWSManager) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUIWSManager); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSManager); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSManager); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUIWSManager(AUIWSManager&&); \
@@ -54,7 +54,7 @@ private: \
 	NO_API AUIWSManager(const AUIWSManager&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUIWSManager); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSManager); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUIWSManager); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUIWSManager)
 
 

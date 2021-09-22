@@ -1991,7 +1991,7 @@ void EmptyLinkFunctionForGeneratedCodeEBBarrel() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UEBBarrel, 3928359509);
+	IMPLEMENT_CLASS(UEBBarrel, 4253990720);
 	template<> EASYBALLISTICS_API UClass* StaticClass<UEBBarrel>()
 	{
 		return UEBBarrel::StaticClass();

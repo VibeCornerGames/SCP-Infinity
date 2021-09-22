@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -89,10 +89,6 @@
 		},
 		{
 			"Name": "LinuxDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "Paper2D",
 			"Enabled": false
 		},
 		{

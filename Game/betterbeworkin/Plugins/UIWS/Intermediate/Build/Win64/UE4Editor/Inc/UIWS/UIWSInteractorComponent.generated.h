@@ -47,7 +47,7 @@ public: \
 	NO_API UUIWSInteractorComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUIWSInteractorComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUIWSInteractorComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUIWSInteractorComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUIWSInteractorComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUIWSInteractorComponent(UUIWSInteractorComponent&&); \
@@ -62,7 +62,7 @@ private: \
 	NO_API UUIWSInteractorComponent(const UUIWSInteractorComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUIWSInteractorComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUIWSInteractorComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUIWSInteractorComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUIWSInteractorComponent)
 
 

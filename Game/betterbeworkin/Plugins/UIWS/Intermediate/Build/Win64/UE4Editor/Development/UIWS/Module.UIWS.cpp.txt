@@ -1,89 +1,87 @@
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Definitions.UIWS.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWS.cpp
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWS.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSCapture.cpp
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSCapture.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSCapture.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMaterialLibrary.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMaterialLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetRenderingLibrary.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetRenderingLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/PostProcessComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_PostProcessVolume.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_PostProcessVolume.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PostProcessComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSCustomBody.cpp
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSCustomBody.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSWaterBody.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSWaterBody.generated.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSCustomBody.generated.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSManager.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSManager.generated.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSInteractorComponent.cpp
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSInteractorComponent.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSInteractorComponent.generated.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSManager.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DirectionalLight.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLight.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/DirectionalLightComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLightComponent.generated.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSRiver.cpp
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSRiver.h
-C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSRiver.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineMeshComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
-C:/Users/kalut/Desktop/SCP-Infinity/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSWaterBody.cpp
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetStringLibrary.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetStringLibrary.generated.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Definitions.UIWS.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWS.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWS.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSCapture.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSCapture.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSCapture.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMaterialLibrary.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMaterialLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetRenderingLibrary.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetRenderingLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/PostProcessComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_PostProcessVolume.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_PostProcessVolume.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PostProcessComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSCustomBody.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSCustomBody.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSWaterBody.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSWaterBody.generated.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSCustomBody.generated.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSManager.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSManager.generated.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSInteractorComponent.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSInteractorComponent.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSInteractorComponent.generated.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSManager.cpp
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DirectionalLight.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLight.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/DirectionalLightComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLightComponent.generated.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSRiver.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Source\UIWS\Public\UIWSRiver.h
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Inc\UIWS\UIWSRiver.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineMeshComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
+D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/UIWS/Source/UIWS/Private/UIWSWaterBody.cpp
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetStringLibrary.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetStringLibrary.generated.h

@@ -107,7 +107,7 @@ void EmptyLinkFunctionForGeneratedCodeUIWSRiver() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUIWSRiver, 1941429386);
+	IMPLEMENT_CLASS(AUIWSRiver, 3536164278);
 	template<> UIWS_API UClass* StaticClass<AUIWSRiver>()
 	{
 		return AUIWSRiver::StaticClass();

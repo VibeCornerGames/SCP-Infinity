@@ -2328,7 +2328,7 @@ void EmptyLinkFunctionForGeneratedCodeEBBullet() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEBBullet, 2349069357);
+	IMPLEMENT_CLASS(AEBBullet, 1900324124);
 	template<> EASYBALLISTICS_API UClass* StaticClass<AEBBullet>()
 	{
 		return AEBBullet::StaticClass();

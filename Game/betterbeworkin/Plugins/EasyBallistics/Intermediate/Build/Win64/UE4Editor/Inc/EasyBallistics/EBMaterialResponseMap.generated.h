@@ -46,7 +46,7 @@ public: \
 	NO_API UEBMaterialResponseMap(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEBMaterialResponseMap) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEBMaterialResponseMap); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBMaterialResponseMap); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBMaterialResponseMap); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UEBMaterialResponseMap(UEBMaterialResponseMap&&); \
@@ -63,7 +63,7 @@ private: \
 	NO_API UEBMaterialResponseMap(const UEBMaterialResponseMap&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEBMaterialResponseMap); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBMaterialResponseMap); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEBMaterialResponseMap); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEBMaterialResponseMap)
 
 

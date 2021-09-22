@@ -43,7 +43,7 @@ public: \
 	NO_API UElectronicNodesSettings(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UElectronicNodesSettings) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UElectronicNodesSettings); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UElectronicNodesSettings); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UElectronicNodesSettings); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UElectronicNodesSettings(UElectronicNodesSettings&&); \
@@ -58,7 +58,7 @@ private: \
 	NO_API UElectronicNodesSettings(const UElectronicNodesSettings&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UElectronicNodesSettings); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UElectronicNodesSettings); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UElectronicNodesSettings); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UElectronicNodesSettings)
 
 
