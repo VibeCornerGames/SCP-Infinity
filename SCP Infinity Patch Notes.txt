@@ -1,6 +1,9 @@
-Verison 0.0015
+Verison 0.0015 (Custom keybinds)(29/09/2021)
 
 New Features
+	Settings
+	* [New] Added cusotom keybind functionality! (graphic design coming later)
+
 	Audio
 	* [New] Added reverb to trainstation map
 
@@ -15,6 +18,11 @@ Fixed
 Performance
 	Animations
 	* [FPS] Optimized animation bp tick
+
+Project
+	Editor
+	* [New] Added custom startup splash
+	* [New] Cleaned up project files
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.0014(New Map)(11/09/2021)
