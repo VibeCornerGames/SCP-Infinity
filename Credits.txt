@@ -2,7 +2,7 @@ This game was created by Vibe Corner Games
 
 CEO
 Séamus Mullan
-Arsenic
+Jake Chapman
 Jonas de Bruin
 
 Head Programmer:
@@ -13,6 +13,7 @@ Kalu
 Cascade
 
 Concept Designers
+Jake Chapman
 Vessel
 A random
 
