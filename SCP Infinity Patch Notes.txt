@@ -1,3 +1,36 @@
+Verison 0.016 (Animations/Barrel smoke/AI)(16/10/2021)
+
+New Features
+	Gunplay
+	* [New] Barrel sometimes smokes now after shooting for >2 sec
+	
+	Animation
+	* [New] Added a sprinting animation
+
+	Audio
+	* [New] Added sound FX for walking on grass (more sound FX coming in future)
+	
+	AI
+	* [New] Added blood FX to AI
+
+Changes	
+	* [New] Adjusted animations speeds
+	* [New] Reduced the force/range of grenade
+	* [New] AI ragdolls react properly to grenades now	
+
+Fixes
+	* [Fix] Fixed the walking animations not playing
+	* [Fix] Fixed backwards animation not playing correctly
+
+Graphics
+	* [New] Reduced bloom a bit
+	* [New] Added VFX for footsteps
+
+Performance
+	AI
+	* [New] Improved AI performance
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Verison 0.0015 (Custom keybinds)(29/09/2021)
 
 New Features
