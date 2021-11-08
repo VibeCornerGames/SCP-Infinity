@@ -1,43 +1,43 @@
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Definitions.EasyBallistics.h
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Acceleration.cpp
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBBullet.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBMaterialResponseMap.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
-D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicalMaterial.generated.h
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBMaterialResponseMap.generated.h
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBBullet.generated.h
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BarrelEvents.cpp
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBBarrel.h
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBBarrel.generated.h
-D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BarrelProxy.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BulletEvents.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BulletPredict.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/CalcAimDirection.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/CollisionFilter.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EasyBallistics.cpp
-D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EasyBallistics.h
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EBBarrel.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EBBullet.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Environment.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Pentrace.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Pooling.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Predict.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Reload.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/SafeLaunch.cpp
-D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Trace.cpp
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Definitions.EasyBallistics.h
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Acceleration.cpp
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBBullet.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBMaterialResponseMap.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+A:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicalMaterial.generated.h
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBMaterialResponseMap.generated.h
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBBullet.generated.h
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BarrelEvents.cpp
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EBBarrel.h
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Inc\EasyBallistics\EBBarrel.generated.h
+A:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BarrelProxy.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BulletEvents.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/BulletPredict.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/CalcAimDirection.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/CollisionFilter.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EasyBallistics.cpp
+G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Source\EasyBallistics\Public\EasyBallistics.h
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EBBarrel.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/EBBullet.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Environment.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Pentrace.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Pooling.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Predict.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Reload.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/SafeLaunch.cpp
+G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Plugins/EasyBallistics/Source/EasyBallistics/Private/Trace.cpp

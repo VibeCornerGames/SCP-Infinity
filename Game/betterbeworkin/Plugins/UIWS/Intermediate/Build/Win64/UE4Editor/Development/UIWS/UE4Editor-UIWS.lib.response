@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-UIWS.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.cpp.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.gen.cpp.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Default.rc2.res"
-/OUT:"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\UE4Editor-UIWS.lib"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.cpp.obj"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.gen.cpp.obj"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Default.rc2.res"
+/OUT:"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\UE4Editor-UIWS.lib"

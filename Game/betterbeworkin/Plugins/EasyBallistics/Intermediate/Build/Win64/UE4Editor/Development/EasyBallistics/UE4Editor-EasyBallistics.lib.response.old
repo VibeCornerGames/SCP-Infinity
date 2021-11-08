@@ -6,9 +6,8 @@
 /NAME:"UE4Editor-EasyBallistics.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.cpp.obj"
-"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp.obj"
-"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Default.rc2.res"
-/OUT:"C:\Users\kalut\Desktop\SCP-Infinity\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\UE4Editor-EasyBallistics.lib"
-/INCLUDE:IMPLEMENT_MODULE_EasyBallistics
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.cpp.obj"
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Module.EasyBallistics.gen.cpp.obj"
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\Default.rc2.res"
+/OUT:"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\EasyBallistics\Intermediate\Build\Win64\UE4Editor\Development\EasyBallistics\UE4Editor-EasyBallistics.lib"

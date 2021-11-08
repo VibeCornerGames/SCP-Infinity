@@ -32,10 +32,10 @@
 /wd4244
 /wd4838
 /I .
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Private"
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool"
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Source"
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Public"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Private"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Public"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -240,9 +240,9 @@
 /I Editor\AnimGraph\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime"
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\sdk\include"
-/I "F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\Public"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\sdk\include"
+/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\Public"
 /I ..\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4Editor\Inc\ControlRig
 /I ..\Plugins\Experimental\ControlRig\Source
 /I ..\Plugins\Experimental\ControlRig\Source\ControlRig\Public
@@ -281,12 +281,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\SCP Infinity\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"F:\SCP Infinity\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\SCP Infinity\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp"
-/FI"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Definitions.PowerIKTool.h"
-/Fo"F:\SCP Infinity\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp.obj"
+/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp"
+/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Definitions.PowerIKTool.h"
+/Fo"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Source\ElectronicNodes\Private"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Source\ElectronicNodes\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -262,9 +262,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\BehaviorTreeEditor
 /I Editor\BehaviorTreeEditor\Classes
 /I Editor\BehaviorTreeEditor\Public
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Source"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Source\ElectronicNodes\Public"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Source"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Source\ElectronicNodes\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -288,18 +288,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h"
-/Fo"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp"
+/FI"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h"
+/Fo"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
 /TP
 /GR-
 /W4

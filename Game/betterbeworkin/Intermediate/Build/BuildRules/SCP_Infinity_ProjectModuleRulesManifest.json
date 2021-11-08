@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"G:\\VibeCornerGames\\SCP Infinity\\Game\\betterbeworkin\\Plugins\\EasyBallistics\\Source\\EasyBallistics\\EasyBallistics.Build.cs",
+		"G:\\VibeCornerGames\\SCP Infinity\\Game\\betterbeworkin\\Plugins\\ElectronicNodes\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
+		"G:\\VibeCornerGames\\SCP Infinity\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
+		"G:\\VibeCornerGames\\SCP Infinity\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"G:\\VibeCornerGames\\SCP Infinity\\Game\\betterbeworkin\\Plugins\\UIWS\\Source\\UIWS\\UIWS.Build.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

@@ -32,10 +32,10 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Private"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Public"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Private"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Source"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Public"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -240,9 +240,9 @@
 /I Editor\AnimGraph\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\sdk\include"
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\Public"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\sdk\include"
+/I "G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime\Public"
 /I ..\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4Editor\Inc\ControlRig
 /I ..\Plugins\Experimental\ControlRig\Source
 /I ..\Plugins\Experimental\ControlRig\Source\ControlRig\Public
@@ -275,18 +275,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Definitions.PowerIKTool.h"
-/Fo"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp"
+/FI"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Definitions.PowerIKTool.h"
+/Fo"G:\VibeCornerGames\SCP Infinity\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,0 +1,751 @@
+﻿Log file open, 11/08/21 12:32:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SCP_Infinity_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258485
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Warning: Plugin 'EasyBallistics' is not compatible with the current engine version (4.26.0)
+Message dialog closed, result: Yes, title: 'EasyBallistics' is Incompatible, text: The 'EasyBallistics' plugin was designed for build 4.26.0. Attempt to load it anyway?
+LogPluginManager: Warning: Plugin 'UIWS' is not compatible with the current engine version (4.26.0)
+Message dialog closed, result: Yes, title: 'UIWS' is Incompatible, text: The 'UIWS' plugin was designed for build 4.26.0. Attempt to load it anyway?
+LogPluginManager: Warning: Plugin 'ElectronicNodes' is not compatible with the current engine version (4.26.0)
+Message dialog closed, result: Yes, title: 'ElectronicNodes' is Incompatible, text: The 'ElectronicNodes' plugin was designed for build 4.26.0. Attempt to load it anyway?
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin AssetsCleaner
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AsyncLoadingScreen
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin Prefabricator
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ProductivityTools
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin TimeClock
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GPULightmass
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin EasyBallistics
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin UIWS
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogGPULightmass: GPULightmass module is loaded
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/Maps/Testing_Map/TestingMap -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=24 SAVEWINPOS=1 -ResX=1910 -ResY=1016
+LogInit: Base Directory: A:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:0]]
+[2021.11.08-12.32.34:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.08-12.32.34:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:841][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:864][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:864][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-12.32.34:864][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-12.32.34:864][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:864][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.08-12.32.34:865][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.08-12.32.34:865][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.08-12.32.34:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.08-12.32.34:866][  0]LogHAL: Display: Platform has ~ 16 GB [17126510592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.08-12.32.34:866][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Scalability.ini]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.08-12.32.34:866][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.08-12.32.34:867][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.08-12.32.34:867][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.08-12.32.34:867][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.08-12.32.34:867][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.08-12.32.34:867][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Engine.ini]
+[2021.11.08-12.32.34:867][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Config/Windows/Editor.ini]
+[2021.11.08-12.32.34:867][  0]LogInit: Computer: DESKTOP-E4KMRSH
+[2021.11.08-12.32.34:867][  0]LogInit: User: anicc
+[2021.11.08-12.32.34:867][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.08-12.32.34:867][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.08-12.32.34:867][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.11.08-12.32.34:867][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.08-12.32.34:867][  0]LogMemory: Process Physical Memory: 160.43 MB used, 160.43 MB peak
+[2021.11.08-12.32.34:867][  0]LogMemory: Process Virtual Memory: 136.93 MB used, 136.93 MB peak
+[2021.11.08-12.32.34:867][  0]LogMemory: Physical Memory: 10701.19 MB used,  5631.92 MB free, 16333.11 MB total
+[2021.11.08-12.32.34:867][  0]LogMemory: Virtual Memory: 134204000.00 MB used,  13724.75 MB free, 134217728.00 MB total
+[2021.11.08-12.32.34:872][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.08-12.32.34:902][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.08-12.32.34:902][  0]LogInit: Using OS detected language (en-GB).
+[2021.11.08-12.32.34:902][  0]LogInit: Using OS detected locale (en-GB).
+[2021.11.08-12.32.34:904][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.11.08-12.32.35:098][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-12.32.35:123][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.08-12.32.35:123][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.08-12.32.35:136][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.08-12.32.35:138][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.08-12.32.35:138][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.08-12.32.35:138][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.08-12.32.35:138][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.08-12.32.35:221][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.11.08-12.32.35:222][  0]LogD3D11RHI:       5980/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     SubSysId    : 402b1458
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     SharedSystemMemory : 8563255296 bytes
+[2021.11.08-12.32.35:224][  0]LogD3D11RHI:     AdapterLuid : 0 977470263
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.08-12.32.35:239][  0]LogWindows: EnumDisplayDevices:
+[2021.11.08-12.32.35:239][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.11.08-12.32.35:239][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.11.08-12.32.35:239][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.08-12.32.35:239][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.11.08-12.32.35:239][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.08-12.32.35:239][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     SubSysId    : 402b1458
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.08-12.32.35:239][  0]LogD3D11RHI:     SharedSystemMemory : 8563255296 bytes
+[2021.11.08-12.32.35:240][  0]LogD3D11RHI:     AdapterLuid : 0 977470263
+[2021.11.08-12.32.35:294][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.08-12.32.35:294][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.08-12.32.35:294][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.08-12.32.35:309][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.08-12.32.35:328][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.08-12.32.35:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.08-12.32.35:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.08-12.32.35:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.08-12.32.35:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.08-12.32.35:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.08-12.32.35:573][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.08-12.32.35:593][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.08-12.32.35:615][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.08-12.32.35:615][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Intermediate/Shaders/WorkingDirectory/69152/).
+[2021.11.08-12.32.35:615][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anicc/AppData/Local/Temp/UnrealShaderWorkingDir/1D4F385B45C700E8D79C40BDB6CBD27C/'.
+[2021.11.08-12.32.35:615][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.08-12.32.35:615][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.08-12.32.35:615][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.08-12.32.36:210][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: Loaded boot cache 0.07s 149MB C:/Users/anicc/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anicc/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.08-12.32.36:281][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.08-12.32.36:296][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.08-12.32.36:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.08-12.32.36:296][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.08-12.32.36:302][  0]LogDerivedDataCache: Speed tests for C:/Users/anicc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.08-12.32.36:302][  0]LogDerivedDataCache: Display: Performance to C:/Users/anicc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1670.90MBs, RandomWriteSpeed=194.84MBs. Assigned SpeedClass 'Local'
+[2021.11.08-12.32.36:303][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anicc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.08-12.32.36:303][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.08-12.32.36:303][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.08-12.32.36:336][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.08-12.32.36:336][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.08-12.32.36:430][  0]LogInit: Using OS detected language (en-GB).
+[2021.11.08-12.32.36:430][  0]LogInit: Using OS detected locale (en-GB).
+[2021.11.08-12.32.36:431][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2021.11.08-12.32.36:431][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2021.11.08-12.32.36:431][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.08-12.32.36:431][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.08-12.32.36:433][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.11.08-12.32.36:433][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2021.11.08-12.32.36:573][  0]LogPackageLocalizationCache: Processed 37 localized package path(s) for 1 prioritized culture(s) in 0.001049 seconds
+[2021.11.08-12.32.36:626][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.08-12.32.36:626][  0]LogInit: Active device profile: [0000025332EB2E00][0000025328356A80 49] Windows
+[2021.11.08-12.32.36:626][  0]LogInit: Profiles: [0000025332EB2E00][0000025328356A80 49] Windows, [0000025332E55A00][0000025327E58C00 49] WindowsNoEditor, [0000025332EB2100][0000025327E5CD80 49] WindowsServer, [0000025332E56600][0000025327E60F00 49] WindowsClient, [0000025332EB3600][0000025327E65080 49] IOS, [0000025332E54B00][0000025327E69200 49] iPadAir, [0000025332EB0200][0000025327E6D380 49] iPadAir2, [0000025332E00F00][00000253278E7640 49] IPadPro, [0000025332E01000][00000253278E3680 49] iPadAir3, [0000025332E57500][00000253278EB800 49] iPadAir4, [0000025332E01C00][00000253278EF980 49] iPadMini2, [0000025332E55900][00000253278F3B00 49] iPadMini3, [0000025332E03700][00000253278F6100 49] iPadMini4, [0000025332E57000][000002532835A240 49] iPadMini5, [0000025332E04700][00000253278FE480 49] iPhone6, [0000025332E04800][00000253278FA4C0 49] iPodTouch6, [0000025332EB1700][000002532790A780 49] iPhone7, [0000025332EB3700][00000253279067C0 49] iPodTouch7, [0000025332E04100][000002532790E940 49] iPhone5S, [0000025332E00400][0000025327912AC0 49] iPhone6Plus, [0000025332E07900][0000025327916C40 49] iPhone6S, [0000025332E01300][000002532791ADC0 49] iPhone6SPlus, [0000025332E06200][000002532791EF40 49] iPhone7Plus, [0000025332E00500][00000253279230C0 49] iPhoneSE, [0000025332E07600][0000025327927240 49] iPhone8, [0000025332E02B00][000002532792B3C0 49] iPhone8Plus, [0000025332EB2A00][0000025328E6B540 49] iPhoneX, [0000025332E01A00][0000025328E6F6C0 49] iPhoneXS, [0000025332EB3C00][0000025328E73840 49] iPhoneXSMax, [0000025332E03900][0000025328E779C0 49] iPhoneXR, [0000025332EB0900][0000025328E7BB40 49] iPhone11, [0000025332E03A00][0000025328E7E140 49] iPhone11Pro, [0000025332EB2200][0000025328E822C0 49] iPhone11ProMax, [0000025332E03D00][0000025327902400 49] iPhoneSE2, [0000025332EB3D00][0000025328E86540 49] iPhone12Mini, [0000025332E00E00][0000025328E8A680 49] iPhone12, [0000025332EB3300][0000025328E8E7C0 49] iPhone12Pro, [0000025332E00200][0000025328E96940 49] iPhone12ProMax, [0000025332EB2B00][0000025328E9AAC0 49] iPadPro105, [0000025332E02000][0000025328E9EC40 49] iPadPro129, [0000025332EB1D00][0000025328EA2DC0 49] iPadPro97, [0000025332E01E00][0000025328EA6F40 49] iPadPro2_129, [0000025332EB1F00][0000025328EAB0C0 49] iPad5, [0000025332E01100][0000025328EAF240 49] iPad6, [0000025332EB0400][0000025328EB33C0 49] iPad7, [0000025332E01900][0000025328EB7540 49] iPad8, [0000025332EB3B00][0000025328EBB6C0 49] iPadPro11, [0000025332E00B00][0000025328EBF840 49] iPadPro2_11, [0000025332EB1B00][0000025328EC39C0 49] iPadPro3_129, [0000025332E02300][0000025328EC7B40 49] iPadPro4_129, [0000025332EB3900][0000025328ECA140 49] AppleTV, [0000025332E02800][0000025328ECE2C0 49] AppleTV4K, [0000025332EB0E00][0000025328ED2440 49] TVOS, [0000025332E02200][0000025328E92580 49] Mac, [0000025332EB2000][0000025328ED66C0 49] MacClient, [0000025332E03F00][0000025328EDA800 49] MacNoEditor, [0000025332EB1100][0000025328EDE940 49] MacServer, [0000025332E02700][0000025328EE6AC0 49] Linux, [0000025332EB3800][0000025328EEAC40 49] LinuxAArch64, [0000025332E03100][0000025328EEEDC0 49] LinuxNoEditor, [0000025332EB2300][0000025328EF2F40 49] LinuxAArch64NoEditor, [0000025332E03800][0000025328EF70C0 49] LinuxClient, [0000025332EB2800][0000025328EFB240 49] LinuxAArch64Client, [0000025332E03400][0000025328EFF3C0 49] LinuxServer, [0000025332EB1A00][0000025328F03540 49] LinuxAArch64Server, [0000025332E01D00][0000025328F076C0 49] Android, [0000025332EB2C00][0000025328F0B840 49] Android_Low, [0000025332E03300][0000025328F0F9C0 49] Android_Mid, [0000025332EB1C00][0000025328F13B40 49] Android_High, [0000025332E00100][0000025328F16140 49] Android_Default, [0000025332EB0D00][0000025328F1A2C0 49] Android_Adreno4xx, [0000025332E01B00][0000025328F1E440 49] Android_Adreno5xx_Low, [0000025332E54F00][0000025328F225C0 49] Android_Adreno5xx, [0000025332E06E00][0000025328F26740 49] Android_Adreno6xx, [0000025332E57400][0000025328EE2880 49] Android_Adreno6xx_Vulkan, [0000025332E05200][0000025328F2A9C0 49] Android_Mali_T6xx, [0000025332E55E00][0000025328F2EB00 49] Android_Mali_T7xx, [0000025332E05500][0000025328F36C80 49] Android_Mali_T8xx, [0000025332E54D00][0000025328F3AE00 49] Android_Mali_G71, [0000025332E06600][0000025328F3EF80 49] Android_Mali_G72, [0000025332E55400][0000025328F43100 49] Android_Mali_G72_Vulkan, [0000025332E06C00][0000025328F47280 49] Android_Mali_G76, [0000025332E57200][0000025328F4B400 49] Android_Mali_G76_Vulkan, [0000025332E04D00][0000025328F4F580 49] Android_Mali_G77, [0000025332E56B00][0000025328F53700 49] Android_Mali_G77_Vulkan, [0000025332E05C00][0000025328F57880 49] Android_Mali_G78, [0000025332E56D00][0000025328F5BA00 49] Android_Mali_G78_Vulkan, [0000025332E07400][0000025328F5FB80 49] Android_Mali_G710, [0000025332E57D00][0000025328F62180 49] Android_Mali_G710_Vulkan, [0000025332E07800][0000025328F66300 49] Android_Vulkan_SM5, [0000025332E56500][0000025328F6A480 49] Android_PowerVR_G6xxx, [0000025332E07100][0000025328F6E600 49] Android_PowerVR_GT7xxx, [0000025332E57E00][0000025328F72780 49] Android_PowerVR_GE8xxx, [0000025332E05F00][0000025328F76900 49] Android_PowerVR_GM9xxx, [0000025332E56400][0000025328F32A40 49] Android_PowerVR_GM9xxx_Vulkan, [0000025332E06700][0000025328F7AB80 49] Android_TegraK1, [0000025332E57900][0000025328F7ECC0 49] Android_Unknown_Vulkan, [0000025332E05800][0000025328F86E40 49] Lumin, [0000025332E01700][0000025328F8AFC0 49] Lumin_Desktop, [0000025332E07E00][0000025328781140 49] HoloLens, 
+[2021.11.08-12.32.36:720][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.08-12.32.36:720][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.08-12.32.36:720][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.08-12.32.36:720][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.08-12.32.36:720][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.08-12.32.36:812][  0]LogNetVersion: SCP_Infinity_Project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2392031992)
+[2021.11.08-12.32.37:019][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.08-12.32.37:066][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.08-12.32.37:163][  0]LogMoviePlayer: Initializing movie player
+[2021.11.08-12.32.37:368][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.08-12.32.37:378][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.08-12.32.37:418][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CFC315AB4B85FD83910B25BC35B0C3CF | Instance: 78A5523E41319F91FB09B7BCE40D43E4 (DESKTOP-E4KMRSH-69152).
+[2021.11.08-12.32.37:438][  0]LogCollectionManager: Loaded 0 collections in 0.001074 seconds
+[2021.11.08-12.32.37:440][  0]LogFileCache: Scanning file cache for directory 'G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Saved/Collections/' took 0.00s
+[2021.11.08-12.32.37:440][  0]LogFileCache: Scanning file cache for directory 'G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Content/Developers/anicc/Collections/' took 0.00s
+[2021.11.08-12.32.37:440][  0]LogFileCache: Scanning file cache for directory 'G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Content/Collections/' took 0.00s
+[2021.11.08-12.32.37:440][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.08-12.32.37:572][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.08-12.32.37:572][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.08-12.32.37:572][  0]LogPython: Using Python 3.7.7
+[2021.11.08-12.32.38:091][  0]SourceControl: Source control is disabled
+[2021.11.08-12.32.38:091][  0]SourceControl: Source control is disabled
+[2021.11.08-12.32.38:096][  0]SourceControl: Source control is disabled
+[2021.11.08-12.32.38:108][  0]LogUProjectInfo: Found projects:
+[2021.11.08-12.32.38:181][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.08-12.32.38:197][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-12.32.38:197][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-12.32.38:259][  0]LogOcInput: OculusInput pre-init called
+[2021.11.08-12.32.38:270][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCapture. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.11.08-12.32.38:272][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSWaterBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.11.08-12.32.38:344][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSCustomBody. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.11.08-12.32.38:344][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSManager. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.11.08-12.32.38:345][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__UIWSRiver. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.11.08-12.32.38:362][  0]LogPython: Warning: 'UIWSWaterBody.bCustomCollisionProfile' and 'UIWSWaterBody.CustomCollisionProfile' have the same name (custom_collision_profile) when exposed to Python. Rename one of them using 'ScriptName' meta-data (or 'ScriptMethod' or 'ScriptConstant' for extension functions).
+[2021.11.08-12.32.38:363][  0]LogPython: Warning: 'UIWSManager.bCustomCollisionProfile' and 'UIWSManager.CustomCollisionProfile' have the same name (custom_collision_profile) when exposed to Python. Rename one of them using 'ScriptName' meta-data (or 'ScriptMethod' or 'ScriptConstant' for extension functions).
+[2021.11.08-12.32.38:371][  0]LogUObjectArray: 25618 objects as part of root set at end of initial load.
+[2021.11.08-12.32.38:371][  0]LogUObjectAllocator: 7015472 out of 0 bytes used by permanent object pool.
+[2021.11.08-12.32.38:371][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.08-12.32.38:417][  0]LogClass: Display: ByteProperty FALoadingScreenSettings::PlaybackType is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2021.11.08-12.32.38:417][  0]LogClass: Display: StructProperty FTextAppearance::ShadowOffset is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: StructProperty FTextAppearance::ShadowColorAndOpacity is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: ByteProperty FTextAppearance::Justification is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: FloatProperty FTipSettings::TipWrapAt is not initialized properly. Module:AsyncLoadingScreen File:Public/LoadingScreenSettings.h
+[2021.11.08-12.32.38:418][  0]LogClass: Warning: ObjectProperty FConstructionSystemSaveConstructedItem::PrefabAsset is not initialized properly. Module:ConstructionSystemRuntime File:Public/Save/ConstructionSystemSaveGame.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FConstructionSystemSaveConstructedItem::Seed is not initialized properly. Module:ConstructionSystemRuntime File:Public/Save/ConstructionSystemSaveGame.h
+[2021.11.08-12.32.38:418][  0]LogClass: Warning: ObjectProperty FConstructionSystemUICategory::Icon is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:418][  0]LogClass: Warning: ObjectProperty FConstructionSystemUIPrefabEntry::Icon is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:418][  0]LogClass: Warning: ObjectProperty FConstructionSystemUIPrefabEntry::Prefab is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexCaptureGroup::CaptureGroupNumber is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexCaptureGroup.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexCaptureGroup::BeginIndex is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexCaptureGroup.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexCaptureGroup::EndIndex is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexCaptureGroup.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexMatch::MatchNumber is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexMatch.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexMatch::BeginIndex is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexMatch.h
+[2021.11.08-12.32.38:418][  0]LogClass: Display: IntProperty FLowEntryRegexMatch::EndIndex is not initialized properly. Module:LowEntryExtendedStandardLibrary File:Public/Classes/FLowEntryRegexMatch.h
+[2021.11.08-12.32.38:420][  0]LogClass: Display: BoolProperty FEBMaterialResponseMapEntry::NeverPenetrate is not initialized properly. Module:EasyBallistics File:Public/EBMaterialResponseMap.h
+[2021.11.08-12.32.38:420][  0]LogClass: Display: BoolProperty FEBMaterialResponseMapEntry::NeverRicochet is not initialized properly. Module:EasyBallistics File:Public/EBMaterialResponseMap.h
+[2021.11.08-12.32.38:420][  0]LogClass: Display: 18 Uninitialized script struct members found including 4 object properties
+[2021.11.08-12.32.38:420][  0]LogAutomationTest: Warning: ObjectProperty FConstructionSystemSaveConstructedItem::PrefabAsset is not initialized properly. Module:ConstructionSystemRuntime File:Public/Save/ConstructionSystemSaveGame.h
+[2021.11.08-12.32.38:420][  0]LogAutomationTest: Warning: ObjectProperty FConstructionSystemUICategory::Icon is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:420][  0]LogAutomationTest: Warning: ObjectProperty FConstructionSystemUIPrefabEntry::Icon is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:420][  0]LogAutomationTest: Warning: ObjectProperty FConstructionSystemUIPrefabEntry::Prefab is not initialized properly. Module:ConstructionSystemRuntime File:Public/ConstructionSystem/UI/ConstructionSystemUIAsset.h
+[2021.11.08-12.32.38:421][  0]LogEngine: Initializing Engine...
+[2021.11.08-12.32.38:423][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.08-12.32.38:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.08-12.32.38:423][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR_EXAMPLES/Blueprints/PAragonCountess/Data/ParagonGamePlayTags': Can't find file.
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR_EXAMPLES/Blueprints/PAragonCountess/Data/ParagonGamePlayTags': Can't find file.
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to find object 'DataTable /Game/AGR_EXAMPLES/Blueprints/PAragonCountess/Data/ParagonGamePlayTags.ParagonGamePlayTags'
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR_EXAMPLES/Blueprints/BuildSystem/DT_BuilderSystem': Can't find file.
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR_EXAMPLES/Blueprints/BuildSystem/DT_BuilderSystem': Can't find file.
+[2021.11.08-12.32.38:426][  0]LogUObjectGlobals: Warning: Failed to find object 'DataTable /Game/AGR_EXAMPLES/Blueprints/BuildSystem/DT_BuilderSystem.DT_BuilderSystem'
+[2021.11.08-12.32.38:426][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.11.08-12.32.38:514][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.08-12.32.38:514][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.08-12.32.38:517][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.08-12.32.38:518][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR/Audio/Ambientconcurency': Can't find file.
+[2021.11.08-12.32.38:518][  0]LogUObjectGlobals: Warning: Failed to load '/Game/AGR/Audio/Ambientconcurency': Can't find file.
+[2021.11.08-12.32.38:518][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AGR/Audio/Ambientconcurency.AmbientConcurency'
+[2021.11.08-12.32.38:518][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.08-12.32.38:518][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.08-12.32.38:519][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.08-12.32.38:519][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.08-12.32.38:519][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.08-12.32.38:519][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.08-12.32.38:519][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.08-12.32.38:519][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.08-12.32.38:524][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.08-12.32.38:524][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.08-12.32.38:528][  0]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.11.08-12.32.38:532][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.08-12.32.38:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.08-12.32.38:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.08-12.32.38:535][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.08-12.32.38:535][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.08-12.32.38:535][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.08-12.32.38:536][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.08-12.32.38:536][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.08-12.32.38:536][  0]LogInit: FAudioDevice initialized.
+[2021.11.08-12.32.38:537][  0]LogNetVersion: Set ProjectVersion to 0.011. Version Checksum will be recalculated on next use.
+[2021.11.08-12.32.38:542][  0]LogInit: Texture streaming: Enabled
+[2021.11.08-12.32.38:603][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.08-12.32.38:738][  0]LogInit: Error: Failed to load cursor 'G:/VibeCornerGames/SCP Infinity/Game/betterbeworkin/Content/Curser'
+[2021.11.08-12.32.38:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-12.32.38:739][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.08-12.32.38:740][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.11.08-12.32.38:806][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.08-12.32.38:807][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)
