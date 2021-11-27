@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME FP_FirstPersonBP
-#define UE_TARGET_NAME FP_FirstPersonBPEditor
+#define UE_PROJECT_NAME SCP_Infinity_Project
+#define UE_TARGET_NAME UE4Editor
 #define UE_MODULE_NAME "PowerIKTool"
 #define UE_PLUGIN_NAME "PowerIK"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

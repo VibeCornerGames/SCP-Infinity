@@ -6,7 +6,7 @@
 /NAME:"UE4Editor-UIWS.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.cpp.obj"
 "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Module.UIWS.gen.cpp.obj"
 "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\UIWS\Intermediate\Build\Win64\UE4Editor\Development\UIWS\Default.rc2.res"

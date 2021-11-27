@@ -30,16 +30,16 @@ D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGra
 D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
 D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK.h
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\string
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\xstring
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\iosfwd
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdio
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\cwchar
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\xmemory
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\limits
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\cfloat
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\isa_availability.h
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\cctype
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
 D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
@@ -54,7 +54,7 @@ D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKTool\Public\AnimGraphNode_PowerIK_Ground.h
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK_Ground.h
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKGround.h
-D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE\vector
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime\AnimNode_PowerIK_Ground.generated.h
 D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool\AnimGraphNode_PowerIK_Ground.generated.h
 D:/Code Projects/UE/Flux Entertainment/SCP-Infinity-Github3/Game/betterbeworkin/Plugins/PowerIK/Source/PowerIKTool/Private/AnimGraphNode_PowerIK_Walk.cpp

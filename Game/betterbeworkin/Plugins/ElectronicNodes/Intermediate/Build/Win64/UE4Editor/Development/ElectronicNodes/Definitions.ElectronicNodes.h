@@ -50,7 +50,7 @@
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME SCP_Infinity_Project
-#define UE_TARGET_NAME UE4Editor
+#define UE_TARGET_NAME SCP_Infinity_ProjectEditor
 #define UE_MODULE_NAME "ElectronicNodes"
 #define UE_PLUGIN_NAME "ElectronicNodes"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

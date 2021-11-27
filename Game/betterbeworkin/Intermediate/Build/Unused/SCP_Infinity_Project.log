@@ -1,0 +1,11 @@
+﻿  Creating makefile for SCP_Infinity_ProjectEditor (game project files are newer)
+UnrealBuildTool : warning : Couldn't parse '<<<<<<< Updated upstream' in UnrealBuildTool.ConfigFileSection of D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '>>>>>>> Stashed changes' in UnrealBuildTool.ConfigFileSection of D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Config\DefaultEngine.ini
+D:\Epic Games\UE_4.27\Engine\Plugins\Marketplace\ProductivityToolsLite\Source\ProductivityTools\ProductivityTools.Build.cs : warning : Referenced directory 'D:\Epic Games\UE_4.27\Engine\Source\ProductivityTools\Public' does not exist.
+  Building SCP_Infinity_ProjectEditor...
+  Using Visual Studio 2019 14.30.30705 toolchain (D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] Test.cpp
+D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Source\SCP_Infinity_Project\TesT\Test.cpp(4): fatal error C1083: Cannot open include file: 'TesT/Test.h': No such file or directory
+D:\Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""D:\Epic Games\UE_4.27\Engine\Build\BatchFiles\Build.bat" SCP_Infinity_ProjectEditor Win64 Development -Project="D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\SCP_Infinity_Project.uproject" -WaitMutex -FromMsBuild" exited with code 6.
