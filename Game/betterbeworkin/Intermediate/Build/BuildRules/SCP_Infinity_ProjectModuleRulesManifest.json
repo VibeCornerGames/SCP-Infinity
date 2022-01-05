@@ -1,13 +1,13 @@
 {
 	"SourceFiles": [
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project\\SCP_Infinity_Project.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\EasyBallistics\\Source\\EasyBallistics\\EasyBallistics.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\ElectronicNodes\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Plugins\\UIWS\\Source\\UIWS\\UIWS.Build.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project.Target.cs",
-		"D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Source\\SCP_Infinity_ProjectEditor.Target.cs"
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project\\SCP_Infinity_Project.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\EasyBallistics\\Source\\EasyBallistics\\EasyBallistics.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\ElectronicNodes\\Source\\ElectronicNodes\\ElectronicNodes.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Plugins\\UIWS\\Source\\UIWS\\UIWS.Build.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project.Target.cs",
+		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_ProjectEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.1"
+	"EngineVersion": "4.27.2"
 }
