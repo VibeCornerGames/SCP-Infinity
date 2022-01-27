@@ -28,11 +28,10 @@
 /we4458
 /we4459
 /wd4463
-/we4668
 /wd4244
 /wd4838
 /I .
-/I "D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Source"
+/I "D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -78,8 +77,6 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags
 /I Runtime\GameplayTags\Classes
 /I Runtime\GameplayTags\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings
-/I Runtime\DeveloperSettings\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler
 /I Runtime\PacketHandlers
 /I Runtime\PacketHandlers\PacketHandler\Classes
@@ -97,6 +94,8 @@
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore
 /I Runtime\PhysicsCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings
+/I Runtime\DeveloperSettings\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Chaos
 /I Runtime\Experimental
 /I Runtime\Experimental\Chaos\Public
@@ -255,18 +254,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "D:\Visual Studio\2022\Install\VC\Tools\MSVC\14.30.30705\INCLUDE"
+/I "D:\Visual Studio 2022\VC\Tools\MSVC\14.30.30705\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Source\SCP_Infinity_Project\SCP_Infinity_Project.cpp"
-/FI"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Definitions.SCP_Infinity_Project.h"
-/Fo"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\SCP_Infinity_Project.cpp.obj"
+/FI"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Source\SCP_Infinity_Project\SCP_Infinity_Project.cpp"
+/FI"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Definitions.SCP_Infinity_Project.h"
+/Fo"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\SCP_Infinity_Project.cpp.obj"
 /TP
 /GR-
 /W4

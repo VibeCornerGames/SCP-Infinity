@@ -1,0 +1,132 @@
+newmtl Part137Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00572403 0.0151304 0.0252411 
+
+d 1
+
+Ns 120
+
+newmtl Part284Mtl
+Material Color
+Ka 0.176774 0.242796 0.344026
+Kd 0.176774 0.242796 0.344026
+Ks 0.0263428 0.0361814 0.0512666 
+
+d 1
+
+Ns 22
+
+newmtl Part101Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.279845 0.276082 0.287455 
+
+d 1
+
+Ns 81
+
+newmtl Part102Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part102Tex.png
+map_Kd Part102Tex.png
+map_d Part102Tex.png
+
+newmtl Part78Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00206866 0.00206866 0.00206866 
+
+d 1
+
+Ns 120
+
+newmtl Part14Mtl
+Material Color
+Ka 0.891262 0.899385 0.899385
+Kd 0.891262 0.899385 0.899385
+Ks 0.667573 0.673657 0.673657 
+
+d 1
+
+Ns 81
+
+newmtl Part13Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00193683 0.00193683 0.00193683 
+
+d 1
+
+Ns 81
+
+newmtl Door2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Door2Tex.png
+map_Kd Door2Tex.png
+map_d Door2Tex.png
+
+newmtl Part5Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.112511 0.102752 0.110026 
+
+d 1
+
+Ns 160
+
+newmtl Part4Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0997928 0.0911368 0.0975886 
+
+d 1
+
+Ns 120
+
+newmtl Part79Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Part79Tex.png
+map_Kd Part79Tex.png
+map_d Part79Tex.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0934334 0.085329 0.0913697 
+
+d 1
+
+Ns 81
+

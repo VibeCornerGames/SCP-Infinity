@@ -6,8 +6,9 @@
 /NAME:"UE4Editor-SCP_Infinity_Project.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Test.cpp.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\SCP_Infinity_Project.cpp.obj"
-"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Default.rc2.res"
-/OUT:"D:\Code Projects\UE\Flux Entertainment\SCP-Infinity-Github3\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\UE4Editor-SCP_Infinity_Project.lib"
+"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\SCP_Infinity_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Test.cpp.obj"
+"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\SCP_Infinity_Project.cpp.obj"
+"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\Default.rc2.res"
+/OUT:"D:\Code Projects\UE\SCP-Infinity\Game\betterbeworkin\Intermediate\Build\Win64\UE4Editor\Development\SCP_Infinity_Project\UE4Editor-SCP_Infinity_Project.lib"
+/INCLUDE:IMPLEMENT_MODULE_SCP_Infinity_Project

@@ -1,0 +1,136 @@
+newmtl Door2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Door2Tex.png
+map_Kd Door2Tex.png
+map_d Door2Tex.png
+
+newmtl Part1470Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.112511 0.102752 0.110026 
+
+d 1
+
+Ns 160
+
+newmtl Part173Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00193683 0.00193683 0.00193683 
+
+d 1
+
+Ns 81
+
+newmtl Part172Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.685915 0.463408 0.0190036 
+
+d 1
+
+Ns 81
+
+newmtl Staringduck1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Staringduck1Tex.png
+map_Kd Staringduck1Tex.png
+map_d Staringduck1Tex.png
+
+newmtl Part104Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part104Tex.png
+map_Kd Part104Tex.png
+map_d Part104Tex.png
+
+newmtl Part87Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0997928 0.0911368 0.0975886 
+
+d 1
+
+Ns 120
+
+newmtl Part21Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.279845 0.276082 0.287455 
+
+d 1
+
+Ns 81
+
+newmtl Part15Mtl
+Material Color
+Ka 0.891262 0.899385 0.899385
+Kd 0.891262 0.899385 0.899385
+Ks 0.667573 0.673657 0.673657 
+
+d 1
+
+Ns 81
+
+newmtl Part5Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Part5Tex.png
+map_Kd Part5Tex.png
+map_d Part5Tex.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.827726 0.487765 0.293216
+Kd 0.827726 0.487765 0.293216
+Ks 0.619983 0.365346 0.219625 
+
+d 1
+
+Ns 81
+
+newmtl Wedge1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0934334 0.085329 0.0913697 
+
+d 1
+
+Ns 81
+

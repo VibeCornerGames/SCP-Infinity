@@ -32,21 +32,6 @@
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/power-ik"
 		},
 		{
-			"Name": "Prefabricator",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/39ccbbf668e84847890992df9922e355"
-		},
-		{
-			"Name": "ProductivityTools",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8beef99c4399462189d66689e2b48475"
-		},
-		{
-			"Name": "TimeClock",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
-		},
-		{
 			"Name": "GraphFormatter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"

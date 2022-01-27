@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SCP_Infinity_Project",
-			"Path": "D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project.Target.cs",
+			"Path": "D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SCP_Infinity_ProjectEditor",
-			"Path": "D:\\Code Projects\\UE\\Flux Entertainment\\SCP-Infinity-Github3\\Game\\betterbeworkin\\Source\\SCP_Infinity_ProjectEditor.Target.cs",
+			"Path": "D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_ProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

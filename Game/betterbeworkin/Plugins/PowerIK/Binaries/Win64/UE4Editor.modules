@@ -1,8 +1,0 @@
-{
-	"BuildId": "17155196",
-	"Modules": 
-	{
-		"PowerIKRuntime": "UE4Editor-PowerIKRuntime.dll",
-		"PowerIKTool": "UE4Editor-PowerIKTool.dll"
-	}
-}
