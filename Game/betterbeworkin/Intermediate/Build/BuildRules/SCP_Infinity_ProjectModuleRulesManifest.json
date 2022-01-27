@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project\\SCP_Infinity_Project.Build.cs",
-		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_Project.Target.cs",
-		"D:\\Code Projects\\UE\\SCP-Infinity\\Game\\betterbeworkin\\Source\\SCP_Infinity_ProjectEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}
