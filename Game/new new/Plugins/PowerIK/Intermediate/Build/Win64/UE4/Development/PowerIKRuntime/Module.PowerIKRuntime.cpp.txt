@@ -1,0 +1,399 @@
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Development\PowerIKRuntime\Definitions.PowerIKRuntime.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/AnimNode_PowerIK.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\Public\AnimNode_PowerIK.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/PowerIK_UnrealCore.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIK.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKMath.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\PowerIK_UnrealCore.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Animation/AnimInstanceProxy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AnimInstanceProxy.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKSettings.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/AnimNode_PowerIK_Ground.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\Public\AnimNode_PowerIK_Ground.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKGround.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK_Ground.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/AnimNode_PowerIK_Walk.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\Public\AnimNode_PowerIK_Walk.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK_Walk.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/PowerIK_UnrealCore.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs/RigBoneHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyDefines.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyPose.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyCache.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyPose.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigBoneHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Private/Collision/CollisionDebugDrawing.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysXIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ciso646
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iso646.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBitAndData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBounds3.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFlags.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundationVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIO.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat44.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec4.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMathUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxStrideIterator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxUnionCast.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec2.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxCoreUtilityTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysXCommonConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxRenderBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxSerialFramework.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxCollection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTolerancesScale.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxStringTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxMetaDataFlags.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysicsInsertionCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskDefine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxCpuDispatcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxGpuDispatcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\gpu/PxGpu.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysXConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaContextManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaMemoryManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxGpuCopyDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxBoxGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxCapsuleGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMeshGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshScale.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxSphereGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxPlaneGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxTriangleMeshGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxHeightFieldGeometry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryQuery.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryReport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldFlag.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldSample.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshQuery.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxSimpleTriangleMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangleMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxClient.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxAggregate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationLink.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidBody.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxShape.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxForceMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQuery.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQueryDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxFiltering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryFiltering.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraintDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContact.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContactModifyCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxDeletionListener.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxLockedData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxMaterial.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothFabric.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidDynamic.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidStatic.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVisualizationParameter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBroadPhase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationStatistics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBaseFlag.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleCreationData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleReadData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles\PxParticleFlag.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluidReadData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\pvd/PxPvdSceneClient.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneLock.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationEventCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSpatialIndex.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVolumeCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPruningStructure.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxBoxController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxExtended.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerObstacles.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCapsuleController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerBehavior.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxCloth.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothCollisionData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothParticleData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/Pxc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxConvexMeshDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxCooking.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxTriangleMeshDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxMidphaseDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH33MidphaseDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH34MidphaseDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultStreams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDistanceJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxExtensionsAPI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultAllocator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConstraintExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxFixedJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxPrismaticJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJointLimit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRevoluteJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSphericalJoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxD6Joint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultSimulationFilterShader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultErrorCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidActorExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidBodyExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxMassProperties.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxShapeExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxParticleExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxTriangleMeshExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSerialization.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultCpuDispatcher.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSmoothNormals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSimpleFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxStringTableExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothFabricCooker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxClothMeshDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBroadPhaseExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothMeshQuadifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSceneQueryExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConvexMeshExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBinaryConverter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSimpleType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleComponents.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle\PxVehicleSDK.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleWheels.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleShaders.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive4W.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveTank.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleTireFriction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUpdate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilControl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveNW.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilSetup.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilTelemetry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleNoDrive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvdTransport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxCollectionExt.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxImmediateMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\solver/PxSolverDefs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactPoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\collision/PxCollisionDefs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Apex.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexUsingNamespace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDefs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3\PhysXSDKVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RWLockable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDK.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf/PxFileBuf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvSerializer.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvParameterizedMacroses.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized_types.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterizedTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Shape.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Actor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Context.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexNameSpace.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysXObjectDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Renderable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreview.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Asset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreviewScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Scene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDebugInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebugTyped.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\MirrorScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDKCachedData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IProgressListener.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Module.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IosAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataFormat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderBufferData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBufferDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBuffer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\VertexFormat.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActorDesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceCallback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/ModuleDestructible.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsAPI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\ExplicitHierarchicalMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ConvexHullMethod.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ModuleClothing.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingAsset.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingCollision.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.inl
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/PowerIKRuntimeModule.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\Public\PowerIKRuntimeModule.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/Private/RigUnit_PowerIK.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\Public\RigUnit_PowerIK.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Units/RigUnit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\ControlRigDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs/RigHierarchyContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigSpaceHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigSpaceHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigControlHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\TransformNoScale.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimationCore\TransformNoScale.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\EulerTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimationCore\EulerTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigControlHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigCurveContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigCurveContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigInfluenceMap.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigInfluenceMap.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMExecuteContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMExternalVariable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMStatistics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMStatistics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMMemory.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMExecuteContext.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigDefines.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMPrototype.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigUnit.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\RigUnit_PowerIK.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Units/RigUnitContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\ControlRigLog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\AnimationDataSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimationCore\AnimationDataSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Drawing/ControlRigDrawInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math/Simulation/CRSimPointContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimPoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimPoint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimLinearSpring.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimLinearSpring.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimPointForce.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimPointForce.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimPointConstraint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimPointConstraint.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimSoftCollision.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math/ControlRigMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimSoftCollision.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Math\Simulation\CRSimContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\CRSimPointContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Drawing/ControlRigDrawInstruction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigDrawInstruction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Drawing/ControlRigDrawContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigDrawContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigDrawInterface.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIK.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime\sdk\include\PowerIKCore.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIKCore.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIKGround.cpp
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIKInit.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIKMath.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKRuntime/sdk/src/PowerIKSolve.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath

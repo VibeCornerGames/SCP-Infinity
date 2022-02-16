@@ -1,0 +1,66 @@
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Definitions.PowerIKTool.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKTool/Private/AnimGraphNode_PowerIK.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKTool\Public\AnimGraphNode_PowerIK.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_Base.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Editor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/EditorEngine.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Transactor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorViewportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Viewports.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorViewportSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PlayInEditorDataTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PlayInEditorDataTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Subsystems/ImportSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ImportSubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Classes\K2Node.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSignature.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_SkeletalControlBase.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/PowerIK_UnrealCore.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIK.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKMath.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime\PowerIK_UnrealCore.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime\AnimNode_PowerIK.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool\AnimGraphNode_PowerIK.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKTool/Private/AnimGraphNode_PowerIK_Ground.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKTool\Public\AnimGraphNode_PowerIK_Ground.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK_Ground.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKGround.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime\AnimNode_PowerIK_Ground.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool\AnimGraphNode_PowerIK_Ground.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKTool/Private/AnimGraphNode_PowerIK_Walk.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKTool\Public\AnimGraphNode_PowerIK_Walk.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK_Walk.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKRuntime\AnimNode_PowerIK_Walk.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Inc\PowerIKTool\AnimGraphNode_PowerIK_Walk.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Source/PowerIKTool/Private/PowerIKToolModule.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKTool\Public\PowerIKToolModule.h

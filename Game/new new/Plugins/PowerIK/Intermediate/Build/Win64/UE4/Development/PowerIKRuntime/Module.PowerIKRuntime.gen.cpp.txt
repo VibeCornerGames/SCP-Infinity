@@ -1,0 +1,80 @@
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Development\PowerIKRuntime\Definitions.PowerIKRuntime.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/AnimNode_PowerIK.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputScaleBias.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/PowerIK_UnrealCore.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIK.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKMath.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\PowerIK_UnrealCore.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/AnimNode_PowerIK_Ground.gen.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK_Ground.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/sdk/include/PowerIKGround.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK_Ground.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/AnimNode_PowerIK_Walk.gen.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/AnimNode_PowerIK_Walk.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\AnimNode_PowerIK_Walk.generated.h
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/PowerIK_UnrealCore.gen.cpp
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/PowerIKRuntime.init.gen.cpp
+C:/Users/alexander/Mirror/Cascade Framework/Plugins/PowerIK/Intermediate/Build/Win64/UE4/Inc/PowerIKRuntime/RigUnit_PowerIK.gen.cpp
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Source\PowerIKRuntime/Public/RigUnit_PowerIK.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Units/RigUnit.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\ControlRigDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs/RigHierarchyContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyDefines.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyDefines.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyPose.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigHierarchyCache.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyCache.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyPose.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigBoneHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigBoneHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigSpaceHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigSpaceHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigControlHierarchy.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\TransformNoScale.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimationCore\TransformNoScale.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AnimationCore\Public\EulerTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\AnimationCore\EulerTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigControlHierarchy.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigCurveContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigCurveContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\Rigs\RigInfluenceMap.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigInfluenceMap.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigHierarchyContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMExecuteContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMExternalVariable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMStatistics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMStatistics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMMemory.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMExecuteContext.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\ControlRigDefines.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMStruct.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore/RigVMRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RigVM\Public\RigVMCore\RigVMPrototype.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\RigVM\RigVMStruct.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4\Inc\ControlRig\RigUnit.generated.h
+C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4\Inc\PowerIKRuntime\RigUnit_PowerIK.generated.h

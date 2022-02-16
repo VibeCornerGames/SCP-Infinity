@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PowerIKRuntime.cpp.obj": [
+			"AnimNode_PowerIK.cpp.obj",
+			"AnimNode_PowerIK_Ground.cpp.obj",
+			"AnimNode_PowerIK_Walk.cpp.obj",
+			"PowerIK_UnrealCore.cpp.obj",
+			"PowerIKRuntimeModule.cpp.obj",
+			"RigUnit_PowerIK.cpp.obj",
+			"PowerIK.cpp.obj",
+			"PowerIKCore.cpp.obj",
+			"PowerIKGround.cpp.obj",
+			"PowerIKInit.cpp.obj",
+			"PowerIKMath.cpp.obj",
+			"PowerIKSolve.cpp.obj"
+		],
+		"Module.PowerIKRuntime.gen.cpp.obj": [
+			"AnimNode_PowerIK.gen.cpp.obj",
+			"AnimNode_PowerIK_Ground.gen.cpp.obj",
+			"AnimNode_PowerIK_Walk.gen.cpp.obj",
+			"PowerIK_UnrealCore.gen.cpp.obj",
+			"PowerIKRuntime.init.gen.cpp.obj",
+			"RigUnit_PowerIK.gen.cpp.obj"
+		]
+	}
+}

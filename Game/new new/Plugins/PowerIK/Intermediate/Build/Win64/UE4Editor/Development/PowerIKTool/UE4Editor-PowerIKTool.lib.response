@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PowerIKTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alexander\Mirror\Cascade Framework\Intermediate\Build\Win64\FrameworkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.cpp.obj"
+"C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Module.PowerIKTool.gen.cpp.obj"
+"C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\Default.rc2.res"
+/OUT:"C:\Users\alexander\Mirror\Cascade Framework\Plugins\PowerIK\Intermediate\Build\Win64\UE4Editor\Development\PowerIKTool\UE4Editor-PowerIKTool.lib"
