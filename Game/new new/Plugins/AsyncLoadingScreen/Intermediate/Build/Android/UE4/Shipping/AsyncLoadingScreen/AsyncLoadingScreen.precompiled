@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.AsyncLoadingScreen.cppa7.o",
+		"Module.AsyncLoadingScreen.cppa8.o",
+		"Module.AsyncLoadingScreen.gen.cppa7.o",
+		"Module.AsyncLoadingScreen.gen.cppa8.o"
+	]
+}

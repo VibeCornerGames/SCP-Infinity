@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.UIWS.cppa7.o",
+		"Module.UIWS.cppa8.o",
+		"Module.UIWS.gen.cppa7.o",
+		"Module.UIWS.gen.cppa8.o"
+	]
+}
