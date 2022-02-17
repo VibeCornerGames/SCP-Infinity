@@ -1,3 +1,18 @@
+Version 0.017 (Back on track)
+!IMPORTANT! You no longer need to install plugins, they included in the project now
+
+Changes	
+	* [New] 
+
+Fixes
+	* [Fix] Fixed wrong camera shake when crouching 
+	* [Fix] You can no longer ads zoom when sprinting
+	* [Fix] Ads sounds doesnt play anymore when sprinting
+
+Performance
+	* [New] Slightly optimised CameraShake performance
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Verison 0.016 (Animations/Barrel smoke/AI)(16/10/2021)
 
 New Features
